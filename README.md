@@ -34,7 +34,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - [Knowledge-based Question Answering](http://history.ccf.org.cn/nianduneirong.jsp-contentId=2836201101298.htm). CCF ADL-55, 2014-12-29.
 
 
-### Publications
+### Publication
 
 - 段楠，周明. 《智能问答》. 高等教育出版社，2018.
 - 周明，段楠，刘树杰，吴俣. 《人工智能导论 - 第11章：自然语言处理》. 中国科学技术出版社，2018.
