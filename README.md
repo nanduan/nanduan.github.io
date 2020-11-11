@@ -131,11 +131,11 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Datasets
 
-- CodeXGLUE (https://github.com/microsoft/CodeXGLUE): a benchmark dataset for code intelligence.
-- XGLUE (https://github.com/microsoft/XGLUE): a benchmark dataset for multilingual NLP tasks.
-- MSParS (https://github.com/msra-nlc/MSParS): a benchmark dataset for open domain semantic parsing.
-- WebAsserstions (https://github.com/msra-nlc/WebAssertions): a benchmark dataset for question-aware open IE.
-- NLPCC-KBQA (https://github.com/msra-nlc/ChineseKBQA): an open domain knowledge-based QA dataset in Chinese.
-- NLPCC-DBQA (https://github.com/msra-nlc/ChineseDBQA): an open domain document-based QA dataset in Chinese.
-- Table2Text (https://github.com/msra-nlc/Table2Text): a table-to-text generation dataset.
+- [CodeXGLUE](https://github.com/microsoft/CodeXGLUE): a benchmark dataset for code intelligence.
+- [XGLUE](https://github.com/microsoft/XGLUE): a benchmark dataset for multilingual NLP tasks.
+- [MSParS](https://github.com/msra-nlc/MSParS): a benchmark dataset for open domain semantic parsing.
+- [WebAsserstions](https://github.com/msra-nlc/WebAssertions): a benchmark dataset for question-aware open IE.
+- [NLPCC-KBQA](https://github.com/msra-nlc/ChineseKBQA): an open domain knowledge-based QA dataset in Chinese.
+- [NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA): an open domain document-based QA dataset in Chinese.
+- [Table2Text](https://github.com/msra-nlc/Table2Text): a table-to-text generation dataset.
 
