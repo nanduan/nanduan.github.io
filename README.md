@@ -4,7 +4,21 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 段楠博士，现任微软亚洲研究院高级研究员/研究经理，天津大学兼职教授，主要从事智能问答、语义分析、多语言多模态预训练、代码智能和机器推理等研究，中国计算机学会(CCF)学术工委会委员、自然语言处理专委会委员，EMNLP/CCF-ADL/CIPS-ATT Tutorial讲者，曾任NLPCC评测主席、NAACL/IJCAI领域主席，CCF杰出讲演者，CCF-NLPCC青年科学家奖，发布XGLUE、CodeXGLUE、NLPCC-KBQA/DBQA/MSParS等开源学术数据集，著有《智能问答》(高等教育出版社，2018)，发表学术论文90余篇，持有专利10余项，多项研究成果用于微软各类人工智能产品。
 
-### Talks
+### Highlight
+
+- 2020-10-20: [ProphetNet](https://huggingface.co/transformers/model_doc/prophetnet.html) in Hugging Face.
+- 2020-09-30: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) is released.
+- 2020-08-31. Adjunct Professor at Tianjin University (from 2020-09 to 2022-09).
+- 2020-05-28: [XGLUE](https://microsoft.github.io/XGLUE/) is released.
+- 2019-11-20: [Unicoder](https://arxiv.org/abs/1909.00964) and [Unicoder-VL](https://arxiv.org/abs/1908.06066) were reviewed by Bill Gates.
+- 2019-10-14: CCF-NLPCC Distinguished Young Scientist, 2019.
+- 2018-12-07: Project Semantic Parsing was reviewed by Bill Gates.
+- 2018-11-08: Project Video Intelligence was reviewed by Bill Gates on MSRA's 20th Anniversary.
+- 2018-09-10: 《智能问答》was published by the Higher Education Press.
+- 2017-12-31: CCF Distinguished Speaker.
+
+
+### Talk
 
 - [Machine Reasoning: Technology, Dilemma and Future](https://2020.emnlp.org/tutorials). EMNLP, 2020-11-19.
 - [Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://dl.ccf.org.cn/audioVideoZx/detail.html?_ack=1&id=5149819289667584). CNCC, 2020-10-23。
