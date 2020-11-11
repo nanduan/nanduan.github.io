@@ -1,12 +1,26 @@
 ## Nan DUAN
 
+Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft Research Asia. He is also an adjunct professor at Tianjin University. His research interests include question answering, semantic parsing, multilingual/multimodal pre-training, code intelligence and machine reasoning. He is the member of CCF Committee on Academic Affairs and CCF Technical Committee of NLP. He gave tutorials on EMNLP/CCF-ADL/CIPS-ATT. He served as evaluation chair of NLPCC and area chairs of NAACL/IJCAI. He is the CCF Distinguished Speaker. He was awarded the CCF-NLPCC Distinguished Young Scientist in 2019. He leads the benchmark dataset efforts including XGLUE, CodeXGLUE, NLPCC-KBQA/DBQA/MSParS. His book “Question Answering” was published by the Higher Education Press in 2018. He published 90+ research papers and holds 10+ patents. His research has been applied in many Microsoft products.
 
-Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft Research Asia. He is also an adjunct professor at Tianjin University. His research interests include question answering, semantic parsing, multilingual/multimodal pre-training, code intelligence and machine reasoning. He is the member of CCF Committee on Academic Affairs and CCF Technical Committee of NLP. He gave tutorials on EMNLP/CCF-ADL. He served as evaluation chair of NLPCC and area chairs of NAACL/IJCAI. He is the CCF Distinguished Speaker. He was awarded the CCF-NLPCC Distinguished Young Scientist in 2019. He leads the benchmark dataset efforts including XGLUE, CodeXGLUE, NLPCC-KBQA/DBQA. His book “Question Answering” was published by the Higher Education Press in 2018. He published 90+ research papers and holds 10+ patents. His research has been applied in many Microsoft products.
+段楠博士，现任微软亚洲研究院高级研究员/研究经理，天津大学兼职教授，主要从事智能问答、语义分析、多语言多模态预训练、代码智能和机器推理等研究，中国计算机学会(CCF)学术工委会委员、自然语言处理专委会委员，EMNLP/CCF-ADL/CIPS-ATT Tutorial讲者，曾任NLPCC评测主席、NAACL/IJCAI领域主席，CCF杰出讲演者，CCF-NLPCC青年科学家奖，发布XGLUE、CodeXGLUE、NLPCC-KBQA/DBQA/MSParS等开源学术数据集，著有《智能问答》(高等教育出版社，2018)，发表学术论文90余篇，持有专利10余项，多项研究成果用于微软各类人工智能产品。
 
-段楠博士，现任微软亚洲研究院高级研究员/研究经理，天津大学兼职教授，主要从事智能问答、语义分析、多语言多模态预训练、代码智能和机器推理等研究，中国计算机学会(CCF)学术工委会委员、自然语言处理专委会委员，EMNLP/CCF-ADL Tutorial讲者，曾任NLPCC评测主席、NAACL/IJCAI领域主席，CCF杰出讲演者，CCF-NLPCC青年科学家奖，发布XGLUE、CodeXGLUE、NLPCC-KBQA/DBQA等开源学术数据集，著有《智能问答》(高等教育出版社，2018)，发表学术论文90余篇，持有专利10余项，多项研究成果用于微软各类人工智能产品。
+### Talks
+
+- [Machine Reasoning: Technology, Dilemma and Future](https://2020.emnlp.org/tutorials). EMNLP, 2020-11-19.
+- [Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://dl.ccf.org.cn/audioVideoZx/detail.html?_ack=1&id=5149819289667584). CNCC, 2020-10-23。
+- [Multilingual/Multimodal Pre-training](http://tcci.ccf.org.cn/conference/2020/MMNLP.php). NLPCC Multimodal NLP Workshop, 2020-10-16.
+- [Machine Reasoning: Combining Knowledge and Pre-trained Models for Better NLU](http://tcci.ccf.org.cn/conference/2019/tworkshop.php). NLPCC Technical Workshop, 2019-10-12.
+- [Pre-training for Cross-task, Cross-lingual and Cross-modal Applications](https://www.ccf.org.cn/c/2019-08-20/668185.shtml). CCF Tech Frontier-21, 2019-08-31.
+- [When Language Meets Vision: Multi-modal NLP with Visual Contents](http://tcci.ccf.org.cn/summit/2019/duannan.php). Language & Intelligence Summit, 2019-08-24.
+- [Question Answering with Heterogeneous Data](http://conference.cipsc.org.cn/ssatt2019). CIPS-ATT, 2019-07-14.
+- [Pre-training in NLP and Multi-modal Learning](http://news.bnu.edu.cn/zx/xzdt/109189.htm). SMP 1st Social Bot Forum, 2019-04-27.
+- [Knowledge-enhanced NLP: Progress and Challenge](http://tcci.ccf.org.cn/conference/2018/tworkshop.php#tws). NLPCC Technical Workshops, 2018-08-30.
+- [Latest Progress of Question Answering](https://www.ccf.org.cn/c/2017-11-30/620142.shtml). CCF Tech Frontier-04, 2017-11-30.
+- [Building Informational Bot (InfoBot) with Question Answering & Generation](http://tcci.ccf.org.cn/conference/2017/adllecturers.php). CCF ADL-86, 2017-11-08.
+- [Knowledge-based Question Answering](http://history.ccf.org.cn/nianduneirong.jsp-contentId=2836201101298.htm). CCF ADL-55, 2014-12-29.
 
 
-### Publication
+### Publications
 
 - 段楠，周明. 《智能问答》. 高等教育出版社，2018.
 - 周明，段楠，刘树杰，吴俣. 《人工智能导论 - 第11章：自然语言处理》. 中国科学技术出版社，2018.
@@ -100,3 +114,28 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Mu Li, Nan Duan, Dongdong Zhang, Chi-Ho Li, Ming Zhou. Collaborative Decoding: Partial Hypothesis Re-ranking using Translation Consensus between Decoders. ACL, 2009.
 - Dongdong Zhang, Chi-Ho Li, Nan Duan, Shujie Liu, Mu Li, Ming Zhou. MSRA Technical Report for the 5th China Workshop on Machine Translation. in CWMT, 2009.
 - Dongdong Zhang, Mu Li, Nan Duan, Chi-Ho Li, Ming Zhou. Measure Word Generation for English-Chinese SMT Systems. ACL, 2008.
+
+### Patents
+
+- An Enhanced Knowledge Injection Model for Dynamic Content Generation, 2020.
+- A Looking Ahead Strategy for Trie-based Beam Search in Generative Retrieval, 2020.
+- DMAN: Unifying SAN and FFN in Transformer for Sematic Textual Similarity, 2020.
+- Fact Checking with Graph-based Machine Reasoning, 2019.
+- Cross-lingual Question Answering for Search Engine, 2019.
+- Controllable Text Style Transfer, 2019.
+- Video Chat, 2018.
+- Conversational Question Answering Over a Large-Scale Knowledge Base, 2018.
+- Assertion-based Question Answering with Question-Aware Open Information Extraction, 2017.
+- Table-to-Text Generation with Neural Networks, 2017.
+- Document-based Chat (DocChat), 2016.
+
+### Datasets
+
+- CodeXGLUE (https://github.com/microsoft/CodeXGLUE): a benchmark dataset for code intelligence.
+- XGLUE (https://github.com/microsoft/XGLUE): a benchmark dataset for multilingual NLP tasks.
+- MSParS (https://github.com/msra-nlc/MSParS): a benchmark dataset for open domain semantic parsing.
+- WebAsserstions (https://github.com/msra-nlc/WebAssertions): a benchmark dataset for question-aware open IE.
+- NLPCC-KBQA (https://github.com/msra-nlc/ChineseKBQA): an open domain knowledge-based QA dataset in Chinese.
+- NLPCC-DBQA (https://github.com/msra-nlc/ChineseDBQA): an open domain document-based QA dataset in Chinese.
+- Table2Text (https://github.com/msra-nlc/Table2Text): a table-to-text generation dataset.
+
