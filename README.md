@@ -129,7 +129,26 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Dongdong Zhang, Chi-Ho Li, Nan Duan, Shujie Liu, Mu Li, Ming Zhou. MSRA Technical Report for the 5th China Workshop on Machine Translation. in CWMT, 2009.
 - Dongdong Zhang, Mu Li, Nan Duan, Chi-Ho Li, Ming Zhou. Measure Word Generation for English-Chinese SMT Systems. ACL, 2008.
 
-### Patents
+### Academic Activity
+
+- Member of CCF Committee on Academic Affairs, 2020-present.
+- Member of CCF Technical Committee of NLP, 2018-present.
+- Secretary of CCF Committee on Terminology, 2016-2018.
+- NLPCC Evaluation Co-Chair, 2018/2019.
+- Area Chair of NAACL/IJCAI.
+- Program committee & reviewer of TACL/ACL/EMNLP/NAACL/COLING/NeurIPS/ICLR/CVPR/AAAI/IJCAI/etc.
+
+### Lecture (2017-present)
+
+- Peking University
+- Tsinghua University
+- Tianjin University
+- Nankai University
+- Chinese Academy of Sciences
+- Xi’an Jiaotong University
+- Nanjing University of Aeronautics and Astronautics
+
+### Patent
 
 - An Enhanced Knowledge Injection Model for Dynamic Content Generation, 2020.
 - A Looking Ahead Strategy for Trie-based Beam Search in Generative Retrieval, 2020.
@@ -143,7 +162,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Table-to-Text Generation with Neural Networks, 2017.
 - Document-based Chat (DocChat), 2016.
 
-### Datasets
+### Dataset
 
 - [CodeXGLUE](https://github.com/microsoft/CodeXGLUE): a benchmark dataset for code intelligence.
 - [XGLUE](https://github.com/microsoft/XGLUE): a benchmark dataset for multilingual NLP tasks.
