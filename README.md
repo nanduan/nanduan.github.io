@@ -6,7 +6,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Highlight
 
-- 2020-11-19: [EMNLP 2020 Tutorial](https://2020.emnlp.org/tutorials) "Machine Reasoning: Technology, Dilemma and Future".
+- 2020-11-19: [EMNLP 2020 Tutorial](https://slideslive.com/38940827/t4-machine-reasoning-technology-dilemma-and-future) "Machine Reasoning: Technology, Dilemma and Future".
 - 2020-10-20: [ProphetNet](https://huggingface.co/transformers/model_doc/prophetnet.html) in Hugging Face.
 - 2020-09-30: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) is released.
 - 2020-08-31. Adjunct Professor at Tianjin University (from 2020-09 to 2022-09).
