@@ -6,6 +6,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Highlight
 
+- 2020-11-27: [GLGE](https://github.com/microsoft/glge) is released.
 - 2020-11-19: [EMNLP 2020 Tutorial](https://slideslive.com/38940827/t4-machine-reasoning-technology-dilemma-and-future) "Machine Reasoning: Technology, Dilemma and Future".
 - 2020-10-20: [ProphetNet](https://huggingface.co/transformers/model_doc/prophetnet.html) in Hugging Face.
 - 2020-09-30: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) is released.
@@ -40,6 +41,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 - 段楠，周明. 《智能问答》. 高等教育出版社，2018.
 - 周明，段楠，刘树杰，吴俣. 《人工智能导论 - 第11章：自然语言处理》. 中国科学技术出版社，2018.
+- Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan. GLGE: A New General Language Generation Evaluation Benchmark. arXiv, 2020.
 - Frank F. Xu, Lei Ji, Botian Shi, Junyi Du, Graham Neubig, Yonatan Bisk, Nan Duan. A Benchmark for Structured Procedural Knowledge Extraction from Cooking Videos. NLPBT, 2020.
 - Zhihao Fan, Yeyun Gong, Zhongyu Wei, Siyuan Wang, Yameng Huang, Jian Jiao, Xuanjing Huang, Nan Duan, Ruofei Zhang. An Enhanced Knowledge Injection Model for Commonsense Generation. COLING, 2020.
 - Bo Shao, Yeyun Gong, Weizhen Qi, Nan Duan, Xiaola Lin. Multi-level Alignment Pretraining for Multi-lingual Semantic Parsing. COLING, 2020.
@@ -166,6 +168,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Dataset
 
+- [GLGE](https://github.com/microsoft/glge): a benchmark dataset for natural language generation.
 - [CodeXGLUE](https://github.com/microsoft/CodeXGLUE): a benchmark dataset for code intelligence.
 - [XGLUE](https://github.com/microsoft/XGLUE): a benchmark dataset for multilingual NLP tasks.
 - [MSParS](https://github.com/msra-nlc/MSParS): a benchmark dataset for open domain semantic parsing.
