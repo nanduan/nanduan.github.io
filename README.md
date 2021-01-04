@@ -42,6 +42,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 - 段楠，周明. 《智能问答》. 高等教育出版社，2018.
 - 周明，段楠，刘树杰，吴俣. 《人工智能导论 - 第11章：自然语言处理》. 中国科学技术出版社，2018.
+- Weizhen Qi, Yeyun Gong, Jian Jiao, Yu Yan, Dayiheng Liu, Weizhu Chen, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan. BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining. arXiv, 2021.
 - Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan. GLGE: A New General Language Generation Evaluation Benchmark. arXiv, 2020.
 - Frank F. Xu, Lei Ji, Botian Shi, Junyi Du, Graham Neubig, Yonatan Bisk, Nan Duan. A Benchmark for Structured Procedural Knowledge Extraction from Cooking Videos. NLPBT, 2020.
 - Zhihao Fan, Yeyun Gong, Zhongyu Wei, Siyuan Wang, Yameng Huang, Jian Jiao, Xuanjing Huang, Nan Duan, Ruofei Zhang. An Enhanced Knowledge Injection Model for Commonsense Generation. COLING, 2020.
@@ -150,6 +151,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Tianjin University
 - Nankai University
 - Chinese Academy of Sciences
+- Beijing University of Aeronautics and Astronautics
 - Xi’an Jiaotong University
 - Nanjing University of Aeronautics and Astronautics
 
