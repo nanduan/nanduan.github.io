@@ -6,7 +6,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Highlight
 
-- 2021-01-14: PoolingFormer achieves SOTA results on [NQ leaderboard](https://ai.google.com/research/NaturalQuestions) and [TyDi leaderboard](https://ai.google.com/research/tydiqa).
+- 2021-01-14: PoolingFormer achieves SOTA results on both [NQ leaderboard](https://ai.google.com/research/NaturalQuestions) and [TyDi leaderboard](https://ai.google.com/research/tydiqa).
 - 2020-12-03: [XGLUE](https://huggingface.co/datasets/xglue) in Hugging Face.
 - 2020-11-27: [GLGE](https://github.com/microsoft/glge) is released.
 - 2020-11-19: [EMNLP 2020 Tutorial](https://slideslive.com/38940827/t4-machine-reasoning-technology-dilemma-and-future) "Machine Reasoning: Technology, Dilemma and Future".
