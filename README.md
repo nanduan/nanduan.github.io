@@ -43,9 +43,10 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 - 段楠，周明. 《智能问答》. 高等教育出版社，2018.
 - 周明，段楠，刘树杰，吴俣. 《人工智能导论 - 第11章：自然语言处理》. 中国科学技术出版社，2018.
-- Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu. CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation. arXiv, 2021.
+- Minheng Ni, Haoyang Huang, Lin Su, Edward Cui, Taroon Bharti, Lijuan Wang, Jianfeng Gao, Dongdong Zhang, Nan Duan. M^3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training. CVPR, 2021.
 - Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou. GraphCodeBERT: Pre-training Code Representations with Data Flow. ICLR, 2021.
 - Weizhen Qi, Yeyun Gong, Jian Jiao, Yu Yan, Dayiheng Liu, Weizhu Chen, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan. BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining. arXiv, 2021.
+- Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu. CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation. arXiv, 2021.
 - Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan. GLGE: A New General Language Generation Evaluation Benchmark. arXiv, 2020.
 - Frank F. Xu, Lei Ji, Botian Shi, Junyi Du, Graham Neubig, Yonatan Bisk, Nan Duan. A Benchmark for Structured Procedural Knowledge Extraction from Cooking Videos. NLPBT, 2020.
 - Zhihao Fan, Yeyun Gong, Zhongyu Wei, Siyuan Wang, Yameng Huang, Jian Jiao, Xuanjing Huang, Nan Duan, Ruofei Zhang. An Enhanced Knowledge Injection Model for Commonsense Generation. COLING, 2020.
@@ -60,7 +61,6 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Ruize Wang, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou. Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. EMNLP, 2020.
 - Xuguang Wang, Linjun Shou, Ming Gong, Nan Duan, Daxin Jiang. No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension. EMNLP, 2020.
 - Weizhen Qi, Yeyun Gong, Yu Yan, Jian Jiao, Bo Shao, Ruofei Zhang, Houqiang Li, Nan Duan and Ming Zhou. ProphetNet-Ads: A Looking Ahead Strategy for Generative Retrieval Models in Sponsored Search Engine. NLPCC, 2020.
-- Haoyang Huang, Lin Su, Di Qi, Nan Duan, Edward Cui, Taroon Bharti, Lei Zhang, Lijuan Wang, Jianfeng Gao, Bei Liu, Jianlong Fu, Dongdong Zhang, Xin Liu, Ming Zhou. M^3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training. arXiv, 2020.
 - Botian Shi, Lei Ji, Zhendong Niu, Nan Duan, Ming Zhou, Xilin Chen. Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning. ACM MM, 2020.
 - Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Nan Duan. RikiNet: Reading Wikipedia Pages for Natural Question Answering. ACL, 2020.
 - Bo Zheng, Haoyang Wen, Yaobo Liang, Nan Duan, Wanxiang Che, Daxin Jiang, Ming Zhou, Ting Liu. Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension. ACL, 2020.
