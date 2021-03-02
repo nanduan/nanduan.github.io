@@ -24,12 +24,12 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Our Recent Work on Pre-training Research
 
-- Monolingual Pre-training: ProphetNet ([EMNLP 2020](https://arxiv.org/abs/2001.04063)); BANG (under review); PoolingFormer (under review)
-- Multilingual Pre-training: Unicoder ([EMNLP 2019](https://arxiv.org/abs/1909.00964))
-- Image-Language Pre-training: Unicoder-VL ([AAAI 2020](https://arxiv.org/abs/1908.06066)); M^3P ([CVPR 2021](https://arxiv.org/abs/2006.02635))
-- Video-Language Pre-training: UniVL (under review)
-- Code-Language Pre-training: CodeBERT ([EMNLP 2020](https://arxiv.org/abs/2002.08155)); GraphCodeBERT ([ICLR 2021](https://arxiv.org/abs/2009.08366))
-- Benchmark Dataset: XGLUE ([EMNLP 2020](https://arxiv.org/abs/2004.01401)); CodeXGLUE (under review); GEM (under review)
+- Monolingual Pre-training: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [BANG](https://arxiv.org/abs/2012.15525) (under review); PoolingFormer (under review)
+- Multilingual Pre-training: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2020)
+- Image-Language Pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020); [M^3P](https://arxiv.org/abs/2006.02635) (CVPR 2021)
+- Video-Language Pre-training: [UniVL](https://arxiv.org/abs/2002.06353) (under review)
+- Code-Language Pre-training: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020); [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021)
+- Benchmark Dataset: [XGLUE](https://arxiv.org/abs/2004.01401) (EMNLP 2020); [CodeXGLUE](https://arxiv.org/abs/2102.04664) (under review); GEM (under review)
 
 ### Tutorial/Invited Talk
 
