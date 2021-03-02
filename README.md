@@ -24,12 +24,12 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Our Recent Work on Pre-training Research
 
-- Monolingual Pre-training: ProphetNet ([EMNLP 2020](https://arxiv.org/abs/2001.04063))
+- Monolingual Pre-training: ProphetNet ([EMNLP 2020](https://arxiv.org/abs/2001.04063)); BANG (under review); PoolingFormer (under review)
 - Multilingual Pre-training: Unicoder ([EMNLP 2019](https://arxiv.org/abs/1909.00964))
 - Image-Language Pre-training: Unicoder-VL ([AAAI 2020](https://arxiv.org/abs/1908.06066)); M^3P ([CVPR 2021](https://arxiv.org/abs/2006.02635))
-- Video-Language Pre-training: UniVL ([under review](https://arxiv.org/abs/2002.06353))
+- Video-Language Pre-training: UniVL (under review)
 - Code-Language Pre-training: CodeBERT ([EMNLP 2020](https://arxiv.org/abs/2002.08155)); GraphCodeBERT ([ICLR 2021](https://arxiv.org/abs/2009.08366))
-- Benchmark Dataset: XGLUE ([EMNLP 2020](https://arxiv.org/abs/2004.01401)); CodeXGLUE ([under review]); GEM ([under review])
+- Benchmark Dataset: XGLUE ([EMNLP 2020](https://arxiv.org/abs/2004.01401)); CodeXGLUE (under review); GEM (under review)
 
 ### Tutorial/Invited Talk
 
