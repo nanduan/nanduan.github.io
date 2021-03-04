@@ -6,7 +6,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Highlight
 
-- 2021-03: [GAN-based Document QA](https://www.microsoft.com/en-us/research/blog/the-science-behind-semantic-search-how-ai-from-bing-is-powering-azure-cognitive-search/) in Azure Cognitive Search.
+- 2021-03: [Graph Attention Network-based Document QA](https://www.microsoft.com/en-us/research/blog/the-science-behind-semantic-search-how-ai-from-bing-is-powering-azure-cognitive-search/) in Azure Cognitive Search.
 - 2021-01: PoolingFormer achieves SOTA results on [NQ](https://ai.google.com/research/NaturalQuestions) and [TyDi](https://ai.google.com/research/tydiqa) leaderboards.
 - 2020-11: [GLGE](https://github.com/microsoft/glge) is released for NLG research.
 - 2020-11: [EMNLP 2020 Tutorial](https://slideslive.com/38940827/t4-machine-reasoning-technology-dilemma-and-future) "Machine Reasoning: Technology, Dilemma and Future".
