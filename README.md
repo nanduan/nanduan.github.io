@@ -157,7 +157,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Member of CCF Committee on Academic Affairs, 2020-present.
 - Member of CCF Technical Committee of NLP, 2018-present.
 - Secretary of CCF Committee on Terminology, 2016-2018.
-- 
+
 ### Lecture (2017-present)
 
 - Peking University
