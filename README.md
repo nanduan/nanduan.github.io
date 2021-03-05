@@ -170,6 +170,8 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 ### Patent
 
 - System and Method for Accelerating Generation in Attention-based Neural Network, 2021.
+- Interpretable Bug Detection for Codes with Structural Attention Constraints, 2021.
+- BARNAR: Bridging Autoregressive and Non-Autoregressive Generation for Effective and Efficient Generative Retrieval, 2020.
 - An Enhanced Knowledge Injection Model for Dynamic Content Generation, 2020.
 - A Looking Ahead Strategy for Trie-based Beam Search in Generative Retrieval, 2020.
 - DMAN: Unifying SAN and FFN in Transformer for Sematic Textual Similarity, 2020.
