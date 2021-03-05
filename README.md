@@ -35,7 +35,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 - [Multilingual Multimodal Pre-training](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20201001&CpPage=94#CONF). Korean Artificial Intelligence Association, 2020-11-20.
 - [Machine Reasoning: Technology, Dilemma and Future](https://2020.emnlp.org/tutorials). EMNLP, 2020-11-19.
-- [Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://dl.ccf.org.cn/audioVideoZx/detail.html?_ack=1&id=5149819289667584). CNCC, 2020-10-23。
+- [Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://dl.ccf.org.cn/audioVideoZx/detail.html?_ack=1&id=5149819289667584). CNCC, 2020-10-23.
 - [Multilingual/Multimodal Pre-training](http://tcci.ccf.org.cn/conference/2020/MMNLP.php). NLPCC Multimodal NLP Workshop, 2020-10-16.
 - [Machine Reasoning: Combining Knowledge and Pre-trained Models for Better NLU](http://tcci.ccf.org.cn/conference/2019/tworkshop.php). NLPCC Technical Workshop, 2019-10-12.
 - [Pre-training for Cross-task, Cross-lingual and Cross-modal Applications](https://www.ccf.org.cn/c/2019-08-20/668185.shtml). CCF Tech Frontier-21, 2019-08-31.
