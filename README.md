@@ -150,13 +150,14 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Academic Activity
 
+- NLPCC Evaluation Co-Chair, 2018/2019.
+- Senior Area Chair of EMNLP 2021.
+- Area Chair of NAACL 2021/IJCAI 2021.
+- Program Committee of TACL/ACL/EMNLP/NAACL/COLING/NeurIPS/ICLR/CVPR/AAAI/IJCAI/etc.
 - Member of CCF Committee on Academic Affairs, 2020-present.
 - Member of CCF Technical Committee of NLP, 2018-present.
 - Secretary of CCF Committee on Terminology, 2016-2018.
-- NLPCC Evaluation Co-Chair, 2018/2019.
-- Area Chair of NAACL/IJCAI.
-- Program committee & reviewer of TACL/ACL/EMNLP/NAACL/COLING/NeurIPS/ICLR/CVPR/AAAI/IJCAI/etc.
-
+- 
 ### Lecture (2017-present)
 
 - Peking University
