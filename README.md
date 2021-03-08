@@ -48,10 +48,13 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - [Knowledge-based Question Answering](http://history.ccf.org.cn/nianduneirong.jsp-contentId=2836201101298.htm). CCF ADL-55, 2014-12-29.
 
 
-### Publication
+### Publication-Book
 
 - 段楠，周明. 《智能问答》. 高等教育出版社，2018.
 - 周明，段楠，刘树杰，吴俣. 《人工智能导论 - 第11章：自然语言处理》. 中国科学技术出版社，2018.
+
+### Publication-Paper
+
 - Minheng Ni, Haoyang Huang, Lin Su, Edward Cui, Taroon Bharti, Lijuan Wang, Dongdong Zhang, Nan Duan. **M^3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training**. CVPR, 2021.
 - Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou. **GraphCodeBERT: Pre-training Code Representations with Data Flow**. ICLR, 2021.
 - Weizhen Qi, Yeyun Gong, Jian Jiao, Yu Yan, Dayiheng Liu, Weizhu Chen, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan. **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining**. arXiv, 2021.
