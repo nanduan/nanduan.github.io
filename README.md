@@ -14,7 +14,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - 2020-08. Adjunct Professor at Tianjin University (from 2020-09 to 2022-09).
 - 2020-05: [XGLUE](https://microsoft.github.io/XGLUE/) is released for multilingual research.
 - 2019-11: [Unicoder](https://arxiv.org/abs/1909.00964) and [Unicoder-VL](https://arxiv.org/abs/1908.06066) were reviewed by Bill Gates.
-- 2019-07: Unicoder-VL achieves SOTA result on [GQA](https://eval.ai/web/challenges/challenge-page/225/leaderboard/733).
+- 2019-07: [Unicoder-VL](https://arxiv.org/abs/1908.06066) achieves SOTA result on [GQA](https://eval.ai/web/challenges/challenge-page/225/leaderboard/733).
 - 2019-10: CCF-NLPCC Distinguished Young Scientist, 2019.
 - 2018-12: Project Semantic Parsing (joint with Bing) was reviewed by Bill Gates.
 - 2018-11: Project Video Intelligence was reviewed by Bill Gates on MSRA's 20th Anniversary.
