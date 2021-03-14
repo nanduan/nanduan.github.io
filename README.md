@@ -55,6 +55,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Publication-Paper
 
+- Tianchi Yang, Linmei Hu, Luhao Zhang, Chuan Shi, Cheng Yang, Nan Duan, Ming Zhou. **Tree-Capsule: Tree-Structured Capsule Network for Improving Relation Extraction**. PAKDD, 2021.
 - Minheng Ni, Haoyang Huang, Lin Su, Edward Cui, Taroon Bharti, Lijuan Wang, Dongdong Zhang, Nan Duan. **M^3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training**. CVPR, 2021.
 - Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou. **GraphCodeBERT: Pre-training Code Representations with Data Flow**. ICLR, 2021.
 - Zhihao Fan, Yeyun Gong, Dayiheng Liu, Zhongyu Wei, Siyuan Wang, Jian Jiao, Nan Duan, Ruofei Zhang, Xuanjing Huang. **Mask Attention Networks: Rethinking and Strengthen Transformer**. NAACL-HLT, 2021.
