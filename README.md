@@ -17,7 +17,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - 2020-11: [EMNLP 2020 Tutorial](https://slideslive.com/38940827/t4-machine-reasoning-technology-dilemma-and-future) "Machine Reasoning: Technology, Dilemma and Future".
 - 2020-09: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) is released for code intelligence research.
 - 2020-08. Adjunct Professor at Tianjin University (from 2020-09 to 2022-09).
-- 2020-05: [XGLUE](https://microsoft.github.io/XGLUE/) is released for multilingual research.
+- 2020-05: [XGLUE](https://microsoft.github.io/XGLUE/) is released for multilingual NLP research.
 - 2019-11: [Unicoder](https://arxiv.org/abs/1909.00964) and [Unicoder-VL](https://arxiv.org/abs/1908.06066) were reviewed by Bill Gates.
 - 2019-07: [Unicoder-VL](https://arxiv.org/abs/1908.06066) achieves SOTA result on [GQA](https://eval.ai/web/challenges/challenge-page/225/leaderboard/733).
 - 2019-10: CCF-NLPCC Distinguished Young Scientist, 2019.
