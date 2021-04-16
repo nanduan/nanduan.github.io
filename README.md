@@ -1,6 +1,6 @@
 ## Nan DUAN (段楠)
 
-### We are hiring NLP researchers! Hit me up (nanduan@microsoft.com) if you are seeking for a researcher position.
+### We are hiring NLP researchers! Hit me up ([nanduan@microsoft.com](nanduan@microsoft.com)) if you are seeking for a researcher position.
 
 
 Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft Research Asia. He is an adjunct professor at Tianjin University. His research interests include question answering, semantic parsing, large-scale pre-trained models, code intelligence and machine reasoning. He is a senior member of CCF. He gave tutorials on EMNLP/CCF-ADL/CIPS-ATT. He served as evaluation chair of NLPCC and SAC/AC/PC of EMNLP/NAACL/IJCAI. He is the CCF Distinguished Speaker. He was awarded the CCF-NLPCC Distinguished Young Scientist in 2019. He leads the benchmark dataset efforts including XGLUE, CodeXGLUE, NLPCC-KBQA/DBQA/MSParS. His book “Question Answering” was published by the Higher Education Press in 2018. He published 100+ research papers and holds 10+ patents. His research has been applied in many Microsoft products.
