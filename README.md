@@ -29,7 +29,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Our Recent Work on Pre-training Research
 
-- Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [BANG](https://arxiv.org/abs/2012.15525) (under review); PoolingFormer (under review)
+- Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [ProphetNet-X](https://arxiv.org/abs/2104.08006) (under review); [BANG](https://arxiv.org/abs/2012.15525) (under review); PoolingFormer (under review)
 - Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019)
 - Image-Language: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020); [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021)
 - Video-Language: [UniVL](https://arxiv.org/abs/2002.06353) (under review)
@@ -60,6 +60,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Publication-Paper
 
+- Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan. **ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**. arXiv, 2021.
 - Wanjun Zhong, Siyuan Wang, Duyu Tang, Zenan Xu, Daya Guo, Jiahai Wang, Jian Yin, Ming Zhou, Nan Duan. **AR-LSAT: Investigating Analytical Reasoning of Text**. arXiv, 2021.
 - Junjie Huang, Duyu Tang, Wanjun Zhong, Shuai Lu, Linjun Shou, Ming Gong, Daxin Jiang, Nan Duan. **WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach**. arXiv, 2021.
 - Tianchi Yang, Linmei Hu, Luhao Zhang, Chuan Shi, Cheng Yang, Nan Duan, Ming Zhou. **Tree-Capsule: Tree-Structured Capsule Network for Improving Relation Extraction**. PAKDD, 2021.
