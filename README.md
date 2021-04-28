@@ -9,19 +9,19 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Highlight
 
-- 2021-04: Unicoder achieves SOTA results on [XTREME](https://sites.research.google/xtreme) leaderboard for cross-lingual understanding tasks.
-- 2021-04: [ProphetNet-X](https://arxiv.org/abs/2104.08006) achieves SOTA results on [XGLUE](https://microsoft.github.io/XGLUE/) leaderboard for cross-lingual generation tasks.
+- 2021-04: Unicoder SOTAs on [XTREME](https://sites.research.google/xtreme) for cross-lingual NLU tasks.
+- 2021-04: [ProphetNet-X](https://arxiv.org/abs/2104.08006) SOTAs on [XGLUE](https://microsoft.github.io/XGLUE/) for cross-lingual NLG tasks.
 - 2021-03: Senior Member of CCF.
 - 2021-03: [LReasoner](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) achieves human parity on LSAT/GMAT logical reasoning questions.
 - 2021-03: [Document Modeling for QA and Captions](https://www.microsoft.com/en-us/research/blog/the-science-behind-semantic-search-how-ai-from-bing-is-powering-azure-cognitive-search/) in Azure Cognitive Search.
-- 2021-01: PoolingFormer achieves SOTA results on [NQ](https://ai.google.com/research/NaturalQuestions) and [TyDi](https://ai.google.com/research/tydiqa) leaderboards.
+- 2021-01: PoolingFormer SOTAs on [NQ](https://ai.google.com/research/NaturalQuestions) and [TyDi](https://ai.google.com/research/tydiqa).
 - 2020-11: [GLGE](https://github.com/microsoft/glge) is released for NLG research.
 - 2020-11: [EMNLP 2020 Tutorial](https://slideslive.com/38940827/t4-machine-reasoning-technology-dilemma-and-future) "Machine Reasoning: Technology, Dilemma and Future".
 - 2020-09: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) is released for code intelligence research.
 - 2020-08. Adjunct Professor at Tianjin University (from 2020-09 to 2022-09).
 - 2020-05: [XGLUE](https://microsoft.github.io/XGLUE/) is released for multilingual NLP research.
 - 2019-11: [Unicoder](https://arxiv.org/abs/1909.00964) and [Unicoder-VL](https://arxiv.org/abs/1908.06066) were reviewed by Bill Gates.
-- 2019-07: [Unicoder-VL](https://arxiv.org/abs/1908.06066) achieves SOTA result on [GQA](https://eval.ai/web/challenges/challenge-page/225/leaderboard/733).
+- 2019-07: [Unicoder-VL](https://arxiv.org/abs/1908.06066) SOTAs on [GQA](https://eval.ai/web/challenges/challenge-page/225/leaderboard/733).
 - 2019-10: CCF-NLPCC Distinguished Young Scientist, 2019.
 - 2018-12: Project Semantic Parsing (joint with Bing) was reviewed by Bill Gates.
 - 2018-11: Project Video Intelligence was reviewed by Bill Gates on MSRA's 20th Anniversary.
