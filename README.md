@@ -10,6 +10,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 ### Highlight
 
 - 2021-04: Unicoder achieves SOTA results on [XTREME](https://sites.research.google/xtreme) leaderboard.
+- 2021-04: ProphetNet-X achieves SOTA results on [XGLUE](https://microsoft.github.io/XGLUE/) leaderboard for generation tasks.
 - 2021-03: Senior Member of CCF.
 - 2021-03: [LReasoner](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) achieves human parity on LSAT/GMAT logical reasoning questions.
 - 2021-03: [Document Modeling for QA and Captions](https://www.microsoft.com/en-us/research/blog/the-science-behind-semantic-search-how-ai-from-bing-is-powering-azure-cognitive-search/) in Azure Cognitive Search.
