@@ -34,7 +34,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [ProphetNet-X](https://arxiv.org/abs/2104.08006) (under review); [BANG](https://arxiv.org/abs/2012.15525) (under review); PoolingFormer (under review)
 - Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019)
 - Image-Language: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020); [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021)
-- Video-Language: [UniVL](https://arxiv.org/abs/2002.06353) (under review); [CLIP4Clip](https://arxiv.org/abs/2104.08860) (under review); [GODIVA](https://arxiv.org/abs/2104.14806)
+- Video-Language: [UniVL](https://arxiv.org/abs/2002.06353) (under review); [CLIP4Clip](https://arxiv.org/abs/2104.08860) (under review); [GODIVA](https://arxiv.org/abs/2104.14806) (under review)
 - Code-Language: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020); [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021)
 - Benchmark Dataset: [XGLUE](https://arxiv.org/abs/2004.01401) (EMNLP 2020); [CodeXGLUE](https://arxiv.org/abs/2102.04664) (under review); [GLGE](https://arxiv.org/abs/2011.11928) (under review); GEM (under review)
 
