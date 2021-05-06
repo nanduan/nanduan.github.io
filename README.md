@@ -9,6 +9,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Highlight
 
+- 2021-05: [GODIVA](https://arxiv.org/abs/2104.14806) for open-domain text-to-video generation.
 - 2021-04: Unicoder SOTAs on [XTREME](https://sites.research.google/xtreme) for cross-lingual NLU tasks.
 - 2021-04: [ProphetNet-X](https://arxiv.org/abs/2104.08006) SOTAs on [XGLUE](https://microsoft.github.io/XGLUE/) for cross-lingual NLG tasks.
 - 2021-03: Senior Member of CCF.
