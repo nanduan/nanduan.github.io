@@ -64,15 +64,22 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Publication-Paper
 
-- Weizhen Qi, Yeyun Gong, Jian Jiao, Yu Yan, Dayiheng Liu, Weizhu Chen, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan. **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining**. ICML, 2021.
-- Yu Yan, Jiusheng Chen, Weizhen Qi, Nikhil Bhendawade, Yeyun Gong, Nan Duan, Ruofei Zhang. **EL-Attention: Memory Efficient Lossless Attention for Generation**. ICML, 2021.
-- Hang Zhang, Yeyun Gong, Yelong Shen, Weisheng Li, Jiancheng Lv, Nan Duan, Weizhu Chen. **Poolingformer: Long Document Modeling with Pooling Attention**. ICML, 2021.
-- Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan. **GLGE: A New General Language Generation Evaluation Benchmark**. Findings of ACL, 2020.
 - Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan. **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**. arXiv, 2021.
 - Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li. **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**. arXiv, 2021.
 - Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan. **ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**. arXiv, 2021.
 - Wanjun Zhong, Siyuan Wang, Duyu Tang, Zenan Xu, Daya Guo, Jiahai Wang, Jian Yin, Ming Zhou, Nan Duan. **AR-LSAT: Investigating Analytical Reasoning of Text**. arXiv, 2021.
 - Junjie Huang, Duyu Tang, Wanjun Zhong, Shuai Lu, Linjun Shou, Ming Gong, Daxin Jiang, Nan Duan. **WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach**. arXiv, 2021.
+- Weizhen Qi, Yeyun Gong, Jian Jiao, Yu Yan, Dayiheng Liu, Weizhu Chen, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan. **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining**. ICML, 2021.
+- Yu Yan, Jiusheng Chen, Weizhen Qi, Nikhil Bhendawade, Yeyun Gong, Nan Duan, Ruofei Zhang. **EL-Attention: Memory Efficient Lossless Attention for Generation**. ICML, 2021.
+- Hang Zhang, Yeyun Gong, Yelong Shen, Weisheng Li, Jiancheng Lv, Nan Duan, Weizhu Chen. **Poolingformer: Long Document Modeling with Pooling Attention**. ICML, 2021.
+- Kun Yan, Lei Ji, Huaishao Luo, Ming Zhou, Nan Duan, Shuai Ma. **Control Image Captioning Spatially and Temporally**. ACL, 2021.
+- Zenan Xu, Daya Guo, Duyu Tang, Qinliang Su, Linjun Shou, Ming Gong, Wanjun Zhong, Xiaojun Quan, Daxin Jiang, Nan Duan. **Syntax-Enhanced Pre-trained Model**. ACL, 2021.
+- Junjie Huang, Duyu Tang, Linjun Shou, Ming Gong, Ke Xu, Daxin Jiang, Ming Zhou, Nan Duan. **CoSQA: 20,000+ Web Queries for Code Search and Question Answering**. ACL, 2021.
+- Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan, Ming Zhou. **Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge**. ACL, 2021.
+- Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan. **GLGE: A New General Language Generation Evaluation Benchmark**. Findings of ACL, 2021.
+- Rong-Cheng Tu, Lei Ji, Huaishao Luo, Botian Shi, Heyan Huang, Nan Duan, Xian-Ling Mao. **Hashing based Efficient Inference for Image-Text Matching**. Findings of ACL, 2021.
+- Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu Ji, Guihong Cao, Daxin Jiang, Ming Zhou. **K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters**. Findings of ACL, 2021.
+- Wanjun Zhong, Duyu Tang, Jiahai Wang, Jian Yin, Nan Duan. **UserAdapter: Few-Shot User Learning in Sentiment Analysis**. Findings of ACL, 2021.
 - Tianchi Yang, Linmei Hu, Luhao Zhang, Chuan Shi, Cheng Yang, Nan Duan, Ming Zhou. **Tree-Capsule: Tree-Structured Capsule Network for Improving Relation Extraction**. PAKDD, 2021.
 - Minheng Ni, Haoyang Huang, Lin Su, Edward Cui, Taroon Bharti, Lijuan Wang, Dongdong Zhang, Nan Duan. **M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training**. CVPR, 2021.
 - Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou. **GraphCodeBERT: Pre-training Code Representations with Data Flow**. ICLR, 2021.
