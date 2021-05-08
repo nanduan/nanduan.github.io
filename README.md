@@ -64,6 +64,10 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Publication-Paper
 
+- Weizhen Qi, Yeyun Gong, Jian Jiao, Yu Yan, Dayiheng Liu, Weizhu Chen, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan. **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining**. ICML, 2021.
+- Yu Yan, Jiusheng Chen, Weizhen Qi, Nikhil Bhendawade, Yeyun Gong, Nan Duan, Ruofei Zhang. **EL-Attention: Memory Efficient Lossless Attention for Generation**. ICML, 2021.
+- Hang Zhang, Yeyun Gong, Yelong Shen, Weisheng Li, Jiancheng Lv, Nan Duan, Weizhu Chen. **Poolingformer: Long Document Modeling with Pooling Attention**. ICML, 2021.
+- Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan. **GLGE: A New General Language Generation Evaluation Benchmark**. Findings of ACL, 2020.
 - Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan. **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**. arXiv, 2021.
 - Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li. **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**. arXiv, 2021.
 - Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan. **ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**. arXiv, 2021.
@@ -73,10 +77,8 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Minheng Ni, Haoyang Huang, Lin Su, Edward Cui, Taroon Bharti, Lijuan Wang, Dongdong Zhang, Nan Duan. **M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training**. CVPR, 2021.
 - Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou. **GraphCodeBERT: Pre-training Code Representations with Data Flow**. ICLR, 2021.
 - Zhihao Fan, Yeyun Gong, Dayiheng Liu, Zhongyu Wei, Siyuan Wang, Jian Jiao, Nan Duan, Ruofei Zhang, Xuanjing Huang. **Mask Attention Networks: Rethinking and Strengthen Transformer**. NAACL-HLT, 2021.
-- Weizhen Qi, Yeyun Gong, Jian Jiao, Yu Yan, Dayiheng Liu, Weizhu Chen, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan. **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining**. arXiv, 2021.
 - Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu. **CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation**. arXiv, 2021.
 - Nan Duan, Duyu Tang, Ming Zhou. **Machine Reasoning: Technology, Dilemma and Future**. EMNLP, 2020.
-- Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan. **GLGE: A New General Language Generation Evaluation Benchmark**. arXiv, 2020.
 - Frank F. Xu, Lei Ji, Botian Shi, Junyi Du, Graham Neubig, Yonatan Bisk, Nan Duan. **A Benchmark for Structured Procedural Knowledge Extraction from Cooking Videos**. NLPBT, 2020.
 - Zhihao Fan, Yeyun Gong, Zhongyu Wei, Siyuan Wang, Yameng Huang, Jian Jiao, Xuanjing Huang, Nan Duan, Ruofei Zhang. **An Enhanced Knowledge Injection Model for Commonsense Generation**. COLING, 2020.
 - Bo Shao, Yeyun Gong, Weizhen Qi, Nan Duan, Xiaola Lin. **Multi-level Alignment Pretraining for Multi-lingual Semantic Parsing**. COLING, 2020.
