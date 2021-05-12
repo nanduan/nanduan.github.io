@@ -13,7 +13,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - 2021-04: Unicoder SOTAs on [XTREME](https://sites.research.google/xtreme) for cross-lingual NLU tasks.
 - 2021-04: [ProphetNet-X](https://arxiv.org/abs/2104.08006) SOTAs on [XGLUE](https://microsoft.github.io/XGLUE/) for cross-lingual NLG tasks.
 - 2021-03: Senior Member of CCF.
-- 2021-03: [LReasoner](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) achieves human parity on LSAT/GMAT logical reasoning questions.
+- 2021-03: [LReasoner](https://arxiv.org/abs/2105.03659) achieves human parity on [LSAT/GMAT logical reasoning questions](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347).
 - 2021-03: [Document Modeling for QA and Captions](https://www.microsoft.com/en-us/research/blog/the-science-behind-semantic-search-how-ai-from-bing-is-powering-azure-cognitive-search/) in Azure Cognitive Search.
 - 2021-01: [PoolingFormer](https://arxiv.org/abs/2105.04371) SOTAs on [NQ](https://ai.google.com/research/NaturalQuestions) and [TyDi](https://ai.google.com/research/tydiqa).
 - 2020-11: [GLGE](https://github.com/microsoft/glge) is released for NLG research.
@@ -65,6 +65,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 ### Publication-Paper
 
 - Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan. **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**. arXiv, 2021.
+- Siyuan Wang, Wanjun Zhong, Duyu Tang, Zhongyu Wei, Zhihao Fan, Daxin Jiang, Ming Zhou, Nan Duan. **Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text**. arXiv, 2021.
 - Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li. **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**. arXiv, 2021.
 - Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan. **ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**. arXiv, 2021.
 - Wanjun Zhong, Siyuan Wang, Duyu Tang, Zenan Xu, Daya Guo, Jiahai Wang, Jian Yin, Ming Zhou, Nan Duan. **AR-LSAT: Investigating Analytical Reasoning of Text**. arXiv, 2021.
