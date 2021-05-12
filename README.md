@@ -15,7 +15,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - 2021-03: Senior Member of CCF.
 - 2021-03: [LReasoner](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) achieves human parity on LSAT/GMAT logical reasoning questions.
 - 2021-03: [Document Modeling for QA and Captions](https://www.microsoft.com/en-us/research/blog/the-science-behind-semantic-search-how-ai-from-bing-is-powering-azure-cognitive-search/) in Azure Cognitive Search.
-- 2021-01: PoolingFormer SOTAs on [NQ](https://ai.google.com/research/NaturalQuestions) and [TyDi](https://ai.google.com/research/tydiqa).
+- 2021-01: [PoolingFormer](https://arxiv.org/abs/2105.04371) SOTAs on [NQ](https://ai.google.com/research/NaturalQuestions) and [TyDi](https://ai.google.com/research/tydiqa).
 - 2020-11: [GLGE](https://github.com/microsoft/glge) is released for NLG research.
 - 2020-11: [EMNLP 2020 Tutorial](https://slideslive.com/38940827/t4-machine-reasoning-technology-dilemma-and-future) "Machine Reasoning: Technology, Dilemma and Future".
 - 2020-09: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) is released for code intelligence research.
