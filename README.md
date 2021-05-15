@@ -77,6 +77,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Zenan Xu, Daya Guo, Duyu Tang, Qinliang Su, Linjun Shou, Ming Gong, Wanjun Zhong, Xiaojun Quan, Daxin Jiang, Nan Duan. **Syntax-Enhanced Pre-trained Model**. ACL, 2021.
 - Junjie Huang, Duyu Tang, Linjun Shou, Ming Gong, Ke Xu, Daxin Jiang, Ming Zhou, Nan Duan. **CoSQA: 20,000+ Web Queries for Code Search and Question Answering**. ACL, 2021.
 - Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan, Ming Zhou. **Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge**. ACL, 2021.
+- Lin Su, Nan Duan, Edward Cui, Lei Ji, Chenfei Wu, Huaishao Luo, Yongfei Liu, Ming Zhong, Taroon Bharti, Arun Sacheti. **GEM: A General Evaluation Benchmark for Multimodal Tasks**. Findings of ACL, 2021.
 - Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan. **GLGE: A New General Language Generation Evaluation Benchmark**. Findings of ACL, 2021.
 - Rong-Cheng Tu, Lei Ji, Huaishao Luo, Botian Shi, Heyan Huang, Nan Duan, Xian-Ling Mao. **Hashing based Efficient Inference for Image-Text Matching**. Findings of ACL, 2021.
 - Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu Ji, Guihong Cao, Daxin Jiang, Ming Zhou. **K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters**. Findings of ACL, 2021.
