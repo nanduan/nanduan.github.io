@@ -9,6 +9,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Highlight
 
+- 2021-06： Re-upload the NLPCC-KBQA datasets [here](https://github.com/nanduan/NLPCC-KBQA)
 - 2021-05: [GODIVA](https://arxiv.org/abs/2104.14806) for open-domain text-to-video generation ([blog](https://www.msra.cn/zh-cn/news/features/godiva)).
 - 2021-04: Unicoder SOTAs on [XTREME](https://sites.research.google/xtreme) for cross-lingual NLU tasks.
 - 2021-04: [ProphetNet-X](https://arxiv.org/abs/2104.08006) SOTAs on [XGLUE](https://microsoft.github.io/XGLUE/) for cross-lingual NLG tasks.
@@ -224,7 +225,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - [XGLUE](https://github.com/microsoft/XGLUE): a benchmark dataset for multilingual NLP tasks. ([blog](https://www.microsoft.com/en-us/research/blog/xglue-expanding-cross-lingual-understanding-and-generation-with-tasks-from-real-world-scenarios/))
 - [MSParS](https://github.com/msra-nlc/MSParS): a benchmark dataset for open domain semantic parsing. ([blog](https://www.msra.cn/zh-cn/news/features/mspars))
 - [WebAsserstions](https://github.com/msra-nlc/WebAssertions): a benchmark dataset for question-aware open IE.
-- [NLPCC-KBQA](https://github.com/msra-nlc/ChineseKBQA): an open domain knowledge-based QA dataset in Chinese.
+- [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA): an open domain knowledge-based QA dataset in Chinese.
 - [NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA): an open domain document-based QA dataset in Chinese.
 - [Table2Text](https://github.com/msra-nlc/Table2Text): a table-to-text generation dataset.
 
