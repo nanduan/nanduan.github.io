@@ -71,6 +71,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Wanjun Zhong, Siyuan Wang, Duyu Tang, Zenan Xu, Daya Guo, Jiahai Wang, Jian Yin, Ming Zhou, Nan Duan. **AR-LSAT: Investigating Analytical Reasoning of Text**. arXiv, 2021.
 - Junjie Huang, Duyu Tang, Wanjun Zhong, Shuai Lu, Linjun Shou, Ming Gong, Daxin Jiang, Nan Duan. **WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach**. arXiv, 2021.
 - Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan. **ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**. ACL-Demo, 2021.
+- Yu Yan, Fei Hu, Jiusheng Chen, Nikhil Bhendawade, Ting Ye, Yeyun Gong, Nan Duan, Desheng Cui, Bingyu Chi, Ruofei Zhang. **FastSeq: Make Sequence Generation Faster**. ACL-Demo, 2021.
 - Weizhen Qi, Yeyun Gong, Jian Jiao, Yu Yan, Dayiheng Liu, Weizhu Chen, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan. **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining**. ICML, 2021.
 - Yu Yan, Jiusheng Chen, Weizhen Qi, Nikhil Bhendawade, Yeyun Gong, Nan Duan, Ruofei Zhang. **EL-Attention: Memory Efficient Lossless Attention for Generation**. ICML, 2021.
 - Hang Zhang, Yeyun Gong, Yelong Shen, Weisheng Li, Jiancheng Lv, Nan Duan, Weizhu Chen. **Poolingformer: Long Document Modeling with Pooling Attention**. ICML, 2021.
