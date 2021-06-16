@@ -9,6 +9,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Highlight
 
+- 2021-06: [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert).
 - 2021-05: Re-upload [NLPCC-KBQA datasets](https://github.com/nanduan/NLPCC-KBQA), as people frequently asked me where they are...
 - 2021-05: [GODIVA](https://arxiv.org/abs/2104.14806) for open-domain text-to-video generation ([blog](https://www.msra.cn/zh-cn/news/features/godiva)).
 - 2021-04: Unicoder SOTAs on [XTREME](https://sites.research.google/xtreme) for cross-lingual NLU tasks.
