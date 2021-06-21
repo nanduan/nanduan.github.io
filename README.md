@@ -9,7 +9,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Highlight
 
-- 2021-06: [GEM](https://microsoft.github.io/GEM/) us released for multilingual multimodal research.
+- 2021-06: [GEM](https://microsoft.github.io/GEM/) is released for multilingual multimodal research.
 - 2021-06: [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert), welcome to use [CodeBERT](https://github.com/microsoft/CodeBERT) and [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/).
 - 2021-05: Re-upload [NLPCC-KBQA datasets](https://github.com/nanduan/NLPCC-KBQA), as people frequently asked me where they are...
 - 2021-05: [GODIVA](https://arxiv.org/abs/2104.14806) for open-domain text-to-video generation ([blog](https://www.msra.cn/zh-cn/news/features/godiva)).
