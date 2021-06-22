@@ -205,6 +205,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Patent
 
+- Code Bug Detection, 2021.
 - Performing Multiple Tasks with Continual Adaptation, 2021.
 - System and Method for Accelerating Generation in Attention-based Neural Network, 2021.
 - Interpretable Bug Detection for Codes with Structural Attention Constraints, 2021.
