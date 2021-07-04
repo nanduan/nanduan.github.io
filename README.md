@@ -72,6 +72,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li. **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**. arXiv, 2021.
 - Wanjun Zhong, Siyuan Wang, Duyu Tang, Zenan Xu, Daya Guo, Jiahai Wang, Jian Yin, Ming Zhou, Nan Duan. **AR-LSAT: Investigating Analytical Reasoning of Text**. arXiv, 2021.
 - Junjie Huang, Duyu Tang, Wanjun Zhong, Shuai Lu, Linjun Shou, Ming Gong, Daxin Jiang, Nan Duan. **WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach**. arXiv, 2021.
+- Weijiang Yu, Jian Liang, Lei Ji, Lu Li, Yuejian Fang, Nong Xiao, Nan Duan. **Hybrid Reasoning Network for Video-based Commonsense Captioning**. ACM Multimedia, 2021.
 - Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan. **ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**. ACL-Demo, 2021.
 - Yu Yan, Fei Hu, Jiusheng Chen, Nikhil Bhendawade, Ting Ye, Yeyun Gong, Nan Duan, Desheng Cui, Bingyu Chi, Ruofei Zhang. **FastSeq: Make Sequence Generation Faster**. ACL-Demo, 2021.
 - Weizhen Qi, Yeyun Gong, Jian Jiao, Yu Yan, Dayiheng Liu, Weizhu Chen, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan. **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining**. ICML, 2021.
@@ -105,7 +106,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 - Ruize Wang, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou. **Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection**. EMNLP, 2020.
 - Xuguang Wang, Linjun Shou, Ming Gong, Nan Duan, Daxin Jiang. **No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension**. EMNLP, 2020.
 - Weizhen Qi, Yeyun Gong, Yu Yan, Jian Jiao, Bo Shao, Ruofei Zhang, Houqiang Li, Nan Duan and Ming Zhou. **ProphetNet-Ads: A Looking Ahead Strategy for Generative Retrieval Models in Sponsored Search Engine**. NLPCC, 2020.
-- Botian Shi, Lei Ji, Zhendong Niu, Nan Duan, Ming Zhou, Xilin Chen. **Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning**. ACM MM, 2020.
+- Botian Shi, Lei Ji, Zhendong Niu, Nan Duan, Ming Zhou, Xilin Chen. **Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning**. ACM Multimedia, 2020.
 - Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Nan Duan. **RikiNet: Reading Wikipedia Pages for Natural Question Answering**. ACL, 2020.
 - Bo Zheng, Haoyang Wen, Yaobo Liang, Nan Duan, Wanxiang Che, Daxin Jiang, Ming Zhou, Ting Liu. **Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension**. ACL, 2020.
 - Wanjun Zhong, Jingjing Xu, Duyu Tang, Zenan Xu, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. **Reasoning Over Semantic-Level Graph for Fact Checking**. ACL, 2020.
