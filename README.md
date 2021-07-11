@@ -45,6 +45,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 ### Tutorial/Invited Talk
 
 - [Really Reaching Human Parity? - Addressing Benchmark Issues on Robustness, Bias and Metric](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md#S1). ACL Workshop on BPPF, 2021-08.
+- Vision-Language Pre-training: Progress and Challenge. CCF-RACV (Recent Advances in Computer Vision), 2021-08.
 - [SOTAs, Benchmarks and Future of Pre-trained Models for Multilingual, Multimodal, Code and Generation](https://www.ccf.org.cn/Activities/Training/ADL/2021-05-06/727915.shtml). CCF-ADL, 2021-05.
 - [Multilingual Multimodal Pre-training](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20201001&CpPage=94#CONF). Korean Artificial Intelligence Association, 2020-11.
 - [Machine Reasoning: Technology, Dilemma and Future](https://2020.emnlp.org/tutorials). EMNLP Tutorial, 2020-11.
