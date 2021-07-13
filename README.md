@@ -70,7 +70,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Publication-Paper
 
-- Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis。 **Learning to Generate Code Sketches**. arXiv, 2021.
+- Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis. **Learning to Generate Code Sketches**. arXiv, 2021.
 - Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan. **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**. arXiv, 2021.
 - Siyuan Wang, Wanjun Zhong, Duyu Tang, Zhongyu Wei, Zhihao Fan, Daxin Jiang, Ming Zhou, Nan Duan. **Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text**. arXiv, 2021.
 - Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li. **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**. arXiv, 2021.
