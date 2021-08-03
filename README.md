@@ -71,7 +71,8 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 ### Publication-Paper
 
 - Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu. **CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation**. NeurIPS (Datasets and Benchmarks Track), 2021.
-- Bolun Yao, Wei Chen, Yeyun Gong, Bartuer Zhou, Jin Xie, Zhongyu Wei, Biao Cheng, Nan Duan. **Question Generation from Code Snippets and Programming Error Messages**. NAACL, 2021.
+- Martin Kuo, Yaobo Liang, Nan Duan. **Tag and Correct: Question Aware Open Information Extraction with Two-stage Decoding**. NLPCC, 2021.
+- Bolun Yao, Wei Chen, Yeyun Gong, Bartuer Zhou, Jin Xie, Zhongyu Wei, Biao Cheng, Nan Duan. **Question Generation from Code Snippets and Programming Error Messages**. NLPCC, 2021.
 - Qiaolin Xia, Haoyang Huang, Nan Duan, Dongdong Zhang, Lei Ji, Zhifang Sui, Edward Cui, Taroon Bharti, Ming Zhou. **XGPT: Cross-modal Generative Pre-Training for Image Captioning**. NLPCC, 2021.
 - Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis. **Learning to Generate Code Sketches**. arXiv, 2021.
 - Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan. **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**. arXiv, 2021.
