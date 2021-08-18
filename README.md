@@ -44,6 +44,7 @@ Dr. Nan DUAN is currently a principal researcher & research manager at Microsoft
 
 ### Tutorial/Invited Talk
 
+- [Vision-Language Pre-training: Progress and Challenge](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html). Invited Talk on CAAI, 2021-08.
 - [Pre-trained Models and Benchmark for Code Intelligence](http://plpworkshop.com/). Keynote at KDD workshop on Programming Language Processing (PLP), 2021-08.
 - [Really Reaching Human Parity? - Addressing Benchmark Issues on Robustness, Bias and Metric](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md#S1). ACL Workshop on BPPF, 2021-08.
 - Vision-Language Pre-training: Progress and Challenge. CCF-RACV (Recent Advances in Computer Vision), 2021-08.
