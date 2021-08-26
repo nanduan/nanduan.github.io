@@ -71,6 +71,10 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Publication-Paper
 
+- Colin Clement, Shuai Lu, Xiaoyu Liu, Michele Tufano, Dawn Drain, Nan Duan, Neel Sundaresan, Alexey Svyatkovskiy. **Long-Range Modeling of Source Code Files with eWASH: Extended Window Access by Syntax Hierarchy**. EMNLP, 2021.
+- Yimin Fan, Yaobo Liang, Alexandre Muzio, Hany Hassan, Houqiang Li, Ming Zhou, Nan Duan. **Discovering Representation Sprachbund For Multilingual Pre-Training**. Findings of EMNLP, 2021.
+- Haonan Li, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan. **KFC: Knowledge Filtering and Contrastive Learning for Generative Commonsense Reasoning**. Findings of EMNLP, 2021.
+- Junjie Huang, Duyu Tang, Wanjun Zhong, Shuai Lu, Linjun Shou, Ming Gong, Daxin Jiang, Nan Duan. **WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach**. Findings of EMNLP, 2021.
 - Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu. **CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation**. NeurIPS (Datasets and Benchmarks Track), 2021.
 - Martin Kuo, Yaobo Liang, Nan Duan. **Tag and Correct: Question Aware Open Information Extraction with Two-stage Decoding**. NLPCC, 2021.
 - Bolun Yao, Wei Chen, Yeyun Gong, Bartuer Zhou, Jin Xie, Zhongyu Wei, Biao Cheng, Nan Duan. **Question Generation from Code Snippets and Programming Error Messages**. NLPCC, 2021.
@@ -80,7 +84,6 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Siyuan Wang, Wanjun Zhong, Duyu Tang, Zhongyu Wei, Zhihao Fan, Daxin Jiang, Ming Zhou, Nan Duan. **Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text**. arXiv, 2021.
 - Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li. **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**. arXiv, 2021.
 - Wanjun Zhong, Siyuan Wang, Duyu Tang, Zenan Xu, Daya Guo, Jiahai Wang, Jian Yin, Ming Zhou, Nan Duan. **AR-LSAT: Investigating Analytical Reasoning of Text**. arXiv, 2021.
-- Junjie Huang, Duyu Tang, Wanjun Zhong, Shuai Lu, Linjun Shou, Ming Gong, Daxin Jiang, Nan Duan. **WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach**. arXiv, 2021.
 - Weijiang Yu, Jian Liang, Lei Ji, Lu Li, Yuejian Fang, Nong Xiao, Nan Duan. **Hybrid Reasoning Network for Video-based Commonsense Captioning**. ACM Multimedia, 2021.
 - Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan. **ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**. ACL-Demo, 2021.
 - Yu Yan, Fei Hu, Jiusheng Chen, Nikhil Bhendawade, Ting Ye, Yeyun Gong, Nan Duan, Desheng Cui, Bingyu Chi, Ruofei Zhang. **FastSeq: Make Sequence Generation Faster**. ACL-Demo, 2021.
