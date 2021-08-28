@@ -44,7 +44,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - 2017-12: CCF Distinguished Speaker.
 
 
-### Our Recent Work on Pre-training Research
+### Recent Pre-training Research
 
 - Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [DMAN](https://arxiv.org/abs/2103.13597) (NAACL 2021), [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL-Demo 2021); [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021); [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021); [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021)
 - Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019)
