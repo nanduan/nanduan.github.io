@@ -14,6 +14,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - [NLP Benchmark](https://github.com/nanduan/nanduan.github.io/blob/main/Addressing%20Benchmark%20Issues%20on%20Robustness%2C%20Bias%20and%20Metric.ACL%202021.pdf). ACL invited-talk, 2021.
 - [Large-scale Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/State-of-the-Arts%2C%20Benchmarks%20and%20Future%20of%20Pre-trained%20Models%20for%20Multilingual%2C%20Multimodal%2C%20Code%20and%20Generation.ADL%20Tutorial%202021.pdf). CCF-ADL tutorial, 2021.
 - [Machine Reasoning](https://github.com/nanduan/nanduan.github.io/blob/main/Machine%20Reasoning%20-%20Technology%2C%20Dilemma%20and%20Future.EMNLP%20tutorial%202020.pdf). EMNLP tutorial, 2020.
+- [Multitask Multilingual Multimodal Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/Multitask%20Multilingual%20Multimodal%20Pre-training.CNCC%202020.pdf). CNCC invited-talk, 2020.
 - [Question Answering](https://github.com/nanduan/nanduan.github.io/blob/main/Building%20Information%20Bot%20with%20Question%20Understanding%2C%20Answering%20%26%20Asking.ADL%20tutorial%202017.pdf). CCF-ADL, 2017.
 
 ### Highlight
