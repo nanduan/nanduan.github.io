@@ -55,7 +55,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Code-Language: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020); [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021)
 - Benchmark Dataset: [XGLUE](https://arxiv.org/abs/2004.01401) (EMNLP 2020); [CodeXGLUE](https://arxiv.org/abs/2102.04664) (under review); [GLGE](https://arxiv.org/abs/2011.11928) (ACL 2021); [GEM](https://arxiv.org/abs/2106.09889) (ACL 2021); [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021)
 
-### Tutorial/Invited-talk
+### Tutorial/Keynote/Invited-talk
 
 - [Vision-Language Pre-training: Progress and Challenge](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html). Invited-talk on CAAI, 2021-08.
 - [Pre-trained Models and Benchmark for Code Intelligence](http://plpworkshop.com/). Keynote at KDD workshop on Programming Language Processing (PLP), 2021-08.
