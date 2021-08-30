@@ -16,6 +16,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - [Machine Reasoning](https://github.com/nanduan/nanduan.github.io/blob/main/Machine%20Reasoning%20-%20Technology%2C%20Dilemma%20and%20Future.EMNLP%20tutorial%202020.pdf). EMNLP tutorial, 2020.
 - [Multitask Multilingual Multimodal Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/Multitask%20Multilingual%20Multimodal%20Pre-training.CNCC%202020.pdf). CNCC invited-talk, 2020.
 - [Question Answering](https://github.com/nanduan/nanduan.github.io/blob/main/Building%20Information%20Bot%20with%20Question%20Understanding%2C%20Answering%20%26%20Asking.ADL%20tutorial%202017.pdf). CCF-ADL tutorial, 2017.
+- [How To Do Research as a Ph.D. Student](https://github.com/nanduan/nanduan.github.io/blob/main/how%20to%20be%20a%20Ph.D.%20student.pdf). CCF-ADL, 2012.
 - [Consensus Decoding in SMT](https://github.com/nanduan/nanduan.github.io/blob/main/Consensus%20Decoding%20in%20SMT.2011.pdf). My Ph.D. Defense ^_^, 2011.
 
 ### Highlight
@@ -53,9 +54,9 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Code-Language: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020); [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021)
 - Benchmark Dataset: [XGLUE](https://arxiv.org/abs/2004.01401) (EMNLP 2020); [CodeXGLUE](https://arxiv.org/abs/2102.04664) (under review); [GLGE](https://arxiv.org/abs/2011.11928) (ACL 2021); [GEM](https://arxiv.org/abs/2106.09889) (ACL 2021); [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021)
 
-### Tutorial/Invited Talk
+### Tutorial/Invited-talk
 
-- [Vision-Language Pre-training: Progress and Challenge](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html). Invited Talk on CAAI, 2021-08.
+- [Vision-Language Pre-training: Progress and Challenge](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html). Invited-talk on CAAI, 2021-08.
 - [Pre-trained Models and Benchmark for Code Intelligence](http://plpworkshop.com/). Keynote at KDD workshop on Programming Language Processing (PLP), 2021-08.
 - [Really Reaching Human Parity? - Addressing Benchmark Issues on Robustness, Bias and Metric](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md#S1). ACL Workshop on BPPF, 2021-08.
 - Vision-Language Pre-training: Progress and Challenge. CCF-RACV (Recent Advances in Computer Vision), 2021-08.
