@@ -7,7 +7,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 段楠博士，微软亚洲研究院高级研究员/研究经理，天津大学兼职教授，微软亚洲研究院-中国科学技术大学/中山大学/北京航空航天大学联合培养博士生导师，主要从事自然语言处理、基于知识的推理、以及多语言/多模态/编程语言预训练等研究，多次担任ACL、EMNLP、NAACL、NLPCC等国际会议评测主席、高级领域主席和领域主席，CCF高级会员和杰出讲演者，CCF-NLPCC青年科学家，发布XGLUE、CodeXGLUE和NLPCC-KBQA等开源学术数据集，著有《智能问答》(高等教育出版社，2018)，发表学术论文100余篇，持有专利10余项，多项研究成果用于微软各类人工智能产品。
 
-### Tutorial/Keynote/Invited-talk Slides
+### Some Slides
 
 - [Multimodal Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/Vision-Language%20Pre-training%20-%20Progress%20and%20Challenge.pdf). CAAI tutorial, 2021.
 - [Code Intelligence](https://github.com/nanduan/nanduan.github.io/blob/main/Pre-trained%20Models%20and%20Benchmark%20for%20Code%20Intelligence.KDD%20keynote%202021.pdf). KDD keynote, 2021.
