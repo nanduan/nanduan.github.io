@@ -73,7 +73,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - [Knowledge-enhanced NLP: Progress and Challenge](http://tcci.ccf.org.cn/conference/2018/tworkshop.php#tws). NLPCC Technical Workshops, 2018-08.
 - [Latest Progress of Question Answering](https://www.ccf.org.cn/c/2017-11-30/620142.shtml). CCF-Tech Frontier, 2017-11.
 - [Building Informational Bot (InfoBot) with Question Answering & Generation](http://tcci.ccf.org.cn/conference/2017/adllecturers.php). CCF-ADL, 2017-11.
-- [Knowledge-based Question Answering](http://history.ccf.org.cn/nianduneirong.jsp-contentId=2836201101298.htm). CCF-ADL, 2014-12.
+- [Knowledge-based Question Answering](http://118.190.20.181/xhdtnry.jsp-contentId=2836201101004.htm). CCF-ADL, 2014-12.
 
 
 ### Publication-Book
