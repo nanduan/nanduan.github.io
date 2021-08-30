@@ -15,7 +15,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - [Large-scale Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/State-of-the-Arts%2C%20Benchmarks%20and%20Future%20of%20Pre-trained%20Models%20for%20Multilingual%2C%20Multimodal%2C%20Code%20and%20Generation.ADL%20Tutorial%202021.pdf). CCF-ADL tutorial, 2021.
 - [Machine Reasoning](https://github.com/nanduan/nanduan.github.io/blob/main/Machine%20Reasoning%20-%20Technology%2C%20Dilemma%20and%20Future.EMNLP%20tutorial%202020.pdf). EMNLP tutorial, 2020.
 - [Multitask Multilingual Multimodal Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/Multitask%20Multilingual%20Multimodal%20Pre-training.CNCC%202020.pdf). CNCC invited-talk, 2020.
-- [Question Answering](https://github.com/nanduan/nanduan.github.io/blob/main/Building%20Information%20Bot%20with%20Question%20Understanding%2C%20Answering%20%26%20Asking.ADL%20tutorial%202017.pdf). CCF-ADL tutorial, 2017.
+- [Open-domain Question Answering](https://github.com/nanduan/nanduan.github.io/blob/main/Building%20Information%20Bot%20with%20Question%20Understanding%2C%20Answering%20%26%20Asking.ADL%20tutorial%202017.pdf). CCF-ADL tutorial, 2017.
 - [Knowledge-based Question Answering](https://github.com/nanduan/nanduan.github.io/blob/main/Knowledge-based%20Question%20Answering.pdf). An extended version of CCF-ADL tutorial, 2016.
 - [How To Do Research as a Ph.D. Student](https://github.com/nanduan/nanduan.github.io/blob/main/how%20to%20be%20a%20Ph.D.%20student.pdf). CCF-ADL, 2012.
 - [Consensus Decoding in SMT](https://github.com/nanduan/nanduan.github.io/blob/main/Consensus%20Decoding%20in%20SMT.2011.pdf). My Ph.D. Defense ^_^, 2011.
