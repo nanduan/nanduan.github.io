@@ -226,6 +226,8 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Beijing University of Aeronautics and Astronautics
 - Xi’an Jiaotong University
 - Nanjing University of Aeronautics and Astronautics
+- Northeastern University
+- Southwest Jiaotong University
 
 ### Patent
 
