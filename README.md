@@ -259,3 +259,5 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - [NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA): an open domain document-based QA dataset in Chinese.
 - [Table2Text](https://github.com/msra-nlc/Table2Text): a table-to-text generation dataset.
 
+### Others
+- [My previous homepage](https://sites.google.com/site/nanduan0613/home)
