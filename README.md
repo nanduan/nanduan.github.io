@@ -89,7 +89,6 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Haonan Li, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan. **KFC: Knowledge Filtering and Contrastive Learning for Generative Commonsense Reasoning**. Findings of EMNLP, 2021.
 - Junjie Huang, Duyu Tang, Wanjun Zhong, Shuai Lu, Linjun Shou, Ming Gong, Daxin Jiang, Nan Duan. **WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach**. Findings of EMNLP, 2021.
 - Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu. **CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation**. NeurIPS (Datasets and Benchmarks Track), 2021.
-- Martin Kuo, Yaobo Liang, Nan Duan. **Tag and Correct: Question Aware Open Information Extraction with Two-stage Decoding**. NLPCC, 2021.
 - Bolun Yao, Wei Chen, Yeyun Gong, Bartuer Zhou, Jin Xie, Zhongyu Wei, Biao Cheng, Nan Duan. **Question Generation from Code Snippets and Programming Error Messages**. NLPCC, 2021.
 - Qiaolin Xia, Haoyang Huang, Nan Duan, Dongdong Zhang, Lei Ji, Zhifang Sui, Edward Cui, Taroon Bharti, Ming Zhou. **XGPT: Cross-modal Generative Pre-Training for Image Captioning**. NLPCC, 2021.
 - Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis. **Learning to Generate Code Sketches**. arXiv, 2021.
@@ -146,6 +145,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Kyungjae Lee#, Nan Duan, Lei Ji, Jason Li, Seungwon Hwang. **Segment-then-Rank: Non-factoid Question Answering on Instructional Videos**. AAAI, 2020.
 - Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. **Graph-based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering**. AAAI, 2020.
 - Yibo Sun, Duyu Tang, Nan Duan, Yeyun Gong, Xiaocheng Feng, Bing Qin, Daxin Jiang. **Neural Semantic Parsing in Low-Resource Settings with Back-Translation and Meta-Learning**. AAAI, 2020.
+- Martin Kuo, Yaobo Liang, Nan Duan. **Tag and Correct: Question Aware Open Information Extraction with Two-stage Decoding**. arXiv, 2019.
 - Xindian Ma, Peng Zhang, Shuai Zhang, Nan Duan, Yuexian Hou, Dawei Song, Ming Zhou. **A Tensorized Transformer for Language Modeling**. NeurIPS, 2019.
 - Yikang Li#, Nan Duan, Tao Ma, Yeqi Bai, Sining Wei, Xiaogang Wang. **PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph**. NeurIPS, 2019.
 - Haoyang Huang, Yaobo Liang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Ming Zhou. **Unicoder: A Universal Language Encoder by Pre-training with Multiple Cross-lingual Tasks**. EMNLP, 2019.
