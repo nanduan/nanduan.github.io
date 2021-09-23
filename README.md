@@ -49,10 +49,10 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 ### Recent Pre-training Research
 
 - Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [DMAN](https://arxiv.org/abs/2103.13597) (NAACL 2021), [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL-Demo 2021); [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021); [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021); [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021)
-- Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019)
+- Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019); [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021)
 - Image-Language: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020); [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021)
-- Video-Language: [UniVL](https://arxiv.org/abs/2002.06353) (under review); [CLIP4Clip](https://arxiv.org/abs/2104.08860) (under review); [GODIVA](https://arxiv.org/abs/2104.14806) (under review)
-- Code-Language: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020); [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021)
+- Video-Language: [UniVL](https://arxiv.org/abs/2002.06353) (under review); [CLIP4Clip](https://arxiv.org/abs/2104.08860) (under review); [GODIVA](https://arxiv.org/abs/2104.14806) (under review); [KD-VLP](https://arxiv.org/abs/2109.10504) (under review)
+- Code-Language: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020); [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021); [eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021); [Grammformer](https://arxiv.org/abs/2106.10158) (under review)
 - Benchmark Dataset: [XGLUE](https://arxiv.org/abs/2004.01401) (EMNLP 2020); [CodeXGLUE](https://arxiv.org/abs/2102.04664) (under review); [GLGE](https://arxiv.org/abs/2011.11928) (ACL 2021); [GEM](https://arxiv.org/abs/2106.09889) (ACL 2021); [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021)
 
 ### Tutorial/Keynote/Invited-talk
@@ -84,6 +84,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Publication-Paper
 
+- Yongfei Liu, Chenfei Wu, Shao-yen Tseng, Vasudev Lal, Xuming He, Nan Duan. **KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation**. arXiv, 2021.
 - Colin Clement, Shuai Lu, Xiaoyu Liu, Michele Tufano, Dawn Drain, Nan Duan, Neel Sundaresan, Alexey Svyatkovskiy. **Long-Range Modeling of Source Code Files with eWASH: Extended Window Access by Syntax Hierarchy**. EMNLP, 2021.
 - Yimin Fan, Yaobo Liang, Alexandre Muzio, Hany Hassan, Houqiang Li, Ming Zhou, Nan Duan. **Discovering Representation Sprachbund For Multilingual Pre-Training**. Findings of EMNLP, 2021.
 - Haonan Li, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan. **KFC: Knowledge Filtering and Contrastive Learning for Generative Commonsense Reasoning**. Findings of EMNLP, 2021.
