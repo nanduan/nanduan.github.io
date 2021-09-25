@@ -50,7 +50,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 - Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [DMAN](https://arxiv.org/abs/2103.13597) (NAACL 2021), [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL-Demo 2021); [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021); [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021); [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021)
 - Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019); [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021)
-- Image-Language: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020); [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021)
+- Image-Language: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020); [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021); [KD-VLP](https://arxiv.org/abs/2109.10504) (under review)
 - Video-Language: [UniVL](https://arxiv.org/abs/2002.06353) (under review); [CLIP4Clip](https://arxiv.org/abs/2104.08860) (under review); [GODIVA](https://arxiv.org/abs/2104.14806) (under review); [KD-VLP](https://arxiv.org/abs/2109.10504) (under review)
 - Code-Language: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020); [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021); [eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021); [Grammformer](https://arxiv.org/abs/2106.10158) (under review)
 - Benchmark Dataset: [XGLUE](https://arxiv.org/abs/2004.01401) (EMNLP 2020); [CodeXGLUE](https://arxiv.org/abs/2102.04664) (NeurIPS 2021); [GLGE](https://arxiv.org/abs/2011.11928) (ACL 2021); [GEM](https://arxiv.org/abs/2106.09889) (ACL 2021); [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021)
