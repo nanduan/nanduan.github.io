@@ -5,7 +5,7 @@
 
 Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research Asia. He is also an adjunct professor at Tianjin University. His research interests include natural language processing, knowledge-based reasoning, large-scale pre-training for language, vision and code. He served as the evaluation chair, senior area chair or area chair for top AI conferences such as ACL, EMNLP, NAACL, NLPCC, etc. He is a senior member of CCF and the CCF Distinguished Speaker. He was awarded the CCF-NLPCC Distinguished Young Scientist. He leads the benchmark dataset efforts including XGLUE, CodeXGLUE, NLPCC-KBQA. His book “Question Answering” was published by the Higher Education Press in 2018. He published 100+ research papers and holds 10+ patents. His research has been applied in many Microsoft products.
 
-段楠博士，微软亚洲研究院高级研究员/研究经理，天津大学兼职教授，微软亚洲研究院-中国科学技术大学/中山大学/北京航空航天大学联合培养博士生导师，主要从事自然语言处理、基于知识的推理、以及多语言/多模态/编程语言预训练等研究，多次担任ACL、EMNLP、NAACL、NLPCC等国际会议评测主席、高级领域主席和领域主席，CCF高级会员和杰出讲演者，CCF-NLPCC青年科学家，发布XGLUE、CodeXGLUE和NLPCC-KBQA等开源学术数据集，著有《智能问答》(高等教育出版社，2018)，发表学术论文100余篇，持有专利10余项，多项研究成果用于微软各类人工智能产品。
+段楠博士，微软亚洲研究院高级研究员/研究经理，天津大学兼职教授，微软亚洲研究院-中国科学技术大学/中山大学/北京航空航天大学联合培养博士生导师，主要从事自然语言处理、基于知识的推理、以及多语言/多模态/编程语言预训练等研究，多次担任ACL、EMNLP、NAACL、NLPCC等国际会议评测主席、高级领域主席和领域主席，CCF杰出会员和杰出讲演者，CCF-NLPCC青年科学家，发布XGLUE、CodeXGLUE和NLPCC-KBQA等开源学术数据集，著有《智能问答》(高等教育出版社，2018)，发表学术论文100余篇，持有专利10余项，多项研究成果用于微软各类人工智能产品。
 
 ### Some Slides
 
@@ -22,6 +22,8 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Highlight
 
+- 2021-09: Distinguished Member of CCF.
+- 2021-09: [KD-VLP](https://arxiv.org/abs/2109.10504) SOTAs on several multimodal tasks.
 - 2021-06: [GEM](https://microsoft.github.io/GEM/) is released for multilingual multimodal research.
 - 2021-06: [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert), welcome to use [CodeBERT](https://github.com/microsoft/CodeBERT) and [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/).
 - 2021-05: Re-upload [NLPCC-KBQA datasets](https://github.com/nanduan/NLPCC-KBQA), as people frequently asked me where they are...
