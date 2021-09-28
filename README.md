@@ -50,7 +50,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Recent Pre-training Research
 
-- Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [DMAN](https://arxiv.org/abs/2103.13597) (NAACL 2021); [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021); [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021); [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021); [K-Adapter](https://arxiv.org/abs/2002.01808)
+- Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [DMAN](https://arxiv.org/abs/2103.13597) (NAACL 2021); [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021); [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021); [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021); [K-Adapter](https://arxiv.org/abs/2002.01808) (ACL 2021)
 - Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019); [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021); [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL 2021); [XLM-K](https://arxiv.org/abs/2109.12573)
 - Image-Language: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020); [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021); [LoopCAG](https://aclanthology.org/2021.acl-long.157.pdf) (ACL 2021); [KD-VLP](https://arxiv.org/abs/2109.10504)
 - Video-Language: [UniVL](https://arxiv.org/abs/2002.06353); [CLIP4Clip](https://arxiv.org/abs/2104.08860); [GODIVA](https://arxiv.org/abs/2104.14806)
