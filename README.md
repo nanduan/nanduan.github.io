@@ -180,7 +180,6 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Junwei Bao#, Duyu Tang, Nan Duan, Zhao Yan, Yuanhua Lv, Ming Zhou, Tiejun Zhao. **Table-to-Text: Describing Table Region with Natural Language**. AAAI, 2018.
 - Zhao Yan#, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li. **Assertion-based QA with Question-Aware Open Information Extraction**. AAAI, 2018.
 - Yibo Sun, Daya Guo, Duyu Tang, Nan Duan, Zhao Yan, Xiaocheng Feng, Bing Qin. **Knowledge Based Machine Reading Comprehension**. arXiv, 2018.
-- Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. **Improving Question Answering by Commonsense-Based Pre-Training**. arXiv, 2018.
 - Nan Duan. **Overview of the NLPCC 2017 Shared Task: Open Domain QA**. NLPCC, 2017.
 - Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Ming Zhou. **Question Answering and Question Generation as Dual Tasks**. arXiv, 2017.
 - Zhao Yan#, Duyu Tang, Nan Duan, Junwei Bao, Yuanhua Lv, Ming Zhou, Zhoujun Li. **Content-Based Table Retrieval for Web Queries**. arXiv, 2017.
