@@ -50,7 +50,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Recent Pre-training Research
 
-- Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [DMAN](https://arxiv.org/abs/2103.13597) (NAACL 2021); [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021); [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021); [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021)
+- Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [DMAN](https://arxiv.org/abs/2103.13597) (NAACL 2021); [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021); [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021); [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021); [K-Adapter](https://arxiv.org/abs/2002.01808)
 - Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019); [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021); [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL 2021); [XLM-K](https://arxiv.org/abs/2109.12573)
 - Image-Language: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020); [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021); [LoopCAG](https://aclanthology.org/2021.acl-long.157.pdf) (ACL 2021); [KD-VLP](https://arxiv.org/abs/2109.10504)
 - Video-Language: [UniVL](https://arxiv.org/abs/2002.06353); [CLIP4Clip](https://arxiv.org/abs/2104.08860); [GODIVA](https://arxiv.org/abs/2104.14806)
@@ -145,7 +145,6 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Yibo Sun, Duyu Tang, Nan Duan, Tao Qin, Shujie Liu, Zhao Yan, Ming Zhou, Yuanhua Lv, Wenpeng Yin, Xiaocheng Feng, Bing Qin, Ting Liu. **Joint Learning of Question Answering and Question Generation**. IEEE Transactions on Knowledge and Data Engineering, 2020.
 - Ming Zhou, Nan Duan, Shujie Liu, Heung-Yeung Shum. **Progress in Neural NLP: Modeling, Learning, and Reasoning**. Engineering, 2020.
 - Huaishao Luo, Lei Ji, Botian Shi, Haoyang Huang, Nan Duan, Tianrui Li, Xilin Chen, Ming Zhou. **UniViLM: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation**. arXiv, 2020.
-- Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. **K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters**. arXiv, 2020.
 - Gen Li#, Nan Duan, Yuejian Fang, Ming Gong, Daxin Jiang, Ming Zhou. **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training**. AAAI, 2020.
 - Kyungjae Lee#, Nan Duan, Lei Ji, Jason Li, Seungwon Hwang. **Segment-then-Rank: Non-factoid Question Answering on Instructional Videos**. AAAI, 2020.
 - Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. **Graph-based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering**. AAAI, 2020.
