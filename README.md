@@ -51,7 +51,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 ### Recent Pre-training Research
 
 - Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [DMAN](https://arxiv.org/abs/2103.13597) (NAACL 2021); [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021); [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021); [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021)
-- Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019); [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021); [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL-Demo 2021); 
+- Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019); [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021); [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL-Demo 2021); [XLM-K](https://arxiv.org/abs/2109.12573)
 - Image-Language: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020); [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021); [LoopCAG](https://aclanthology.org/2021.acl-long.157.pdf) (ACL 2021); [KD-VLP](https://arxiv.org/abs/2109.10504) (under review)
 - Video-Language: [UniVL](https://arxiv.org/abs/2002.06353) (under review); [CLIP4Clip](https://arxiv.org/abs/2104.08860) (under review); [GODIVA](https://arxiv.org/abs/2104.14806) (under review)
 - Code-Language: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020); [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021); [eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021); [Grammformer](https://arxiv.org/abs/2106.10158) (under review)
@@ -86,6 +86,8 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Publication-Paper
 
+- Wei Chen, Yeyun Gong, Can Xu, Huang Hu, Bolun Yao, Zhongyu Wei, Zhihao Fan, Xiaowu Hu, Bartuer Zhou, Biao Cheng, Daxin Jiang, Nan Duan. **Contextual Fine-to-Coarse Distillation for Coarse-grained Response Selection in Open-Domain Conversations**. arXiv, 2021.
+- Xiaoze Jiang, Yaobo Liang, Weizhu Chen, Nan Duan. **XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge**. arXiv, 2021.
 - Yongfei Liu, Chenfei Wu, Shao-yen Tseng, Vasudev Lal, Xuming He, Nan Duan. **KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation**. arXiv, 2021.
 - Colin Clement, Shuai Lu, Xiaoyu Liu, Michele Tufano, Dawn Drain, Nan Duan, Neel Sundaresan, Alexey Svyatkovskiy. **Long-Range Modeling of Source Code Files with eWASH: Extended Window Access by Syntax Hierarchy**. EMNLP, 2021.
 - Yimin Fan, Yaobo Liang, Alexandre Muzio, Hany Hassan, Houqiang Li, Ming Zhou, Nan Duan. **Discovering Representation Sprachbund For Multilingual Pre-Training**. Findings of EMNLP, 2021.
