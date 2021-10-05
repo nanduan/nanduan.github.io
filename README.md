@@ -86,6 +86,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Publication-Paper
 
+- Lei Ji, Chenfei Wu, Daisy Zhou, Kun Yan, Edward Cui, Xilin Chen, Nan Duan. **Learning Temporal Video Procedure Segmentation from an Automatically Collected Large Dataset**. WACV, 2022.
 - Wei Chen, Yeyun Gong, Can Xu, Huang Hu, Bolun Yao, Zhongyu Wei, Zhihao Fan, Xiaowu Hu, Bartuer Zhou, Biao Cheng, Daxin Jiang, Nan Duan. **Contextual Fine-to-Coarse Distillation for Coarse-grained Response Selection in Open-Domain Conversations**. arXiv, 2021.
 - Xiaoze Jiang, Yaobo Liang, Weizhu Chen, Nan Duan. **XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge**. arXiv, 2021.
 - Yongfei Liu, Chenfei Wu, Shao-yen Tseng, Vasudev Lal, Xuming He, Nan Duan. **KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation**. arXiv, 2021.
