@@ -22,7 +22,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Highlight
 
-- 2021-11: [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)) is the first visual synthesis pre-trained model that covers text, image and video at the same time, and support 8 visual synthesis tasks.
+- 2021-11: [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)) is the first visual synthesis pre-trained model that covers text, image and video at the same time, and supports 8 visual synthesis tasks.
 - 2021-09: Distinguished Member of CCF.
 - 2021-09: [KD-VLP](https://arxiv.org/abs/2109.10504) SOTAs on several multimodal tasks.
 - 2021-06: [GEM](https://microsoft.github.io/GEM/) is released for multilingual multimodal research.
