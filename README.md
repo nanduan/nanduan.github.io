@@ -263,6 +263,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Dataset
 
+- [GEM](https://arxiv.org/abs/2106.09889): a benchmark dataset for multilingual multimodal tasks.
 - [GLGE](https://github.com/microsoft/glge): a benchmark dataset for natural language generation. ([blog](https://www.msra.cn/zh-cn/news/features/glge))
 - [CodeXGLUE](https://github.com/microsoft/CodeXGLUE): a benchmark dataset for code intelligence. ([blog](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/))
 - [XGLUE](https://github.com/microsoft/XGLUE): a benchmark dataset for multilingual NLP tasks. ([blog](https://www.microsoft.com/en-us/research/blog/xglue-expanding-cross-lingual-understanding-and-generation-with-tasks-from-real-world-scenarios/))
