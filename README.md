@@ -25,8 +25,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - 2021-11: [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)) is the first visual synthesis pre-trained model that covers text, image and video at the same time, and supports 8 visual synthesis tasks.
 - 2021-09: Distinguished Member of CCF.
 - 2021-09: [KD-VLP](https://arxiv.org/abs/2109.10504) is an end-to-end vision-language pre-trained model and SOTAs on several downstream vision-language tasks.
-- 2021-06: [GEM](https://microsoft.github.io/GEM/) is released for multilingual multimodal research.
-- 2021-06: [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert), welcome to use [CodeBERT](https://github.com/microsoft/CodeBERT) and [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/).
+- 2021-06: [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert), welcome to use [CodeBERT/GraphCodeBERT](https://github.com/microsoft/CodeBERT) and [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/).
 - 2021-05: Re-upload [NLPCC-KBQA datasets](https://github.com/nanduan/NLPCC-KBQA), as people frequently asked me where they are...
 - 2021-05: [GODIVA](https://arxiv.org/abs/2104.14806) for open-domain text-to-video generation ([blog](https://www.msra.cn/zh-cn/news/features/godiva)).
 - 2021-04: [Unicoder](https://arxiv.org/abs/2109.12573) SOTAs on [XTREME](https://sites.research.google/xtreme) for cross-lingual NLU tasks.
