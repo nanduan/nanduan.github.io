@@ -13,14 +13,12 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 ### Highlight
 
 - 2021-11: [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)) is the first visual synthesis pre-trained model that covers text, image and video at the same time, and supports 8 visual synthesis tasks.
-- 2021-09: Distinguished Member of CCF.
 - 2021-09: [KD-VLP](https://arxiv.org/abs/2109.10504) is an end-to-end vision-language pre-trained model and SOTAs on several downstream vision-language tasks.
 - 2021-06: [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert), welcome to use [CodeBERT/GraphCodeBERT](https://github.com/microsoft/CodeBERT) and [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/).
 - 2021-05: Re-upload [NLPCC-KBQA datasets](https://github.com/nanduan/NLPCC-KBQA), as people frequently asked me where they are...
 - 2021-05: [GODIVA](https://arxiv.org/abs/2104.14806) for open-domain text-to-video generation ([blog](https://www.msra.cn/zh-cn/news/features/godiva)).
 - 2021-04: [Unicoder-ZCode](https://arxiv.org/abs/2109.12573) based on the multilingual knowledge base SOTAs on [XTREME](https://sites.research.google/xtreme) for cross-lingual NLU tasks.
 - 2021-04: [ProphetNet-X](https://arxiv.org/abs/2104.08006) SOTAs on [XGLUE](https://microsoft.github.io/XGLUE/) for cross-lingual NLG tasks.
-- 2021-03: Senior Member of CCF.
 - 2021-03: [LReasoner](https://arxiv.org/abs/2105.03659) achieves human parity on [LSAT/GMAT logical reasoning questions](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347).
 - 2021-03: [Document Modeling for QA and Captions](https://www.microsoft.com/en-us/research/blog/the-science-behind-semantic-search-how-ai-from-bing-is-powering-azure-cognitive-search/) in Azure Cognitive Search.
 - 2021-01: [PoolingFormer](https://arxiv.org/abs/2105.04371) SOTAs on [NQ](https://ai.google.com/research/NaturalQuestions) and [TyDi](https://ai.google.com/research/tydiqa).
@@ -35,7 +33,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - 2018-12: Project Semantic Parsing (joint with Bing) was reviewed by Bill Gates.
 - 2018-11: Project Video Intelligence was reviewed by Bill Gates on MSRA's 20th Anniversary.
 - 2018-09: 《智能问答》was published by the Higher Education Press.
-- 2017-12: CCF Distinguished Speaker.
+
 
 
 ### Recent Pre-training Research
@@ -214,6 +212,10 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Area Chair of NAACL 2021/IJCAI 2021.
 - Evaluation Chair of NLPCC 2018/NLPCC 2019.
 - PC Members of TACL/ACL/EMNLP/NAACL/COLING/NeurIPS/ICLR/CVPR/AAAI/KDD/IJCAI/etc.
+
+- Distinguished Member of CCF, 2021.
+- Senior Member of CCF, 2021.
+- CCF Distinguished Speaker, 2020/2017.
 - Member of CIPS Technical Committee of NLG, 2021-present.
 - Member of CCF Committee on Academic Affairs, 2020-present.
 - Member of CCF Technical Committee of NLP, 2018-present.
