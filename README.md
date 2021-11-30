@@ -12,33 +12,18 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Highlight
 
-- 2021-11: [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)) is the first unified visual synthesis pre-trained model and SOTAs on 8 downstream tasks.
-- 2021-09: [KD-VLP](https://arxiv.org/abs/2109.10504) is an end-to-end vision-language pre-trained model with object knowledge distillation.
-- 2021-06: [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert), welcome to use [CodeBERT/GraphCodeBERT](https://github.com/microsoft/CodeBERT) and [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/).
-- 2021-04: [Unicoder-ZCode](https://arxiv.org/abs/2109.12573) based on the multilingual knowledge base SOTAs on [XTREME](https://sites.research.google/xtreme).
-- 2021-03: [LReasoner](https://arxiv.org/abs/2105.03659) achieves human parity on [LSAT/GMAT logical reasoning questions](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347).
-- 2021-01: [PoolingFormer](https://arxiv.org/abs/2105.04371) SOTAs on [NQ](https://ai.google.com/research/NaturalQuestions) and [TyDi](https://ai.google.com/research/tydiqa).
-- 2020-11: [GLGE](https://github.com/microsoft/glge) is released for NLG research.
-- 2020-11: [EMNLP 2020 Tutorial](https://slideslive.com/38940827/t4-machine-reasoning-technology-dilemma-and-future) "Machine Reasoning: Technology, Dilemma and Future".
-- 2020-09: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) is released for code intelligence research.
-- 2020-05: [XGLUE](https://microsoft.github.io/XGLUE/) is released for multilingual NLP research.
-- 2019-11: [Unicoder](https://arxiv.org/abs/1909.00964) and [Unicoder-VL](https://arxiv.org/abs/1908.06066) were reviewed by Bill Gates.
-- 2019-07: [Unicoder-VL](https://arxiv.org/abs/1908.06066) SOTAs on [GQA](https://eval.ai/web/challenges/challenge-page/225/leaderboard/733).
-- 2018-12: Project Semantic Parsing was reviewed by Bill Gates.
-- 2018-11: Project Video Intelligence was reviewed by Bill Gates.
+- State-of-the-art visual synthesis pre-trained model [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)).
+- State-of-the-art dense information retrieval model [AR2](https://arxiv.org/abs/2110.03611).
+- State-of-the-art code pre-trained models, including [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020) & [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021) & [eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021) and [Grammformer](https://arxiv.org/abs/2106.10158).
+- State-of-the-art multimodal pre-trained models, including [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020) & [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021) & [LoopCAG](https://aclanthology.org/2021.acl-long.157.pdf) (ACL 2021) & [KD-VLP](https://arxiv.org/abs/2109.10504) for image-language tasks, and [UniVL](https://arxiv.org/abs/2002.06353) & [CLIP4Clip](https://arxiv.org/abs/2104.08860) & [GODIVA](https://arxiv.org/abs/2104.14806) for video-language tasks.
+- State-of-the-art multilingual pre-trained models, including [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019), [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021), [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL 2021), and [XLM-K](https://arxiv.org/abs/2109.12573).
+- State-of-the-art monolingual pre-trained models, including [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021) & [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021) & [K-Adapter](https://arxiv.org/abs/2002.01808) (ACL 2021) for understanding tasks, and [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020) & [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021) for generation tasks.
+- Benchmarks for communities, including [XGLUE](https://arxiv.org/abs/2004.01401) (EMNLP 2020) for multilingual NLP, [CodeXGLUE](https://arxiv.org/abs/2102.04664) (NeurIPS 2021) & [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021) for code intelligence, [GLGE](https://arxiv.org/abs/2011.11928) (ACL 2021) for NLG, and [GEM](https://arxiv.org/abs/2106.09889) (ACL 2021) for multimodality; 
+- Best systems on popular leaderboards, such as [XLM-K](https://arxiv.org/abs/2109.12573) (i.e. Unicoder-ZCode) on [XTREME](https://sites.research.google/xtreme) (2021-04), [Unicoder-VL](https://arxiv.org/abs/1908.06066) on [GQA](https://eval.ai/web/challenges/challenge-page/225/leaderboard/733) (now), [PoolingFormer](https://arxiv.org/abs/2105.04371) on [NQ](https://ai.google.com/research/NaturalQuestions) and [TyDi](https://ai.google.com/research/tydiqa) (now), [LReasoner](https://arxiv.org/abs/2105.03659) on [ReClor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) (now), [GraphReasoner](https://arxiv.org/abs/1909.05311) on [CommonsenseQA](https://www.tau-nlp.org/csqa-leaderboard) (2019-08), and [GraphReasoner](https://arxiv.org/abs/1909.03745) on [FEVER](https://competitions.codalab.org/competitions/18814#results) (2019-08).
+- 3 projects reviewed by Bill Gates, including Unicoder/Unicoder-VL (2019), Video Chat (2018), and Semantic Parsing (2018).
+- [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert), welcome to use [CodeBERT/GraphCodeBERT](https://github.com/microsoft/CodeBERT) and [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) for your AI4Code research.
 
 
-
-### Recent Pre-training Research
-
-- Monolingual: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020); [DMAN](https://arxiv.org/abs/2103.13597) (NAACL 2021); [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021); [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021); [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021); [K-Adapter](https://arxiv.org/abs/2002.01808) (ACL 2021);
-- Multilingual: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019); [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021); [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL 2021); [XLM-K](https://arxiv.org/abs/2109.12573);
-- Image-Language: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020); [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021); [LoopCAG](https://aclanthology.org/2021.acl-long.157.pdf) (ACL 2021); [KD-VLP](https://arxiv.org/abs/2109.10504);
-- Video-Language: [UniVL](https://arxiv.org/abs/2002.06353); [CLIP4Clip](https://arxiv.org/abs/2104.08860); [GODIVA](https://arxiv.org/abs/2104.14806);
-- Visual Synthesis: [NÜWA](https://arxiv.org/abs/2111.12417);
-- Code-Language: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020); [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021); [eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021); [Grammformer](https://arxiv.org/abs/2106.10158);
-- Benchmark Dataset: [XGLUE](https://arxiv.org/abs/2004.01401) (EMNLP 2020); [CodeXGLUE](https://arxiv.org/abs/2102.04664) (NeurIPS 2021); [GLGE](https://arxiv.org/abs/2011.11928) (ACL 2021); [GEM](https://arxiv.org/abs/2106.09889) (ACL 2021); [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021);
-- Dense Information Retrieval: [AR2](https://arxiv.org/abs/2110.03611);
  
 ### Tutorial/Keynote/Invited-talk
 
