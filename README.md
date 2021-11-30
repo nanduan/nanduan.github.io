@@ -15,8 +15,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - 2021-11: [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)) is the first unified pre-trained model for various visual synthesis tasks covering text, image and video at the same time.
 - 2021-09: [KD-VLP](https://arxiv.org/abs/2109.10504) is an end-to-end vision-language pre-trained model with object knowledge distillation.
 - 2021-06: [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert), welcome to use [CodeBERT/GraphCodeBERT](https://github.com/microsoft/CodeBERT) and [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/).
-- 2021-04: [Unicoder-ZCode](https://arxiv.org/abs/2109.12573) based on the multilingual knowledge base SOTAs on [XTREME](https://sites.research.google/xtreme) for cross-lingual NLU tasks.
-- 2021-04: [ProphetNet-X](https://arxiv.org/abs/2104.08006) SOTAs on [XGLUE](https://microsoft.github.io/XGLUE/) for cross-lingual NLG tasks.
+- 2021-04: [Unicoder-ZCode](https://arxiv.org/abs/2109.12573) based on the multilingual knowledge base SOTAs on [XTREME](https://sites.research.google/xtreme).
 - 2021-03: [LReasoner](https://arxiv.org/abs/2105.03659) achieves human parity on [LSAT/GMAT logical reasoning questions](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347).
 - 2021-03: [Document Modeling for QA and Captions](https://www.microsoft.com/en-us/research/blog/the-science-behind-semantic-search-how-ai-from-bing-is-powering-azure-cognitive-search/) in Azure Cognitive Search.
 - 2021-01: [PoolingFormer](https://arxiv.org/abs/2105.04371) SOTAs on [NQ](https://ai.google.com/research/NaturalQuestions) and [TyDi](https://ai.google.com/research/tydiqa).
