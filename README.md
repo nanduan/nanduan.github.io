@@ -12,7 +12,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Highlight
 
-- 2021-11: [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)) is the first unified pre-trained model for various visual synthesis tasks covering text, image and video at the same time.
+- 2021-11: [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)) is the first unified visual synthesis pre-trained model that SOTAs on 8 downstream tasks.
 - 2021-09: [KD-VLP](https://arxiv.org/abs/2109.10504) is an end-to-end vision-language pre-trained model with object knowledge distillation.
 - 2021-06: [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert), welcome to use [CodeBERT/GraphCodeBERT](https://github.com/microsoft/CodeBERT) and [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/).
 - 2021-04: [Unicoder-ZCode](https://arxiv.org/abs/2109.12573) based on the multilingual knowledge base SOTAs on [XTREME](https://sites.research.google/xtreme).
