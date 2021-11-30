@@ -64,7 +64,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - [Latest Progress of Question Answering](https://www.ccf.org.cn/c/2017-11-30/620142.shtml). CCF-Tech Frontier tutorial, 2017-11.
 - [Building Informational Bot (InfoBot) with Question Answering & Generation](http://tcci.ccf.org.cn/conference/2017/adllecturers.php). CCF-ADL tutorial, 2017-11. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Building%20Information%20Bot%20with%20Question%20Understanding%2C%20Answering%20%26%20Asking.ADL%20tutorial%202017.pdf))
 - [Knowledge-based Question Answering](http://118.190.20.181/xhdtnry.jsp-contentId=2836201101004.htm). CCF-ADL tutorial, 2014-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Knowledge-based%20Question%20Answering.pdf))
-- How To Do Research as a Ph.D. Student. CCF-ADL, 2012. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/how%20to%20be%20a%20Ph.D.%20student.pdf))
+- How To Do Research as a Ph.D. Student. CCF-ADL, 2012-06. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/how%20to%20be%20a%20Ph.D.%20student.pdf))
 
 
 ### Publication-Book
