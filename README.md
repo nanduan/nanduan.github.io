@@ -61,25 +61,25 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
  
 ### Tutorial/Keynote/Invited-talk
 
-- [Semantic-Driven Visual Content Creation](https://mp.weixin.qq.com/s/9tvjmHB_TUwKNTmv2U40-Q). Invited-talk on SMP, 2021-11.
-- [Vision-Language Pre-training: Progress and Challenge](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html). Invited-talk on CAAI, 2021-08.
+- [Semantic-Driven Visual Content Creation](https://mp.weixin.qq.com/s/9tvjmHB_TUwKNTmv2U40-Q). Invited-talk at SMP, 2021-11.
+- [Vision-Language Pre-training: Progress and Challenge](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html). Invited-talk at CAAI, 2021-08.
 - [Pre-trained Models and Benchmark for Code Intelligence](http://plpworkshop.com/). Keynote at KDD workshop on Programming Language Processing (PLP), 2021-08.
-- [Really Reaching Human Parity? - Addressing Benchmark Issues on Robustness, Bias and Metric](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md#S1). ACL Workshop on BPPF, 2021-08.
-- Vision-Language Pre-training: Progress and Challenge. CCF-RACV (Recent Advances in Computer Vision), 2021-08.
-- [SOTAs, Benchmarks and Future of Pre-trained Models for Multilingual, Multimodal, Code and Generation](https://www.ccf.org.cn/Activities/Training/ADL/2021-05-06/727915.shtml). CCF-ADL, 2021-05.
-- [Multilingual Multimodal Pre-training](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20201001&CpPage=94#CONF). Korean Artificial Intelligence Association, 2020-11.
+- [Really Reaching Human Parity? - Addressing Benchmark Issues on Robustness, Bias and Metric](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md#S1). Invited-talk at ACL Workshop on BPPF, 2021-08.
+- Vision-Language Pre-training: Progress and Challenge. Invited-talk at CCF-RACV (Recent Advances in Computer Vision), 2021-08.
+- [SOTAs, Benchmarks and Future of Pre-trained Models for Multilingual, Multimodal, Code and Generation](https://www.ccf.org.cn/Activities/Training/ADL/2021-05-06/727915.shtml). CCF-ADL tutorial, 2021-05.
+- [Multilingual Multimodal Pre-training](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20201001&CpPage=94#CONF). Keynote at Korean Artificial Intelligence Association, 2020-11.
 - [Machine Reasoning: Technology, Dilemma and Future](https://2020.emnlp.org/tutorials). EMNLP Tutorial, 2020-11.
-- [Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://dl.ccf.org.cn/audioVideoZx/detail.html?_ack=1&id=5149819289667584). CNCC, 2020-10.
-- [Multilingual/Multimodal Pre-training](http://tcci.ccf.org.cn/conference/2020/MMNLP.php). NLPCC Multimodal NLP Workshop, 2020-10.
-- [Machine Reasoning: Combining Knowledge and Pre-trained Models for Better NLU](http://tcci.ccf.org.cn/conference/2019/tworkshop.php). NLPCC Technical Workshop, 2019-10.
-- [Pre-training for Cross-task, Cross-lingual and Cross-modal Applications](https://www.ccf.org.cn/c/2019-08-20/668185.shtml). CCF-Tech Frontier, 2019-08.
-- [When Language Meets Vision: Multi-modal NLP with Visual Contents](http://tcci.ccf.org.cn/summit/2019/duannan.php). Language & Intelligence Summit, 2019-08.
-- [Question Answering with Heterogeneous Data](http://conference.cipsc.org.cn/ssatt2019). CIPS-ATT, 2019-07.
-- [Pre-training in NLP and Multi-modal Learning](http://news.bnu.edu.cn/zx/xzdt/109189.htm). SMP 1st Social Bot Forum, 2019-04.
-- [Knowledge-enhanced NLP: Progress and Challenge](http://tcci.ccf.org.cn/conference/2018/tworkshop.php#tws). NLPCC Technical Workshops, 2018-08.
-- [Latest Progress of Question Answering](https://www.ccf.org.cn/c/2017-11-30/620142.shtml). CCF-Tech Frontier, 2017-11.
-- [Building Informational Bot (InfoBot) with Question Answering & Generation](http://tcci.ccf.org.cn/conference/2017/adllecturers.php). CCF-ADL, 2017-11.
-- [Knowledge-based Question Answering](http://118.190.20.181/xhdtnry.jsp-contentId=2836201101004.htm). CCF-ADL, 2014-12.
+- [Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://dl.ccf.org.cn/audioVideoZx/detail.html?_ack=1&id=5149819289667584). Invited-talk at CNCC, 2020-10.
+- [Multilingual/Multimodal Pre-training](http://tcci.ccf.org.cn/conference/2020/MMNLP.php). Invited-talk at NLPCC Multimodal NLP Workshop, 2020-10.
+- [Machine Reasoning: Combining Knowledge and Pre-trained Models for Better NLU](http://tcci.ccf.org.cn/conference/2019/tworkshop.php). Invited-talk at NLPCC Technical Workshop, 2019-10.
+- [Pre-training for Cross-task, Cross-lingual and Cross-modal Applications](https://www.ccf.org.cn/c/2019-08-20/668185.shtml). CCF-Tech Frontier tutorial, 2019-08.
+- [When Language Meets Vision: Multi-modal NLP with Visual Contents](http://tcci.ccf.org.cn/summit/2019/duannan.php). Invited-talk at Language & Intelligence Summit, 2019-08.
+- [Question Answering with Heterogeneous Data](http://conference.cipsc.org.cn/ssatt2019). CIPS-ATT tutorial, 2019-07.
+- [Pre-training in NLP and Multi-modal Learning](http://news.bnu.edu.cn/zx/xzdt/109189.htm). Invited-talk at SMP, 2019-04.
+- [Knowledge-enhanced NLP: Progress and Challenge](http://tcci.ccf.org.cn/conference/2018/tworkshop.php#tws). Invited-talk at NLPCC Technical Workshops, 2018-08.
+- [Latest Progress of Question Answering](https://www.ccf.org.cn/c/2017-11-30/620142.shtml). CCF-Tech Frontier tutorial, 2017-11.
+- [Building Informational Bot (InfoBot) with Question Answering & Generation](http://tcci.ccf.org.cn/conference/2017/adllecturers.php). CCF-ADL tutorial, 2017-11.
+- [Knowledge-based Question Answering](http://118.190.20.181/xhdtnry.jsp-contentId=2836201101004.htm). CCF-ADL tutorial, 2014-12.
 
 
 ### Publication-Book
