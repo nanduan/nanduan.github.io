@@ -9,16 +9,13 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 段楠博士，微软亚洲研究院高级研究员/研究经理，天津大学兼职教授，微软亚洲研究院-中国科学技术大学/中山大学/北京航空航天大学联合培养博士生导师，主要从事自然语言处理、机器推理、以及针对语言/视觉/代码的大规模预训练等研究，多次担任NLP/AI/ML相关国际会议评测主席、高级领域主席和领域主席，CCF杰出会员和杰出讲演者，CCF-NLPCC青年科学家，发布XGLUE、CodeXGLUE和NLPCC-KBQA/DBQA等开源学术数据集，著有《智能问答》(高等教育出版社，2018)，发表学术论文100余篇，持有专利10余项，多项研究成果用于微软各类人工智能产品。
 
-%### Some Slides
+### Some Slides
 
-%- [Multimodal Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/Vision-Language%20Pre-training%20-%20Progress%20and%20Challenge.pdf). CAAI tutorial, 2021.
-%- [Code Intelligence](https://github.com/nanduan/nanduan.github.io/blob/main/Pre-trained%20Models%20and%20Benchmark%20for%20Code%20Intelligence.KDD%20keynote%202021.pdf). KDD keynote, 2021.
-%- [NLP Benchmark](https://github.com/nanduan/nanduan.github.io/blob/main/Addressing%20Benchmark%20Issues%20on%20Robustness%2C%20Bias%20and%20Metric.ACL%202021.pdf). ACL invited-talk, 2021.
-%- [Large-scale Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/State-of-the-Arts%2C%20Benchmarks%20and%20Future%20of%20Pre-trained%20Models%20for%20Multilingual%2C%20Multimodal%2C%20Code%20and%20Generation.ADL%20Tutorial%202021.pdf). CCF-ADL tutorial, 2021.
-%- [Machine Reasoning](https://github.com/nanduan/nanduan.github.io/blob/main/Machine%20Reasoning%20-%20Technology%2C%20Dilemma%20and%20Future.EMNLP%20tutorial%202020.pdf). EMNLP tutorial, 2020.
-%- [Multitask Multilingual Multimodal Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/Multitask%20Multilingual%20Multimodal%20Pre-training.CNCC%202020.pdf). CNCC invited-talk, 2020.
-%- [Open-domain Question Answering](https://github.com/nanduan/nanduan.github.io/blob/main/Building%20Information%20Bot%20with%20Question%20Understanding%2C%20Answering%20%26%20Asking.ADL%20tutorial%202017.pdf). CCF-ADL tutorial, 2017.
-%- [Knowledge-based Question Answering](https://github.com/nanduan/nanduan.github.io/blob/main/Knowledge-based%20Question%20Answering.pdf). An extended version of CCF-ADL tutorial, 2016.
+- [Large-scale Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/State-of-the-Arts%2C%20Benchmarks%20and%20Future%20of%20Pre-trained%20Models%20for%20Multilingual%2C%20Multimodal%2C%20Code%20and%20Generation.ADL%20Tutorial%202021.pdf). CCF-ADL tutorial, 2021.
+- [Machine Reasoning](https://github.com/nanduan/nanduan.github.io/blob/main/Machine%20Reasoning%20-%20Technology%2C%20Dilemma%20and%20Future.EMNLP%20tutorial%202020.pdf). EMNLP tutorial, 2020.
+- [Multitask Multilingual Multimodal Pre-training](https://github.com/nanduan/nanduan.github.io/blob/main/Multitask%20Multilingual%20Multimodal%20Pre-training.CNCC%202020.pdf). CNCC invited-talk, 2020.
+- [Open-domain Question Answering](https://github.com/nanduan/nanduan.github.io/blob/main/Building%20Information%20Bot%20with%20Question%20Understanding%2C%20Answering%20%26%20Asking.ADL%20tutorial%202017.pdf). CCF-ADL tutorial, 2017.
+- [Knowledge-based Question Answering](https://github.com/nanduan/nanduan.github.io/blob/main/Knowledge-based%20Question%20Answering.pdf). An extended version of CCF-ADL tutorial, 2016.
 %- [How To Do Research as a Ph.D. Student](https://github.com/nanduan/nanduan.github.io/blob/main/how%20to%20be%20a%20Ph.D.%20student.pdf). CCF-ADL, 2012.
 %- [Consensus Decoding in SMT](https://github.com/nanduan/nanduan.github.io/blob/main/Consensus%20Decoding%20in%20SMT.2011.pdf). My Ph.D. Defense ^_^, 2011.
 
@@ -64,9 +61,9 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 ### Tutorial/Keynote/Invited-talk
 
 - [Semantic-Driven Visual Content Creation](https://mp.weixin.qq.com/s/9tvjmHB_TUwKNTmv2U40-Q). Invited-talk at SMP, 2021-11.
-- [Vision-Language Pre-training: Progress and Challenge](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html). Invited-talk at CAAI, 2021-08.
-- [Pre-trained Models and Benchmark for Code Intelligence](http://plpworkshop.com/). Keynote at KDD workshop on Programming Language Processing (PLP), 2021-08.
-- [Really Reaching Human Parity? - Addressing Benchmark Issues on Robustness, Bias and Metric](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md#S1). Invited-talk at ACL Workshop on BPPF, 2021-08.
+- [Vision-Language Pre-training: Progress and Challenge](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html). Invited-talk at CAAI, 2021-08. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Vision-Language%20Pre-training%20-%20Progress%20and%20Challenge.pdf))
+- [Pre-trained Models and Benchmark for Code Intelligence](http://plpworkshop.com/). Keynote at KDD workshop on Programming Language Processing (PLP), 2021-08. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Pre-trained%20Models%20and%20Benchmark%20for%20Code%20Intelligence.KDD%20keynote%202021.pdf))
+- [Really Reaching Human Parity? - Addressing Benchmark Issues on Robustness, Bias and Metric](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md#S1). Invited-talk at ACL Workshop on BPPF, 2021-08. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Addressing%20Benchmark%20Issues%20on%20Robustness%2C%20Bias%20and%20Metric.ACL%202021.pdf))
 - Vision-Language Pre-training: Progress and Challenge. Invited-talk at CCF-RACV (Recent Advances in Computer Vision), 2021-08.
 - [SOTAs, Benchmarks and Future of Pre-trained Models for Multilingual, Multimodal, Code and Generation](https://www.ccf.org.cn/Activities/Training/ADL/2021-05-06/727915.shtml). CCF-ADL tutorial, 2021-05.
 - [Multilingual Multimodal Pre-training](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20201001&CpPage=94#CONF). Keynote at Korean Artificial Intelligence Association, 2020-11.
