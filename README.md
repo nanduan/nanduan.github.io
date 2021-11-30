@@ -29,7 +29,6 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - 2019-10: CCF-NLPCC Distinguished Young Scientist, 2019.
 - 2018-12: Project Semantic Parsing was reviewed by Bill Gates.
 - 2018-11: Project Video Intelligence was reviewed by Bill Gates.
-- 2018-09: 《智能问答》was published by the Higher Education Press.
 
 
 
