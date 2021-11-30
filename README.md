@@ -221,7 +221,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Senior Program Committee of SIGKDD 2022.
 - Senior Area Chair of EMNLP 2021.
 - Area Chair of NAACL 2021/IJCAI 2021.
-- NLPCC Evaluation Co-Chair, 2018/2019.
+- Evaluation Chair of NLPCC 2018/NLPCC 2019.
 - PC Members of TACL/ACL/EMNLP/NAACL/COLING/NeurIPS/ICLR/CVPR/AAAI/KDD/IJCAI/etc.
 - Member of CIPS Technical Committee of NLG, 2021-present.
 - Member of CCF Committee on Academic Affairs, 2020-present.
