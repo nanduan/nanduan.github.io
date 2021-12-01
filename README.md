@@ -186,13 +186,11 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 ### Academic Activity
 
 - Adjunct Professor at Tianjin University, 2020-to-2022.
-
 - Senior Program Committee of SIGKDD 2022.
 - Senior Area Chair of EMNLP 2021.
 - Area Chair of NAACL 2021/IJCAI 2021.
 - Evaluation Chair of NLPCC 2018/NLPCC 2019.
 - PC Members of TACL/ACL/EMNLP/NAACL/COLING/NeurIPS/ICLR/CVPR/AAAI/KDD/IJCAI/etc.
-
 - CCF-NLPCC Distinguished Young Scientist, 2019.
 - Distinguished Member of CCF, 2021.
 - Senior Member of CCF, 2021.
