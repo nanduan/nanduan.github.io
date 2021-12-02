@@ -13,7 +13,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 ### Highlight
 
 - State-of-the-art visual synthesis pre-trained model: [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)).
-- State-of-the-art dense information retrieval model: [AR2](https://arxiv.org/abs/2110.03611).
+- State-of-the-art dense information retrieval model: [Adversarial Retriever-Ranker](https://arxiv.org/abs/2110.03611).
 - State-of-the-art code pre-trained models: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020) & [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021) & [GPT-C with eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021) and [Grammformer](https://arxiv.org/abs/2106.10158).
 - State-of-the-art multimodal pre-trained models: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020) & [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021) & [LoopCAG](https://aclanthology.org/2021.acl-long.157.pdf) (ACL 2021) & [KD-VLP](https://arxiv.org/abs/2109.10504) for image-language tasks, and [UniVL](https://arxiv.org/abs/2002.06353) & [CLIP4Clip](https://arxiv.org/abs/2104.08860) & [GODIVA](https://arxiv.org/abs/2104.14806) for video-language tasks.
 - State-of-the-art multilingual pre-trained models: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019), [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021), [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL 2021), and [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI 2022).
