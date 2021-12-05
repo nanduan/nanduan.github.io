@@ -12,7 +12,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Highlight
 
-- Visual synthesis pre-trained model: [NÜWA](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)).
+- Visual synthesis pre-trained model: [NÜWA(女娲)](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)).
 - Dense information retrieval model: [Adversarial Retriever-Ranker](https://arxiv.org/abs/2110.03611).
 - Code pre-trained models: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021), [GPT-C with eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021), and [Grammformer](https://arxiv.org/abs/2106.10158).
 - Multimodal pre-trained models: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [LoopCAG](https://aclanthology.org/2021.acl-long.157.pdf) (ACL 2021), and [KD-VLP](https://arxiv.org/abs/2109.10504) for image-language tasks; [UniVL](https://arxiv.org/abs/2002.06353), [CLIP4Clip](https://arxiv.org/abs/2104.08860), and [GODIVA](https://arxiv.org/abs/2104.14806) for video-language tasks.
