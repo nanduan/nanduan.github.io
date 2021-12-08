@@ -207,6 +207,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Tsinghua University
 - Tianjin University
 - Nankai University
+- University of Science and Technology of China
 - Chinese Academy of Sciences
 - Beijing University of Aeronautics and Astronautics
 - Xi’an Jiaotong University
