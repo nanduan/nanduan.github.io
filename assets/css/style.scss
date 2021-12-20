@@ -1,4 +1,9 @@
 @import "{{ site/theme }}";
-h1{
+
+h1 {
   display: none;
+}
+
+.inner {
+  max-width: 75%;
 }
