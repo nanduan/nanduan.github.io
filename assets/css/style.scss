@@ -2,3 +2,9 @@
 h1{
   display: none;
 }
+
+div {
+width:100%;
+max-width:1200px;
+width:expression_r(document.body.clientWidth > 1200 ? "1200px": "auto" );
+}
