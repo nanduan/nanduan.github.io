@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 
 title: Nan Duan's Homepage
 description: An NLP researcher
+show_downloads: false
