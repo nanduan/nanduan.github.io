@@ -1,6 +1,6 @@
 ## Nan DUAN (段楠) 
 
-[Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/)
+[Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [Semantic Scholar](https://www.semanticscholar.org/author/46429989) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/)
 
 ### We are hiring NLP/ML researchers! Hit me up (nanduan AT microsoft.com) if you are seeking for a researcher position.
 
