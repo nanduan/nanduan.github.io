@@ -196,7 +196,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - CCF-NLPCC Distinguished Young Scientist, 2019.
 - Distinguished Member of CCF, 2021.
 - Senior Member of CCF, 2021.
-- CCF Distinguished Speaker, 2020/2017.
+- CCF Distinguished Speaker, 2021/2020/2017.
 - Member of CIPS Technical Committee of NLG, 2021-present.
 - Member of CCF Committee on Academic Affairs, 2020-present.
 - Member of CCF Technical Committee of NLP, 2018-present.
