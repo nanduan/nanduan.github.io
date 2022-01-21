@@ -13,8 +13,8 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 ### Highlight
 
 - Visual synthesis pre-trained model: [NÜWA(女娲)](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)).
-- Dense information retrieval model: [Adversarial Retriever-Ranker](https://arxiv.org/abs/2110.03611).
-- Code pre-trained models: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021), [GPT-C with eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021), and [Grammformer](https://arxiv.org/abs/2106.10158).
+- Dense information retrieval model: [Adversarial Retriever-Ranker](https://arxiv.org/abs/2110.03611) (ICLR 2022).
+- Code pre-trained models: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021), [GPT-C with eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021), and [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR 2022).
 - Multimodal pre-trained models: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [LoopCAG](https://aclanthology.org/2021.acl-long.157.pdf) (ACL 2021), and [KD-VLP](https://arxiv.org/abs/2109.10504) for image-language tasks; [UniVL](https://arxiv.org/abs/2002.06353), [CLIP4Clip](https://arxiv.org/abs/2104.08860), and [GODIVA](https://arxiv.org/abs/2104.14806) for video-language tasks.
 - Multilingual pre-trained models: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019), [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021), [ProphetNet-X](https://arxiv.org/abs/2104.08006) (ACL 2021), and [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI 2022).
 - Monolingual pre-trained models: [PoolingFormer](https://arxiv.org/abs/2105.04371) (ICML 2021), [SEPREM](https://arxiv.org/abs/2012.14116) (ACL 2021), and [K-Adapter](https://arxiv.org/abs/2002.01808) (ACL 2021) for NLU tasks; [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020) and [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021) for NLG tasks.
@@ -59,8 +59,8 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 ### Publication-Paper
 
 - Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**. arXiv, 2021.
-- Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen. **Adversarial Retriever-Ranker for Dense Text Retrieval**. arXiv, 2021.
-- Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis. **Learning to Generate Code Sketches**. arXiv, 2021.
+- Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen. **Adversarial Retriever-Ranker for Dense Text Retrieval**. ICLR, 2022.
+- Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis. **Learning to Generate Code Sketches**. ICLR, 2022.
 - Xiaoze Jiang, Yaobo Liang, Weizhu Chen, Nan Duan. **XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge**. AAAI, 2022.
 - Lei Ji, Chenfei Wu, Daisy Zhou, Kun Yan, Edward Cui, Xilin Chen, Nan Duan. **Learning Temporal Video Procedure Segmentation from an Automatically Collected Large Dataset**. WACV, 2022.
 - Wei Chen, Yeyun Gong, Can Xu, Huang Hu, Bolun Yao, Zhongyu Wei, Zhihao Fan, Xiaowu Hu, Bartuer Zhou, Biao Cheng, Daxin Jiang, Nan Duan. **Contextual Fine-to-Coarse Distillation for Coarse-grained Response Selection in Open-Domain Conversations**. arXiv, 2021.
