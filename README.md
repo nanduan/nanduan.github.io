@@ -5,9 +5,9 @@
 ### We are hiring NLP/ML researchers! Hit me up (nanduan AT microsoft.com) if you are seeking for a researcher position.
 
 
-Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research Asia. He is also an adjunct professor at Tianjin University. His research interests include natural language processing, machine reasoning, large-scale pre-training for language, vision and code. He served as the evaluation chair, senior area chair, and area chair for top NLP/AI/ML conferences. He is a CCF Distinguished Member and a CCF Distinguished Speaker. He was awarded the CCF-NLPCC Distinguished Young Scientist. He leads the benchmark dataset efforts including XGLUE, CodeXGLUE, NLPCC-KBQA/DBQA. His book “Question Answering” was published by the Higher Education Press in 2018. He published 100+ research papers and holds 10+ patents. His research has been applied in many Microsoft products.
+Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research Asia. He is also an adjunct professor at Tianjin University. His research interests include natural language processing, machine reasoning, large-scale pre-training for language, vision and code. He served as the evaluation chair, senior area chair, and area chair for top NLP/AI/ML conferences. He is a CCF Distinguished Member and a CCF Distinguished Speaker. He was awarded the CCF-NLPCC Distinguished Young Scientist. He published 100+ research papers and holds 10+ patents. His research has been applied in many Microsoft products.
 
-段楠博士，微软亚洲研究院高级研究员/研究经理，天津大学兼职教授，微软亚洲研究院-中国科学技术大学/中山大学/北京航空航天大学联合培养博士生导师，主要从事自然语言处理、机器推理、以及针对语言/视觉/代码的大规模预训练等研究，多次担任NLP/AI/ML相关国际会议评测主席、高级领域主席和领域主席，CCF杰出会员和杰出讲演者，CCF-NLPCC青年科学家，发布XGLUE、CodeXGLUE和NLPCC-KBQA/DBQA等开源学术数据集，著有《智能问答》(高等教育出版社，2018)，发表学术论文100余篇，持有专利10余项，多项研究成果用于微软各类人工智能产品。
+段楠博士，微软亚洲研究院高级研究员/研究经理，天津大学兼职教授，主要从事自然语言处理、机器推理、以及针对语言/视觉/代码的大规模预训练等研究，多次担任NLP/AI/ML相关国际会议评测主席、高级领域主席和领域主席，CCF杰出会员和杰出讲演者，CCF-NLPCC青年科学家，发表学术论文100余篇，持有专利10余项，多项研究成果用于微软各类人工智能产品。
 
 
 ### Highlight
