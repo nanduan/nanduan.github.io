@@ -58,6 +58,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Publication-Paper
 
+- Wanjun Zhong, Junjie Huang, Qian Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan. **Reasoning over Hybrid Chain for Table-and-Text Open Domain QA**. arXiv, 2022.
 - Xiaonan Li, Yeyun Gong, Yelong Shen, Xipeng Qiu, Hang Zhang, Bolun Yao, Weizhen Qi, Daxin Jiang, Weizhu Chen, Nan Duan. **CodeRetriever: Unimodal and Bimodal Contrastive Learning**. arXiv, 2022.
 - Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**. arXiv, 2021.
 - Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen. **Adversarial Retriever-Ranker for Dense Text Retrieval**. ICLR, 2022.
