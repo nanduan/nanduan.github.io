@@ -12,7 +12,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Highlight
 
-- Visual synthesis pre-trained models: [NÜWA(女娲)](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)).
+- Visual synthesis pre-trained models: [NÜWA(女娲)](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)), [NÜWA-LIP](https://arxiv.org/abs/2202.05009).
 - Dense information retrieval models: [Adversarial Retriever-Ranker](https://arxiv.org/abs/2110.03611) (ICLR 2022).
 - Code pre-trained models: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021), [GPT-C with eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR 2022), [CodeRetriever](https://arxiv.org/abs/2201.10866).
 - Multimodal pre-trained models: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [LoopCAG](https://aclanthology.org/2021.acl-long.157.pdf) (ACL 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) for image-language tasks; [UniVL](https://arxiv.org/abs/2002.06353), [CLIP4Clip](https://arxiv.org/abs/2104.08860), [GODIVA](https://arxiv.org/abs/2104.14806) for video-language tasks.
@@ -60,6 +60,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 - Wanjun Zhong, Junjie Huang, Qian Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan. **Reasoning over Hybrid Chain for Table-and-Text Open Domain QA**. arXiv, 2022.
 - Xiaonan Li, Yeyun Gong, Yelong Shen, Xipeng Qiu, Hang Zhang, Bolun Yao, Weizhen Qi, Daxin Jiang, Weizhu Chen, Nan Duan. **CodeRetriever: Unimodal and Bimodal Contrastive Learning**. arXiv, 2022.
+- Minheng Ni, Chenfei Wu, Haoyang Huang, Daxin Jiang, Wangmeng Zuo, Nan Duan. **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**. arXiv, 2022.
 - Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**. arXiv, 2021.
 - Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen. **Adversarial Retriever-Ranker for Dense Text Retrieval**. ICLR, 2022.
 - Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis. **Learning to Generate Code Sketches**. ICLR, 2022.
