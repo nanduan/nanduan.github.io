@@ -190,6 +190,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Academic Activity
 
+- Senior Action Editor of ACL Rolling Review (ARR), from 2022.
 - Adjunct Professor at Tianjin University, from 2020.
 - Senior Program Committee of SIGKDD 2022.
 - Senior Area Chair of EMNLP 2021.
