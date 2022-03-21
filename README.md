@@ -233,6 +233,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Patent
 
+- Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval, 2022.
 - Code Bug Detection, 2021.
 - Performing Multiple Tasks with Continual Adaptation, 2021.
 - System and Method for Accelerating Generation in Attention-based Neural Network, 2021.
