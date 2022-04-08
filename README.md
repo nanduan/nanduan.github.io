@@ -157,6 +157,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Botian Shi, Lei Ji, Pan Lu, Zhendong Niu, Nan Duan. **Knowledge Aware Semantic Concept Expansion for Image-Text Matching**. IJCAI, 2019.
 - Bo Shao, Yeyun Gong, Junwei Bao, Xiaola Lin, Jianshu Ji, Guihong Cao, Nan Duan. **Weakly Supervised Multi-task Learning for Semantic Parsing**. IJCAI, 2019.
 - Junwei Bao#, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao. **Text Generation from Tables**. Transactions on Audio, Speech and Language Processing, 2019.
+- Yibo Sun, Zhao Yan, Duyu Tang, Nan Duan, Bing Qin. **Content-Based Table Retrieval for Web Queries**. Neurocomputing, 2019.
 - Yibo Sun, Duyu Tang, Nan Duan, Jingjing Xu, Xiaocheng Feng, Bing Qin. **Knowledge-Aware Conversational Semantic Parsing Over Web Tables**. NLPCC, 2018.
 - Daya Guo, Duyu Tang, Nan Duan, Jian Yin, Ming Zhou. **Dialog-to-Action: Conversational Question Answering over a Large-Scale Knowledge Base**. NeurIPS, 2018.
 - Daya Guo, Yibo Sun, Duyu Tang, Nan Duan, Ming Zhou, Jian Yin. **Question Generation from SQL Queries Improves Neural Semantic Parsing**. EMNLP, 2018.
@@ -171,7 +172,6 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Yibo Sun, Daya Guo, Duyu Tang, Nan Duan, Zhao Yan, Xiaocheng Feng, Bing Qin. **Knowledge Based Machine Reading Comprehension**. arXiv, 2018.
 - Nan Duan. **Overview of the NLPCC 2017 Shared Task: Open Domain QA**. NLPCC, 2017.
 - Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Ming Zhou. **Question Answering and Question Generation as Dual Tasks**. arXiv, 2017.
-- Zhao Yan#, Duyu Tang, Nan Duan, Junwei Bao, Yuanhua Lv, Ming Zhou, Zhoujun Li. **Content-Based Table Retrieval for Web Queries**. arXiv, 2017.
 - Nan Duan, Duyu Tang, Peng Chen, Ming Zhou. **Question Generation for Question Answering**. EMNLP, 2017.
 - Zhao Yan#, Nan Duan, Peng Chen, Ming Zhou, Jianshe Zhou, Zhoujun Li. **Building Task-Oriented Dialogue Systems for Online Shopping**. AAAI, 2017.
 - Zhao Yan#, Nan Duan, Ming Zhou, Zhoujun Li. **An Open Domain Topic Prediction Model for Answer Selection**. NLPCC-ICCPOL, 2016.
