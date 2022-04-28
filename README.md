@@ -74,7 +74,6 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Wei Chen, Yeyun Gong, Can Xu, Huang Hu, Bolun Yao, zhongyu wei, Zhihao Fan, Xiaowu Hu, Bartuer Zhou, Biao Cheng, Daxin Jiang, Nan Duan. **Contextual Fine-to-Coarse Distillation for Coarse-grained Response Selection in Open-Domain Conversations**. ACL, 2022.
 - Siyuan Wang, Wanjun Zhong, Duyu Tang, zhongyu wei, Zhihao Fan, Daxin Jiang, Ming Zhou, Nan Duan. **Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text**. Findings of ACL, 2022.
 - Canwen Xu, Daya Guo, Nan Duan, Julian McAuley. **LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval**. Findings of ACL, 2022.
-- Wanjun Zhong, Junjie Huang, Qian Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan. **Reasoning over Hybrid Chain for Table-and-Text Open Domain QA**. arXiv, 2022.
 - Xiaonan Li, Yeyun Gong, Yelong Shen, Xipeng Qiu, Hang Zhang, Bolun Yao, Weizhen Qi, Daxin Jiang, Weizhu Chen, Nan Duan. **CodeRetriever: Unimodal and Bimodal Contrastive Learning**. arXiv, 2022.
 - Minheng Ni, Chenfei Wu, Haoyang Huang, Daxin Jiang, Wangmeng Zuo, Nan Duan. **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**. arXiv, 2022.
 - Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**. arXiv, 2021.
