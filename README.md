@@ -12,7 +12,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Highlight
 
-- Visual synthesis: [NÜWA(女娲)](https://arxiv.org/abs/2111.12417) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)), [NÜWA-LIP](https://arxiv.org/abs/2202.05009).
+- Visual synthesis: [NÜWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)), [NÜWA-LIP](https://arxiv.org/abs/2202.05009).
 - Dense retrieval: [Adversarial Retriever-Ranker](https://arxiv.org/abs/2110.03611) (ICLR 2022), [MVR](https://arxiv.org/abs/2203.08372) (ACL 2022), [LaPraDoR](https://arxiv.org/abs/2203.06169) (ACL 2022), [CCP](https://arxiv.org/abs/2206.03281) (IJCAI 2022).
 - Code intelligence: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021), [GPT-C with eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL 2022), [UniXcoder](https://arxiv.org/abs/2203.03850) (ACL 2022), [CodeRetriever](https://arxiv.org/abs/2201.10866), [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE, 2022).
 - Multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [LoopCAG](https://aclanthology.org/2021.acl-long.157.pdf) (ACL 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL 2022) for image-language tasks; [UniVL](https://arxiv.org/abs/2002.06353), [CLIP4Clip](https://arxiv.org/abs/2104.08860) (Neurocomputing 2022) for video-language tasks.
@@ -59,6 +59,8 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Publication-Paper
 
+- Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**. ECCV, 2022.
+- Kun Yan, Lei Ji, Chenfei Wu, Jianmin Bao, Ming Zhou, Nan Duan, Shuai Ma. **Trace Controlled Text to Image Generation**. ECCV, 2022.
 - Yongjie Zhu, Chunhui Han, Yuefeng Zhan, Bochen Pang, Zhaoju Li, Hao Sun, Si Li, Boxin Shi, Nan Duan, Weiwei Deng, Ruofei Zhang, Liangjie Zhang, Qi Zhang. **AdsCVLR: Commercial Visual-Linguistic Representation Modeling in Sponsored Search**. ACM Multimedia, 2022.
 - Zhiyu Li, Shuai Lu, Daya Guo, Nan Duan, Shailesh Jannu, Grant Jenks, Deep Majumder, Jared Green, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan. **CodeReviewer: Pre-Training for Automating Code Review Activities**. ESEC/FSE, 2022.
 - Wanjun Zhong, Junjie Huang, Qian Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan. **Reasoning over Hybrid Chain for Table-and-Text Open Domain Question Answering**. IJCAI, 2022.
@@ -77,7 +79,6 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Canwen Xu, Daya Guo, Nan Duan, Julian McAuley. **LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval**. Findings of ACL, 2022.
 - Xiaonan Li, Yeyun Gong, Yelong Shen, Xipeng Qiu, Hang Zhang, Bolun Yao, Weizhen Qi, Daxin Jiang, Weizhu Chen, Nan Duan. **CodeRetriever: Unimodal and Bimodal Contrastive Learning**. arXiv, 2022.
 - Minheng Ni, Chenfei Wu, Haoyang Huang, Daxin Jiang, Wangmeng Zuo, Nan Duan. **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**. arXiv, 2022.
-- Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**. arXiv, 2021.
 - Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen. **Adversarial Retriever-Ranker for Dense Text Retrieval**. ICLR, 2022.
 - Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis. **Learning to Generate Code Sketches**. ICLR, 2022.
 - Xiaoze Jiang, Yaobo Liang, Weizhu Chen, Nan Duan. **XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge**. AAAI, 2022.
