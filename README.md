@@ -236,6 +236,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Southwest Jiaotong University
 - Northeastern University
 - Jiangnan University
+- Fudan University
 
 ### Patent
 
