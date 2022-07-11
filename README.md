@@ -60,6 +60,8 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 ### Publication-Paper
 
 - Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan. **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. arXiv, 2022.
+- Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. **Joint Generator-Ranker Learning for Natural Language Generation**. arXiv, 2022.
+- Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**. arXiv, 2022.
 - Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**. ECCV, 2022.
 - Kun Yan, Lei Ji, Chenfei Wu, Jianmin Bao, Ming Zhou, Nan Duan, Shuai Ma. **Trace Controlled Text to Image Generation**. ECCV, 2022.
 - Yongjie Zhu, Chunhui Han, Yuefeng Zhan, Bochen Pang, Zhaoju Li, Hao Sun, Si Li, Boxin Shi, Nan Duan, Weiwei Deng, Ruofei Zhang, Liangjie Zhang, Qi Zhang. **AdsCVLR: Commercial Visual-Linguistic Representation Modeling in Sponsored Search**. ACM Multimedia, 2022.
