@@ -29,7 +29,6 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 ### Tutorial/Keynote/Invited-talk
 
 - [Empowering Content Creation with AI](http://sc.cipsc.org.cn/mt/conference/2022/program/keynotes/). Keynote at CCMT, 2022-08.
-- [AI Creation Powered by NLP Technologies](https://ciis.caai.cn/?from=wap#schedule). Invited-talk at CAAI-CIIS, 2022-04.
 - [Text and Visual Generation based on Multimodal Pre-training](https://cncc.ccf.org.cn/web/html15/dayMeetZhibo.html?dayMeetNewsId=8a9e362c7ac879d4017ae1a45015001d&globalId=m8271748750546083841617255458379). Invited-talk at CNCC, 2021-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/CNCC2021.nanduan.pdf))
 - [Semantic-Driven Visual Content Creation](https://mp.weixin.qq.com/s/9tvjmHB_TUwKNTmv2U40-Q). Invited-talk at SMP, 2021-11.
 - [Vision-Language Pre-training: Progress and Challenge](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html). Invited-talk at CAAI, 2021-08. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Vision-Language%20Pre-training%20-%20Progress%20and%20Challenge.pdf))
