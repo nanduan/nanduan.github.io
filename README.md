@@ -206,8 +206,9 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 - Dongdong Zhang, Chi-Ho Li, Nan Duan, Shujie Liu, Mu Li, Ming Zhou. **MSRA Technical Report for the 5th China Workshop on Machine Translation**. CWMT, 2009.
 - Dongdong Zhang, Mu Li, Nan Duan, Chi-Ho Li, Ming Zhou. **Measure Word Generation for English-Chinese SMT Systems**. ACL, 2008.
 
-### Academic Activity
+### Academic Service & Award
 
+- [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) won CVPR Best Demo Award, 2022.
 - Adjunct Ph.D. Supervisor at University of Science and Technology of China, from 2022.
 - Adjunct Professor at Tianjin University, from 2020.
 - Senior Action Editor of ACL Rolling Review (ARR), from 2022.
