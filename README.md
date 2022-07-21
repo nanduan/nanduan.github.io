@@ -12,7 +12,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Highlight
 
-- **Visual synthesis**: [NÜWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)), [NÜWA-LIP](https://arxiv.org/abs/2202.05009), NUWA-Infinity (coming soon).
+- **Visual synthesis**: [NÜWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022) ([GitHub](https://github.com/microsoft/NUWA/blob/main/README.md)), [NÜWA-LIP](https://arxiv.org/abs/2202.05009), [NUWA-Infinity](https://arxiv.org/abs/2207.09814).
 - **Dense retrieval**: [Adversarial Retriever-Ranker](https://arxiv.org/abs/2110.03611) (ICLR 2022), [MVR](https://arxiv.org/abs/2203.08372) (ACL 2022), [LaPraDoR](https://arxiv.org/abs/2203.06169) (ACL 2022), [CCP](https://arxiv.org/abs/2206.03281) (IJCAI 2022).
 - **Code intelligence**: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021), [GPT-C with eWASH](https://arxiv.org/abs/2109.08780) (EMNLP 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL 2022), [UniXcoder](https://arxiv.org/abs/2203.03850) (ACL 2022), [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE, 2022).
 - **Multimodal pre-training**: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657).
@@ -59,6 +59,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Publication-Paper
 
+- Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. arXiv, 2022.
 - Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan. **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. arXiv, 2022.
 - Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. **Joint Generator-Ranker Learning for Natural Language Generation**. arXiv, 2022.
 - Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**. arXiv, 2022.
