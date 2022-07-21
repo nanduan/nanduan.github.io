@@ -59,7 +59,7 @@ Dr. Nan DUAN is a principal researcher & research manager at Microsoft Research 
 
 ### Publication-Paper
 
-- Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. arXiv, 2022.
+- Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. arXiv, 2022. ([Project Homepage](https://nuwa-infinity.microsoft.com/))
 - Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan. **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. arXiv, 2022.
 - Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. **Joint Generator-Ranker Learning for Natural Language Generation**. arXiv, 2022.
 - Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**. arXiv, 2022.
