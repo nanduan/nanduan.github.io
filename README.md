@@ -60,7 +60,7 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
 
 - Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. NeurIPS, 2022. ([Project Homepage](https://nuwa-infinity.microsoft.com/))
 - Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, Kai Wang, Lu Chen, Yunjun Gao. **Less-forgetting Multi-lingual Fine-tuning**. NeurIPS, 2022.
-- Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou。 **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**. NeurIPS, 2022.
+- Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**. NeurIPS, 2022.
 - Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan. **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. arXiv, 2022.
 - Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. **Joint Generator-Ranker Learning for Natural Language Generation**. arXiv, 2022.
 - Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**. arXiv, 2022.
