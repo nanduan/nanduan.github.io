@@ -252,6 +252,9 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
 
 ### Patent
 
+- Pretraining for Automating Code Review Activities, 2022.
+- SimANS: Simple Ambiguous Negative Sampling for Dense Text Retrieval, 2022.
+- Distilling Knowledge from Metric to Ranker and Retriever, 2022.
 - Retrieval Augmented Code Completion, 2022.
 - Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval, 2022.
 - Code Bug Detection, 2021.
