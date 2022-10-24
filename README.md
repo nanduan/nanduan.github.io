@@ -26,6 +26,8 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
  
 ### Tutorial/Keynote/Invited-talk
 
+- [多维度编程语言预训练及实际应用](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018211005baa0126&globalId=m9695832237787095041651208254534). Invited-talk at CNCC, 2022-12.
+- [AI赋能视觉内容创作](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018209a92f9700d9&globalId=m9695832237787095041651208254534). Invited-talk at CNCC, 2022-12.
 - [Empowering Content Creation with AI](http://sc.cipsc.org.cn/mt/conference/2022/program/keynotes/). Keynote at CCMT, 2022-08. ([slides](http://sc.cipsc.org.cn/mt/conference/2022/papers/special/duannan.pdf))
 - [Text and Visual Generation based on Multimodal Pre-training](https://cncc.ccf.org.cn/web/html15/dayMeetZhibo.html?dayMeetNewsId=8a9e362c7ac879d4017ae1a45015001d&globalId=m8271748750546083841617255458379). Invited-talk at CNCC, 2021-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/CNCC2021.nanduan.pdf))
 - [Semantic-Driven Visual Content Creation](https://mp.weixin.qq.com/s/9tvjmHB_TUwKNTmv2U40-Q). Invited-talk at SMP, 2021-11.
