@@ -68,6 +68,7 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
 - Junjie Huang, Wanjun Zhong, Qian Liu, Ming Gong, Daxin Jiang, Nan Duan. **Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA**. Findings of EMNLP, 2022.
 - Xiaonan Li, Daya Guo, Yeyun Gong, Yun Lin, Yelong Shen, Xipeng Qiu, Daxin Jiang, Weizhu Chen, Nan Duan. **Soft-Labeled Contrastive Pre-Training for Function-Level Code Representation**. Findings of EMNLP, 2022.
 - Kun Zhou, Yeyun Gong, Xiao Liu, Wayne Xin Zhao, Yelong Shen, Anlei Dong, Jingwen Lu, Rangan Majumder, Ji-Rong Wen, Nan Duan, Weizhu Chen. **SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval**. Industry Track of EMNLP, 2022.
+- Junjie Huang, Chenglong Wang, Jipeng Zhang, cong yan, Haotian Cui, Jeevana Priya Inala, Colin Clement, Nan Duan, Jianfeng Gao. **Execution-based Evaluation for Data Science Code Generation Models**. EMNLP Workshop on Data Science with Human in the Loop, 2022.
 - Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. NeurIPS, 2022. ([Project Homepage](https://nuwa-infinity.microsoft.com/))
 - Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, Kai Wang, Lu Chen, Yunjun Gao. **Less-forgetting Multi-lingual Fine-tuning**. NeurIPS, 2022.
 - Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**. NeurIPS, 2022.
