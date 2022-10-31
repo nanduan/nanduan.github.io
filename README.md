@@ -26,6 +26,7 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
  
 ### Tutorial/Keynote/Invited-talk
 
+- Decoupling Reasoning from Foundation Models, Reality or Hallucination?. CCF-ADL tutorial, 2022-12.
 - [多维度编程语言预训练及实际应用](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018211005baa0126&globalId=m9695832237787095041651208254534). Invited-talk at CNCC, 2022-12.
 - [AI赋能视觉内容创作](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018209a92f9700d9&globalId=m9695832237787095041651208254534). Invited-talk at CNCC, 2022-12.
 - [Empowering Content Creation with AI](http://sc.cipsc.org.cn/mt/conference/2022/program/keynotes/). Keynote at CCMT, 2022-08. ([slides](http://sc.cipsc.org.cn/mt/conference/2022/papers/special/duannan.pdf))
