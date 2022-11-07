@@ -298,14 +298,5 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
 - [NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA): an open domain document-based QA dataset in Chinese.
 - [Table2Text](https://github.com/msra-nlc/Table2Text): a table-to-text generation dataset.
 
-### 1st System on Leaderboards
-- [Unicoder-ZCode](https://arxiv.org/abs/2109.12573) on [XTREME leaderboard](https://sites.research.google/xtreme).
-- [Unicoder-VL](https://arxiv.org/abs/1908.06066) on [GQA leaderboard](https://eval.ai/web/challenges/challenge-page/225/leaderboard/733).
-- [PoolingFormer](https://arxiv.org/abs/2105.04371) on [NQ leaderboard](https://ai.google.com/research/NaturalQuestions) and [TyDi leaderboard](https://ai.google.com/research/tydiqa).
-- [KFCNet](https://arxiv.org/abs/2109.06704) on [CommonGen leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html).
-- [LReasoner](https://arxiv.org/abs/2105.03659) on [ReClor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347).
-- [GraphReasoner](https://arxiv.org/abs/1909.05311) on [CommonsenseQA leaderboard](https://www.tau-nlp.org/csqa-leaderboard).
-- [GraphReasoner](https://arxiv.org/abs/1909.03745) on [FEVER leaderboard](https://competitions.codalab.org/competitions/18814#results).
-
 ### Others
 - [My previous homepage](https://sites.google.com/site/nanduan0613/home)
