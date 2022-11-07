@@ -27,7 +27,7 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
     
 - **Multimodal Intelligence**
     - multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (Preprint 2022).
-    - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS 2022) ([Project Homepage](https://nuwa-infinity.microsoft.com/)).
+    - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS 2022) ([Homepage](https://nuwa-infinity.microsoft.com/)).
 
 - **Machine Reasoning**
     - reasoning framework: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint 2022).
@@ -78,7 +78,7 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
 - Xiaonan Li, Daya Guo, Yeyun Gong, Yun Lin, Yelong Shen, Xipeng Qiu, Daxin Jiang, Weizhu Chen, Nan Duan. **Soft-Labeled Contrastive Pre-Training for Function-Level Code Representation**. Findings of EMNLP, 2022.
 - Kun Zhou, Yeyun Gong, Xiao Liu, Wayne Xin Zhao, Yelong Shen, Anlei Dong, Jingwen Lu, Rangan Majumder, Ji-Rong Wen, Nan Duan, Weizhu Chen. **SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval**. Industry Track of EMNLP, 2022.
 - Junjie Huang, Chenglong Wang, Jipeng Zhang, cong yan, Haotian Cui, Jeevana Priya Inala, Colin Clement, Nan Duan, Jianfeng Gao. **Execution-based Evaluation for Data Science Code Generation Models**. EMNLP Workshop on Data Science with Human in the Loop, 2022.
-- Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. NeurIPS, 2022. ([Project Homepage](https://nuwa-infinity.microsoft.com/))
+- Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. NeurIPS, 2022. ([Homepage](https://nuwa-infinity.microsoft.com/))
 - Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, Kai Wang, Lu Chen, Yunjun Gao. **Less-forgetting Multi-lingual Fine-tuning**. NeurIPS, 2022.
 - Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**. NeurIPS, 2022.
 - Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan. **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. arXiv, 2022.
