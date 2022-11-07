@@ -12,22 +12,25 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
 
 ### Highlight
 
+- **Natural Language Processing**
+    - language pre-training: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019), [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI 2022).
+    - text retrieval: [AR2](https://arxiv.org/abs/2110.03611) (ICLR 2022), [LaPraDoR](https://arxiv.org/abs/2203.06169) (ACL 2022), [SimANS](https://arxiv.org/abs/2210.11773) (EMNLP 2022).
+    - text generation: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020), [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021), [JGR](https://arxiv.org/abs/2206.13974) (arXiv 2022).
+    - reasoning: [CommonsenseQA](https://arxiv.org/abs/1909.05311) (ACL 2020), [Fact Checking](https://arxiv.org/abs/1909.03745) (AAAI 2020), [Logical QA](https://arxiv.org/abs/2105.03659) (ACL 2022), [Analytical QA](https://arxiv.org/abs/2104.06598) (NAACL 2022), [ReasonFormer](https://arxiv.org/abs/2210.11265) (arXiv 2022).
+    - benchmark: [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA)/[NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) (NLPCC 2016-2019), [XGLUE](https://microsoft.github.io/XGLUE/) (EMNLP 2020).
+    
 - **Code Intelligence**
     - code pre-training: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021), [UniXcoder](https://arxiv.org/abs/2203.03850) (ACL 2022).
     - code generation: [XGPT-C](https://arxiv.org/abs/2109.08780) (EMNLP 2021), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL 2022), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR 2022).
     - code retrieval: [CodeRetriever](https://arxiv.org/abs/2201.10866) (EMNLP 2022), [SCodeR](https://arxiv.org/abs/2210.09597) (EMNLP 2022).
     - code review & refinement: [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE 2022).
+    - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021).
+    
 - **Multimodal Intelligence**
     - multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (arXiv 2022).
     - visual synthesis: [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS 2022) ([Project Homepage](https://nuwa-infinity.microsoft.com/)).
- 
-- **Multilingual pre-training**: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019), [Sprachbund](https://arxiv.org/abs/2109.00271) (EMNLP 2021), [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI 2022).
-- **Machine reasoning**: graph reasoning for [CommonsenseQA](https://arxiv.org/abs/1909.05311) (ACL 2020) and [Fact Checking](https://arxiv.org/abs/1909.03745) (AAAI 2020); generative reasoning for [Constrained Text Generation](https://arxiv.org/abs/2109.06704) (EMNLP 2021); complex reasoning for [Logical QA](https://arxiv.org/abs/2105.03659) (ACL 2022) and [Analytical QA](https://arxiv.org/abs/2104.06598) (NAACL 2022).
-- **Benchmarks**: [XGLUE](https://microsoft.github.io/XGLUE/) (EMNLP 2020) for multilingual NLP, [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS 2021) & [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021) for code intelligence, NLPCC-[KBQA](https://github.com/nanduan/NLPCC-KBQA)/[DBQA](https://github.com/msra-nlc/ChineseDBQA) for Chinese QA.
-- **Best systems on leaderboards**: [Unicoder-ZCode](https://arxiv.org/abs/2109.12573) on [XTREME leaderboard](https://sites.research.google/xtreme) (2021-04), [Unicoder-VL](https://arxiv.org/abs/1908.06066) on [GQA leaderboard](https://eval.ai/web/challenges/challenge-page/225/leaderboard/733) (now), [PoolingFormer](https://arxiv.org/abs/2105.04371) on [NQ leaderboard](https://ai.google.com/research/NaturalQuestions) and [TyDi leaderboard](https://ai.google.com/research/tydiqa) (now), [KFCNet](https://arxiv.org/abs/2109.06704) on [CommonGen leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html) (now), [LReasoner](https://arxiv.org/abs/2105.03659) on [ReClor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) (now), [GraphReasoner](https://arxiv.org/abs/1909.05311) on [CommonsenseQA leaderboard](https://www.tau-nlp.org/csqa-leaderboard) (2019-08), [GraphReasoner](https://arxiv.org/abs/1909.03745) on [FEVER leaderboard](https://competitions.codalab.org/competitions/18814#results) (2019-08).
-- 4 projects reviewed by Bill Gates: NUWA-Infinity (2022), Unicoder/Unicoder-VL (2019), Video-based Chat (2018), and Semantic Parsing (2018).
-- [TechMinutes of CodeBERT](https://innovation.microsoft.com/en-us/tech-minutes-codebert), welcome to use [CodeBERT/GraphCodeBERT](https://github.com/microsoft/CodeBERT) and [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) for your AI4Code research.
 
+- Bill Gates Review: NUWA-Infinity (2022), Unicoder/Unicoder-VL (2019), Video-based Chat (2018), Semantic Parsing (2018).
 
  
 ### Tutorial/Keynote/Invited-talk
@@ -294,6 +297,15 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
 - [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA): an open domain knowledge-based QA dataset in Chinese.
 - [NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA): an open domain document-based QA dataset in Chinese.
 - [Table2Text](https://github.com/msra-nlc/Table2Text): a table-to-text generation dataset.
+
+### 1st System on Leaderboards
+- [Unicoder-ZCode](https://arxiv.org/abs/2109.12573) on [XTREME leaderboard](https://sites.research.google/xtreme).
+- [Unicoder-VL](https://arxiv.org/abs/1908.06066) on [GQA leaderboard](https://eval.ai/web/challenges/challenge-page/225/leaderboard/733).
+- [PoolingFormer](https://arxiv.org/abs/2105.04371) on [NQ leaderboard](https://ai.google.com/research/NaturalQuestions) and [TyDi leaderboard](https://ai.google.com/research/tydiqa).
+- [KFCNet](https://arxiv.org/abs/2109.06704) on [CommonGen leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html).
+- [LReasoner](https://arxiv.org/abs/2105.03659) on [ReClor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347).
+- [GraphReasoner](https://arxiv.org/abs/1909.05311) on [CommonsenseQA leaderboard](https://www.tau-nlp.org/csqa-leaderboard).
+- [GraphReasoner](https://arxiv.org/abs/1909.03745) on [FEVER leaderboard](https://competitions.codalab.org/competitions/18814#results).
 
 ### Others
 - [My previous homepage](https://sites.google.com/site/nanduan0613/home)
