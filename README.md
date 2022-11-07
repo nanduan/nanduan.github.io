@@ -14,7 +14,7 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
 
 - **Natural Language Processing**
     - language pre-training: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019), [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI 2022).
-    - text retrieval: [AR2](https://arxiv.org/abs/2110.03611) (ICLR 2022), [LaPraDoR](https://arxiv.org/abs/2203.06169) (ACL 2022), [SimANS](https://arxiv.org/abs/2210.11773) (EMNLP 2022).
+    - text retrieval: [AR2](https://arxiv.org/abs/2110.03611) (ICLR 2022), [LaPraDoR](https://arxiv.org/abs/2203.06169) (ACL 2022), [MVR](https://arxiv.org/abs/2203.08372) (ACL 2022), [SimANS](https://arxiv.org/abs/2210.11773) (EMNLP 2022).
     - text generation: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020), [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021), [JGR](https://arxiv.org/abs/2206.13974) (arXiv 2022).
     - reasoning: [CommonsenseQA](https://arxiv.org/abs/1909.05311) (ACL 2020), [Fact Checking](https://arxiv.org/abs/1909.03745) (AAAI 2020), [Logical QA](https://arxiv.org/abs/2105.03659) (ACL 2022), [Analytical QA](https://arxiv.org/abs/2104.06598) (NAACL 2022), [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS 2022), [ReasonFormer](https://arxiv.org/abs/2210.11265) (arXiv 2022).
     - benchmark: [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA)/[NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) (NLPCC 2016-2019), [XGLUE](https://microsoft.github.io/XGLUE/) (EMNLP 2020).
