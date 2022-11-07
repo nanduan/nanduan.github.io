@@ -26,11 +26,11 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
     - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021), CodeExp (EMNLP 2022).
     
 - **Multimodal Intelligence**
-    - multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (preprint 2022).
-    - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (preprint 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS 2022) ([Project Homepage](https://nuwa-infinity.microsoft.com/)).
+    - multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (Preprint 2022).
+    - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS 2022) ([Project Homepage](https://nuwa-infinity.microsoft.com/)).
 
 - **Machine Reasoning**
-    - reasoning framework: [ReasonFormer](https://arxiv.org/abs/2210.11265) (preprint 2022).
+    - reasoning framework: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint 2022).
     - logical reasoning: [LReasoner](https://arxiv.org/abs/2105.03659) (ACL 2022), [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS 2022). 
     - analytical reasoning: [ARM](https://arxiv.org/abs/2104.06598) (NAACL 2022).
 
