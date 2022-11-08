@@ -18,14 +18,14 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
     - text generation: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020), [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021), [JGR](https://arxiv.org/abs/2206.13974) (Preprint 2022).
     - benchmark: [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA)/[NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) (NLPCC 2016-2019), [XGLUE](https://microsoft.github.io/XGLUE/) (EMNLP 2020), [GLGE](https://arxiv.org/abs/2011.11928) (ACL 2021).
     
-- **Code Intelligence**
+- **Code Intelligence** ([GitHub](https://github.com/microsoft/CodeBERT))
     - code pre-training: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR 2021), [UniXcoder](https://arxiv.org/abs/2203.03850) (ACL 2022).
     - code generation: [XGPT-C](https://arxiv.org/abs/2109.08780) (EMNLP 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL 2022).
     - code retrieval: [CodeRetriever](https://arxiv.org/abs/2201.10866) (EMNLP 2022), [SCodeR](https://arxiv.org/abs/2210.09597) (EMNLP 2022).
     - code review & refinement: [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE 2022).
     - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021), CodeExp (EMNLP 2022).
     
-- **Multimodal Intelligence**
+- **Multimodal Intelligence** ([GitHub](https://github.com/microsoft/NUWA))
     - multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (Preprint 2022).
     - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS 2022) ([Homepage](https://nuwa-infinity.microsoft.com/)).
 
