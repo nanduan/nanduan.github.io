@@ -33,10 +33,7 @@ Dr. Nan DUAN is a senior principal researcher & research manager at Microsoft Re
     - reasoning framework: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint 2022).
     - symbolic reasoning: [ARM](https://arxiv.org/abs/2104.06598) (NAACL 2022).
     - neural-symbolic reasoning: [LReasoner](https://arxiv.org/abs/2105.03659) (ACL 2022).
-    - retrieval-augmented reasoning: [Fact Checking](https://arxiv.org/abs/1909.03745) (ACL 2020), [Commonsense QA](https://arxiv.org/abs/1909.05311) (AAAI 2020), [Text+Table QA](https://arxiv.org/abs/2201.05880) (IJCAI 2022). 
-
-- Bill Gates Review: NUWA-Infinity (2022), Unicoder/Unicoder-VL (2019), Video-based Chat (2018), Semantic Parsing (2018).
-
+    - retrieval-augmented reasoning: [Fact Checking](https://arxiv.org/abs/1909.03745) (ACL 2020), [Commonsense QA](https://arxiv.org/abs/1909.05311) (AAAI 2020), [Text+Table QA](https://arxiv.org/abs/2201.05880) (IJCAI 2022).
  
 ### Tutorial/Keynote/Invited-talk
 
