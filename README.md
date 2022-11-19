@@ -26,7 +26,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL 2021), CodeExp (EMNLP 2022).
     
 - **Multimodal Intelligence** ([GitHub](https://github.com/microsoft/NUWA))
-    - multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (Preprint 2022).
+    - multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI 2023).
     - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS 2022) ([Homepage](https://nuwa-infinity.microsoft.com/)).
 
 - **Machine Reasoning**
@@ -66,6 +66,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Publication-Paper
 
+- Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan. **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. AAAI, 2023.
 - Wanjun Zhong, Tingting Ma, Jiahai Wang, Jian Yin, Tiejun Zhao, Chin-Yew Lin, Nan Duan. **Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**. arXiv, 2022.
 - Hojae Han, Seung-won Hwang, Shuai Lu, Nan Duan, Seungtaek Choi. **Towards Compositional Generalization in Code Search**. EMNLP, 2022.
 - Xingwei He, Yeyun Gong, A-Long Jin, Weizhen Qi, Hang Zhang, Jian Jiao, Bartuer Zhou, Biao Cheng, SM Yiu, Nan Duan. **Metric-guided Distillation: Distilling Knowledge from the Metric to Ranker and Retriever for Generative Commonsense Reasoning**. EMNLP, 2022.
@@ -79,7 +80,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. NeurIPS, 2022. ([Homepage](https://nuwa-infinity.microsoft.com/))
 - Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, Kai Wang, Lu Chen, Yunjun Gao. **Less-forgetting Multi-lingual Fine-tuning**. NeurIPS, 2022.
 - Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**. NeurIPS, 2022.
-- Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan. **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. arXiv, 2022.
 - Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. **Joint Generator-Ranker Learning for Natural Language Generation**. arXiv, 2022.
 - Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**. ECCV, 2022.
 - Kun Yan, Lei Ji, Chenfei Wu, Jianmin Bao, Ming Zhou, Nan Duan, Shuai Ma. **Trace Controlled Text to Image Generation**. ECCV, 2022.
