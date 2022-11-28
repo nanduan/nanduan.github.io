@@ -29,7 +29,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI 2023).
     - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS 2022) ([Homepage](https://nuwa-infinity.microsoft.com/)).
     - multimodal visualization: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR 2022).
-    - non-visual: [scFormer](https://www.biorxiv.org/content/10.1101/2022.11.20.517285v1.full) (Preprint 2022)
+    - non-visual: [scFormer](https://www.biorxiv.org/content/10.1101/2022.11.20.517285v1.full) (Preprint 2022).
 
 - **Machine Reasoning**
     - reasoning framework: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint 2022).
