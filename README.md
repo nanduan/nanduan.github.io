@@ -241,7 +241,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - Area Chair of NAACL 2021/IJCAI 2021.
 - Evaluation Chair of NLPCC 2018/NLPCC 2019.
 - PC Members of TACL/ACL/EMNLP/NAACL/COLING/NeurIPS/ICLR/CVPR/AAAI/KDD/IJCAI/etc.
-- CCF-NLPCC Distinguished Young Scientist, 2019.
+- [CCF-NLPCC Distinguished Young Scientist](https://www.ccf.org.cn/Chapters/TC/News/2019-10-31/671168.shtml), 2019.
 - Distinguished Member of CCF, 2021.
 - Senior Member of CCF, 2021.
 - CCF Distinguished Speaker, 2021/2020/2017.
