@@ -59,7 +59,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - [Pre-training for Cross-task, Cross-lingual and Cross-modal Applications](https://www.ccf.org.cn/c/2019-08-20/668185.shtml). CCF-Tech Frontier tutorial, 2019-08.
 - [When Language Meets Vision: Multi-modal NLP with Visual Contents](http://tcci.ccf.org.cn/summit/2019/duannan.php). Invited-talk at Language & Intelligence Summit, 2019-08. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%8A%A5%E5%91%8A.%E6%AE%B5%E6%A5%A0.pdf))
 - [Question Answering with Heterogeneous Data](http://conference.cipsc.org.cn/ssatt2019). CIPS-ATT tutorial, 2019-07. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Question%20Answering%20with%20Heterogeneous%20Data.pdf))
-- [Pre-training in NLP and Multi-modal Learning](http://news.bnu.edu.cn/zx/xzdt/109189.htm). Invited-talk at SMP, 2019-04.
+- [基于预训练的自然语言处理和多模态学习](http://news.bnu.edu.cn/zx/xzdt/109189.htm). Invited-talk at SMP, 2019-04.
 - [Building Informational Bot (InfoBot) with Question Answering & Generation](http://tcci.ccf.org.cn/conference/2017/adllecturers.php). CCF-ADL tutorial, 2017-11. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Building%20Information%20Bot%20with%20Question%20Understanding%2C%20Answering%20%26%20Asking.ADL%20tutorial%202017.pdf))
 - [Knowledge-based Question Answering](http://118.190.20.181/xhdtnry.jsp-contentId=2836201101004.htm). CCF-ADL tutorial, 2014-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Knowledge-based%20Question%20Answering.pdf))
 
