@@ -56,7 +56,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - [Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://dl.ccf.org.cn/audioVideoZx/detail.html?_ack=1&id=5149819289667584). Invited-talk at CNCC, 2020-10. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Multitask%20Multilingual%20Multimodal%20Pre-training.CNCC%202020.pdf))
 - [Multilingual/Multimodal Pre-training](http://tcci.ccf.org.cn/conference/2020/MMNLP.php). Invited-talk at NLPCC Multimodal NLP Workshop, 2020-10.
 - [Machine Reasoning: Combining Knowledge and Pre-trained Models for Better NLU](http://tcci.ccf.org.cn/conference/2019/tworkshop.php). Invited-talk at NLPCC Technical Workshop, 2019-10.
-- [Pre-training for Cross-task, Cross-lingual and Cross-modal Applications](https://www.ccf.org.cn/c/2019-08-20/668185.shtml). CCF-Tech Frontier tutorial, 2019-08.
+- [预训练模型最新进展及其在跨任务、跨语言和跨模态场景下的应用](https://www.ccf.org.cn/c/2019-08-20/668185.shtml). CCF-Tech Frontier tutorial, 2019-08.
 - [当语言遇上视觉：基于可视化内容的跨模态自然语言处理](http://tcci.ccf.org.cn/summit/2019/duannan.php). Invited-talk at Language & Intelligence Summit, 2019-08. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%8A%A5%E5%91%8A.%E6%AE%B5%E6%A5%A0.pdf))
 - [Question Answering with Heterogeneous Data](http://conference.cipsc.org.cn/ssatt2019). CIPS-ATT tutorial, 2019-07. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Question%20Answering%20with%20Heterogeneous%20Data.pdf))
 - [基于预训练的自然语言处理和多模态学习](http://news.bnu.edu.cn/zx/xzdt/109189.htm). Invited-talk at SMP, 2019-04.
