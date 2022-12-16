@@ -252,15 +252,15 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Lecture (2017-present)
 
-- Peking University
+- Peking University ([news](https://www.icst.pku.edu.cn/xwgg/jzxx/1297302.htm))
 - Tsinghua University
-- Tianjin University
-- Nankai University
-- University of Science and Technology of China
+- Tianjin University ([news](https://www.ccf.org.cn/Chapters/Student_Chapters/TJU/hyhdzxdt/2017-11-06/617918.shtml))
+- Nankai University ([news](https://robot.nankai.edu.cn/info/1051/1356.htm))
+- University of Science and Technology of China ([news](https://eeis.ustc.edu.cn/2022/0106/c2701a542444/page.htm))
 - Chinese Academy of Sciences
 - Beijing University of Posts and Telecommunications
 - Beijing University of Aeronautics and Astronautics
-- Nanjing University of Aeronautics and Astronautics
+- Nanjing University of Aeronautics and Astronautics ([news](http://newsweb.nuaa.edu.cn/2018/1121/c738a143318/pagem.htm))
 - Xi’an Jiaotong University
 - Southwest Jiaotong University
 - Northeastern University
