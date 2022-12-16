@@ -254,7 +254,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 - Peking University ([news](https://www.icst.pku.edu.cn/xwgg/jzxx/1297302.htm))
 - Tsinghua University
-- Tianjin University ([news](https://www.ccf.org.cn/Chapters/Student_Chapters/TJU/hyhdzxdt/2017-11-06/617918.shtml))
+- Tianjin University ([news](http://cic.tju.edu.cn/info/1058/3136.htm)) ([news](https://www.ccf.org.cn/Chapters/Student_Chapters/TJU/hyhdzxdt/2017-11-06/617918.shtml)) 
 - Nankai University ([news](https://robot.nankai.edu.cn/info/1051/1356.htm))
 - University of Science and Technology of China ([news](https://eeis.ustc.edu.cn/2022/0106/c2701a542444/page.htm))
 - Chinese Academy of Sciences
