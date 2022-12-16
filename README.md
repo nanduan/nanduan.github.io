@@ -289,4 +289,4 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - Conversational Question Answering Over a Large-Scale Knowledge Base, 2018.
 - Assertion-based Question Answering with Question-Aware Open Information Extraction, 2017.
 - Table-to-Text Generation with Neural Networks, 2017.
-- Document-based Chat (DocChat), 2016.
+- [Conversation oriented machine-user interaction](https://patents.google.com/patent/US11068519B2/en), 2016.
