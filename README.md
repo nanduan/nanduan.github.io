@@ -13,7 +13,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 ### Highlight
 
 - **Natural Language Processing**
-    - text pre-training: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019), [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI 2022), [ProQA](https://arxiv.org/abs/2205.04040) (NAACL 2022), [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS 2022).
+    - text pre-training: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP 2019), [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI 2022), [ProQA](https://arxiv.org/abs/2205.04040) (NAACL 2022).
     - text retrieval: [AR2](https://arxiv.org/abs/2110.03611) (ICLR 2022), [LaPraDoR](https://arxiv.org/abs/2203.06169) (ACL 2022), [MVR](https://arxiv.org/abs/2203.08372) (ACL 2022), [SimANS](https://arxiv.org/abs/2210.11773) (EMNLP 2022).
     - text generation: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP 2020), [BANG](https://arxiv.org/abs/2012.15525) (ICML 2021), [JGR](https://arxiv.org/abs/2206.13974) (Preprint 2022), [GENIUS](https://arxiv.org/abs/2211.10330) (Preprint 2022).
     - benchmark: [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA)/[NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) (NLPCC 2016-2019), [MSParS](https://github.com/msra-nlc/MSParS) (2020), [XGLUE](https://microsoft.github.io/XGLUE/) (EMNLP 2020), [GLGE](https://arxiv.org/abs/2011.11928) (ACL 2021).
@@ -31,7 +31,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - multimodal visualization: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR 2022).
 
 - **Machine Reasoning**
-    - reasoning framework: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint 2022).
+    - reasoning framework: [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS 2022), [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint 2022).
     - symbolic reasoning: [Analytical Reasoning](https://arxiv.org/abs/2104.06598) (NAACL 2022).
     - neural-symbolic reasoning: [Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL 2022).
     - retrieval-augmented reasoning: [Fact Checking](https://arxiv.org/abs/1909.03745) (ACL 2020), [Commonsense QA](https://arxiv.org/abs/1909.05311) (AAAI 2020), [Text+Table QA](https://arxiv.org/abs/2201.05880) (IJCAI 2022).
