@@ -261,10 +261,10 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - Beijing University of Posts and Telecommunications
 - Beijing University of Aeronautics and Astronautics
 - Nanjing University of Aeronautics and Astronautics ([news](http://newsweb.nuaa.edu.cn/2018/1121/c738a143318/pagem.htm))
-- Xi’an Jiaotong University
+- Xi’an Jiaotong University ([news](https://www.sohu.com/a/363047712_120381555))
 - Southwest Jiaotong University
 - Northeastern University
-- Jiangnan University
+- Jiangnan University ([news](https://www.ccf.org.cn/Activities/Training/CCF_AT_U/Updates/2021-12-14/751360.shtml))
 - Fudan University
 
 ### Patent
