@@ -275,18 +275,19 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - Retrieval Augmented Code Completion, 2022.
 - Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval, 2022.
 - Code Bug Detection, 2021.
-- Performing Multiple Tasks with Continual Adaptation, 2021.
-- System and Method for Accelerating Generation in Attention-based Neural Network, 2021.
+- [Performing multiple tasks with continual adaptation](https://patents.google.com/patent/WO2022221045A1/en), 2021.
+- [Resource-Efficient Attention in a Neural Network](https://patents.google.com/patent/US20220318601A1/en), 2021.
 - Interpretable Bug Detection for Codes with Structural Attention Constraints, 2021.
-- BARNAR: Bridging Autoregressive and Non-Autoregressive Generation for Effective and Efficient Generative Retrieval, 2020.
-- An Enhanced Knowledge Injection Model for Dynamic Content Generation, 2020.
-- A Looking Ahead Strategy for Trie-based Beam Search in Generative Retrieval, 2020.
-- DMAN: Unifying SAN and FFN in Transformer for Sematic Textual Similarity, 2020.
-- Fact Checking with Graph-based Machine Reasoning, 2019.
-- Cross-lingual Question Answering for Search Engine, 2019.
-- Controllable Text Style Transfer, 2019.
-- Video Chat, 2018.
-- Conversational Question Answering Over a Large-Scale Knowledge Base, 2018.
-- Assertion-based Question Answering with Question-Aware Open Information Extraction, 2017.
-- Table-to-Text Generation with Neural Networks, 2017.
+- [Generation of data models for predicting data](https://patents.google.com/patent/WO2022134021A1/en), 2020.
+- [Knowledge injection model for generative commonsense reasoning](https://patents.google.com/patent/WO2022099566A1/en), 2020.
+- [A look-ahead strategy for trie-based beam search in generative retrieval](https://patents.google.com/patent/WO2022077244A1/en), 2020.
+- [Transformer-Based Neural Network including a Mask Attention Network](https://patents.google.com/patent/US20220067533A1/en), 2020.
+- [Fact checking based on semantic graphs](https://patents.google.com/patent/US20210406475A1/en), 2019.
+- [Cross-lingual task training](https://patents.google.com/patent/WO2020242567A1/en), 2019.
+- [Text generation with customizable style](https://patents.google.com/patent/US20220027577A1/en), 2019.
+- [Matching based intent understanding with transfer learning](https://patents.google.com/patent/US20200293874A1/en), 2019.
+- [VideoChat](https://patents.google.com/patent/US20210390138A1/en), 2018.
+- [Natural language question answering](https://patents.google.com/patent/US20210319344A1/en), 2018.
+- [Assertion-based question answering](https://patents.google.com/patent/US11327971B2/en), 2017.
+- [Generation of text from structured data](https://patents.google.com/patent/US20200356729A1/en), 2017.
 - [Conversation oriented machine-user interaction](https://patents.google.com/patent/US11068519B2/en), 2016.
