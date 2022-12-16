@@ -234,7 +234,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 - [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) won CVPR Best Demo Award, 2022.
 - [Adjunct Ph.D. Supervisor at University of Science and Technology of China (中国科学技术大学)](https://gradschool.ustc.edu.cn/static/upload/article/file/1651733383907/c1a04198fa734644aba256203aa2a53d.pdf), from 2022.
-- Adjunct Professor at Tianjin University, 2020-2022.
+- Adjunct Professor at Tianjin University (天津大学), 2020-2022.
 - Senior Action Editor of ACL Rolling Review (ARR), from 2022.
 - Senior Program Committee of SIGKDD 2022.
 - Senior Area Chair of EMNLP 2021.
