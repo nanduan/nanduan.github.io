@@ -245,9 +245,9 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - Distinguished Member of CCF, 2021.
 - Senior Member of CCF, 2021.
 - CCF Distinguished Speaker, 2021/2020/2017.
-- Member of CIPS Technical Committee of NLG, 2021-present.
-- Member of CCF Committee on Academic Affairs, 2020-present.
-- Member of CCF Technical Committee of NLP, 2018-present.
+- [Member of CIPS Technical Committee of NLG](http://nlg.cipsc.org.cn/organization.html), 2021-present.
+- [Member of CCF Committee on Academic Affairs](https://www.ccf.org.cn/About_CCF/Governance/Working_Committees/Academic_Affairs/), 2020-present.
+- [Member of CCF Technical Committee of NLP](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCI/), 2018-present.
 - Secretary of CCF Committee on Terminology, 2016-2018.
 
 ### Lecture (2017-present)
