@@ -63,7 +63,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **[Knowledge-based Question Answering](http://118.190.20.181/xhdtnry.jsp-contentId=2836201101004.htm)**. CCF-ADL, 2014-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Knowledge-based%20Question%20Answering.pdf))
 
 
-### Publication-Book
+### Book
 
 - **《智能问答》**. 
   <br> 段楠，周明. 
@@ -72,7 +72,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
   <br> 周明，段楠，刘树杰，吴俣.
   <br> 中国科学技术出版社，2018.
 
-### Publication-Paper
+### Paper
 
 - **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. 
   <br> Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan.
