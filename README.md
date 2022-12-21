@@ -79,21 +79,51 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **scFormer: A Universal Representation Learning Approach for Single-Cell Data Using Transformers**. 
   <br> Haotian Cui, Chloe Wang, Hassaan Maan, Nan Duan, Bo Wang. 
   <br> bioRxiv, 2022.
-- Wanjun Zhong, Tingting Ma, Jiahai Wang, Jian Yin, Tiejun Zhao, Chin-Yew Lin, Nan Duan. **Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**. arXiv, 2022.
-- Hojae Han, Seung-won Hwang, Shuai Lu, Nan Duan, Seungtaek Choi. **Towards Compositional Generalization in Code Search**. EMNLP, 2022.
-- Xingwei He, Yeyun Gong, A-Long Jin, Weizhen Qi, Hang Zhang, Jian Jiao, Bartuer Zhou, Biao Cheng, SM Yiu, Nan Duan. **Metric-guided Distillation: Distilling Knowledge from the Metric to Ranker and Retriever for Generative Commonsense Reasoning**. EMNLP, 2022.
-- Shuai Fan, Chen Lin, Haonan Li, Zhenghao Lin, Jinsong Su, Hang Zhang, Yeyun Gong, JIan Guo, Nan Duan. **Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis**. EMNLP, 2022.
-- Xiaonan Li, Yeyun Gong, Yelong Shen, Xipeng Qiu, Hang Zhang, Bolun Yao, Weizhen Qi, Daxin Jiang, Weizhu Chen, Nan Duan. **CodeRetriever: A Large Scale Contrastive Pre-Training Method for Code Search**. EMNLP, 2022.
-- Haotian Cui, Chenglong Wang, Junjie Huang, Jeevana Priya Inala, Todd Mytkowicz, Bo Wang, Jianfeng Gao, Nan Duan. **CodeExp: Explanatory Code Document Generation**. Findings of EMNLP, 2022.
-- Junjie Huang, Wanjun Zhong, Qian Liu, Ming Gong, Daxin Jiang, Nan Duan. **Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA**. Findings of EMNLP, 2022.
-- Xiaonan Li, Daya Guo, Yeyun Gong, Yun Lin, Yelong Shen, Xipeng Qiu, Daxin Jiang, Weizhu Chen, Nan Duan. **Soft-Labeled Contrastive Pre-Training for Function-Level Code Representation**. Findings of EMNLP, 2022.
-- Kun Zhou, Yeyun Gong, Xiao Liu, Wayne Xin Zhao, Yelong Shen, Anlei Dong, Jingwen Lu, Rangan Majumder, Ji-Rong Wen, Nan Duan, Weizhu Chen. **SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval**. Industry Track of EMNLP, 2022.
-- Junjie Huang, Chenglong Wang, Jipeng Zhang, cong yan, Haotian Cui, Jeevana Priya Inala, Colin Clement, Nan Duan, Jianfeng Gao. **Execution-based Evaluation for Data Science Code Generation Models**. EMNLP Workshop on Data Science with Human in the Loop, 2022.
-- Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. NeurIPS, 2022. ([Homepage](https://nuwa-infinity.microsoft.com/))
-- Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, Kai Wang, Lu Chen, Yunjun Gao. **Less-forgetting Multi-lingual Fine-tuning**. NeurIPS, 2022.
-- Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**. NeurIPS, 2022.
-- Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. **Joint Generator-Ranker Learning for Natural Language Generation**. arXiv, 2022.
-- Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**. ECCV, 2022.
+- **Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**.
+  <br> Wanjun Zhong, Tingting Ma, Jiahai Wang, Jian Yin, Tiejun Zhao, Chin-Yew Lin, Nan Duan. 
+  <br> arXiv, 2022.
+- **Towards Compositional Generalization in Code Search**. 
+  <br> Hojae Han, Seung-won Hwang, Shuai Lu, Nan Duan, Seungtaek Choi. 
+  <br> EMNLP, 2022.
+- **Metric-guided Distillation: Distilling Knowledge from the Metric to Ranker and Retriever for Generative Commonsense Reasoning**.
+  <br> Xingwei He, Yeyun Gong, A-Long Jin, Weizhen Qi, Hang Zhang, Jian Jiao, Bartuer Zhou, Biao Cheng, SM Yiu, Nan Duan. 
+  <br> EMNLP, 2022.
+- **Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis**.
+  <br> Shuai Fan, Chen Lin, Haonan Li, Zhenghao Lin, Jinsong Su, Hang Zhang, Yeyun Gong, JIan Guo, Nan Duan. 
+  <br> EMNLP, 2022.
+- **CodeRetriever: A Large Scale Contrastive Pre-Training Method for Code Search**. 
+  <br> Xiaonan Li, Yeyun Gong, Yelong Shen, Xipeng Qiu, Hang Zhang, Bolun Yao, Weizhen Qi, Daxin Jiang, Weizhu Chen, Nan Duan. 
+  <br> EMNLP, 2022.
+- **CodeExp: Explanatory Code Document Generation**. 
+  <br> Haotian Cui, Chenglong Wang, Junjie Huang, Jeevana Priya Inala, Todd Mytkowicz, Bo Wang, Jianfeng Gao, Nan Duan. 
+  <br> Findings of EMNLP, 2022.
+- **Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA**. 
+  <br> Junjie Huang, Wanjun Zhong, Qian Liu, Ming Gong, Daxin Jiang, Nan Duan. 
+  <br> Findings of EMNLP, 2022.
+- **Soft-Labeled Contrastive Pre-Training for Function-Level Code Representation**.
+  <br> Xiaonan Li, Daya Guo, Yeyun Gong, Yun Lin, Yelong Shen, Xipeng Qiu, Daxin Jiang, Weizhu Chen, Nan Duan. 
+  <br> Findings of EMNLP, 2022.
+- **SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval**. 
+  <br> Kun Zhou, Yeyun Gong, Xiao Liu, Wayne Xin Zhao, Yelong Shen, Anlei Dong, Jingwen Lu, Rangan Majumder, Ji-Rong Wen, Nan Duan, Weizhu Chen. 
+  <br> Industry Track of EMNLP, 2022.
+- **Execution-based Evaluation for Data Science Code Generation Models**. 
+  <br> Junjie Huang, Chenglong Wang, Jipeng Zhang, cong yan, Haotian Cui, Jeevana Priya Inala, Colin Clement, Nan Duan, Jianfeng Gao. 
+  <br> EMNLP Workshop on Data Science with Human in the Loop, 2022.
+- **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. ([Homepage](https://nuwa-infinity.microsoft.com/))
+  <br> Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. 
+  <br> NeurIPS, 2022.
+- **Less-forgetting Multi-lingual Fine-tuning**.
+  <br> Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, Kai Wang, Lu Chen, Yunjun Gao. 
+  <br> NeurIPS, 2022.
+- **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**.
+  <br> Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. 
+  <br> NeurIPS, 2022.
+- **Joint Generator-Ranker Learning for Natural Language Generation**.
+  <br> Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. 
+  <br> arXiv, 2022.
+- **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**.
+  <br> Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. 
+  <br> ECCV, 2022.
 - Kun Yan, Lei Ji, Chenfei Wu, Jianmin Bao, Ming Zhou, Nan Duan, Shuai Ma. **Trace Controlled Text to Image Generation**. ECCV, 2022.
 - Yongjie Zhu, Chunhui Han, Yuefeng Zhan, Bochen Pang, Zhaoju Li, Hao Sun, Si Li, Boxin Shi, Nan Duan, Weiwei Deng, Ruofei Zhang, Liangjie Zhang, Qi Zhang. **AdsCVLR: Commercial Visual-Linguistic Representation Modeling in Sponsored Search**. ACM Multimedia, 2022.
 - Zhiyu Li, Shuai Lu, Daya Guo, Nan Duan, Shailesh Jannu, Grant Jenks, Deep Majumder, Jared Green, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan. **CodeReviewer: Pre-Training for Automating Code Review Activities**. ESEC/FSE, 2022.
