@@ -39,7 +39,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **AI for Science**
     - single cell: [scFormer](https://www.biorxiv.org/content/10.1101/2022.11.20.517285v1.full) (Preprint 2022). 
 
-### Tutorial/Keynote/Invited-talk
+### Talk
 
 - Decoupling Reasoning from Foundation Models, Reality or Hallucination?. 
   <br> CCF-ADL tutorial, 2023.
