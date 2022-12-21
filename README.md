@@ -41,45 +41,45 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Talk
 
-- Decoupling Reasoning from Foundation Models, Reality or Hallucination?. 
+- **Decoupling Reasoning from Foundation Models, Reality or Hallucination?**. 
   <br> CCF-ADL tutorial, 2023.
-- [Code Intelligence: Models, Applications and Future](http://aisummit2022.kr/#none).
+- **[Code Intelligence: Models, Applications and Future](http://aisummit2022.kr/#none)**.
   <br> Invited-talk at Korea AI Summit, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Code%20Intelligence%20Models%2C%20Applications%20and%20Future.pdf))
-- [多维度编程语言预训练及实际应用](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018211005baa0126&globalId=m9695832237787095041651208254534).
+- **[多维度编程语言预训练及实际应用](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018211005baa0126&globalId=m9695832237787095041651208254534)**.
   <br> Invited-talk at CNCC, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/%E5%A4%9A%E7%BB%B4%E5%BA%A6%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E9%A2%84%E8%AE%AD%E7%BB%83%E5%8F%8A%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8.pdf))
-- [AI赋能视觉内容创作](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018209a92f9700d9&globalId=m9695832237787095041651208254534).
+- **[AI赋能视觉内容创作](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018209a92f9700d9&globalId=m9695832237787095041651208254534)**.
   <br> Invited-talk at CNCC, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/AI%E8%B5%8B%E8%83%BD%E8%A7%86%E8%A7%89%E5%86%85%E5%AE%B9%E5%88%9B%E4%BD%9C.pdf))
-- [Empowering Content Creation with AI](http://sc.cipsc.org.cn/mt/conference/2022/program/keynotes/).
+- **[Empowering Content Creation with AI](http://sc.cipsc.org.cn/mt/conference/2022/program/keynotes/)**.
   <br> Keynote at CCMT, 2022-08. ([slides](http://sc.cipsc.org.cn/mt/conference/2022/papers/special/duannan.pdf))
-- [基于多模态预训练的文本和视觉生成](https://cncc.ccf.org.cn/web/html15/dayMeetZhibo.html?dayMeetNewsId=8a9e362c7ac879d4017ae1a45015001d&globalId=m8271748750546083841617255458379).
+- **[基于多模态预训练的文本和视觉生成](https://cncc.ccf.org.cn/web/html15/dayMeetZhibo.html?dayMeetNewsId=8a9e362c7ac879d4017ae1a45015001d&globalId=m8271748750546083841617255458379)**.
   <br> Invited-talk at CNCC, 2021-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/CNCC2021.nanduan.pdf))
-- [视觉语言预训练：现状和挑战](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html).
+- **[视觉语言预训练：现状和挑战](http://cxkc.hangzhou.gov.cn/art/2021/8/6/art_1229362171_3919772.html)**.
   <br> Invited-talk at CAAI, 2021-08. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Vision-Language%20Pre-training%20-%20Progress%20and%20Challenge.pdf))
-- [Pre-trained Models and Benchmark for Code Intelligence](http://plpworkshop.com/).
+- **[Pre-trained Models and Benchmark for Code Intelligence](http://plpworkshop.com/)**.
   <br> Keynote at KDD Workshop on PLP, 2021-08. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Pre-trained%20Models%20and%20Benchmark%20for%20Code%20Intelligence.KDD%20keynote%202021.pdf))
-- [Really Reaching Human Parity? - Addressing Benchmark Issues on Robustness, Bias and Metric](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md#S1).
+- **[Really Reaching Human Parity? - Addressing Benchmark Issues on Robustness, Bias and Metric](https://github.com/kwchurch/Benchmarking_past_present_future/blob/master/README.md#S1)**.
   <br> Invited-talk at ACL Workshop on BPPF, 2021-08. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Addressing%20Benchmark%20Issues%20on%20Robustness%2C%20Bias%20and%20Metric.ACL%202021.pdf))
-- [SOTAs, Benchmarks and Future of Pre-trained Models for Multilingual, Multimodal, Code and Generation](https://www.ccf.org.cn/Activities/Training/ADL/2021-05-06/727915.shtml).
+- **[SOTAs, Benchmarks and Future of Pre-trained Models for Multilingual, Multimodal, Code and Generation](https://www.ccf.org.cn/Activities/Training/ADL/2021-05-06/727915.shtml)**.
   <br> CCF-ADL tutorial, 2021-05. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/State-of-the-Arts%2C%20Benchmarks%20and%20Future%20of%20Pre-trained%20Models%20for%20Multilingual%2C%20Multimodal%2C%20Code%20and%20Generation.ADL%20Tutorial%202021.pdf))
-- [Multilingual Multimodal Pre-training](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20201001&CpPage=94#CONF).
+- **[Multilingual Multimodal Pre-training](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20201001&CpPage=94#CONF)**.
   <br> Keynote at Korean Artificial Intelligence Association, 2020-11.
-- [Machine Reasoning: Technology, Dilemma and Future](https://2020.emnlp.org/tutorials).
+- **[Machine Reasoning: Technology, Dilemma and Future](https://2020.emnlp.org/tutorials)**.
   <br> EMNLP tutorial, 2020-11. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Machine%20Reasoning%20-%20Technology%2C%20Dilemma%20and%20Future.EMNLP%20tutorial%202020.pdf))
-- [Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://dl.ccf.org.cn/audioVideoZx/detail.html?_ack=1&id=5149819289667584).
+- **[Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://dl.ccf.org.cn/audioVideoZx/detail.html?_ack=1&id=5149819289667584)**.
   <br> Invited-talk at CNCC, 2020-10. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Multitask%20Multilingual%20Multimodal%20Pre-training.CNCC%202020.pdf))
-- [Machine Reasoning: Combining Knowledge and Pre-trained Models for Better NLU](http://tcci.ccf.org.cn/conference/2019/tworkshop.php).
+- **[Machine Reasoning: Combining Knowledge and Pre-trained Models for Better NLU](http://tcci.ccf.org.cn/conference/2019/tworkshop.php)**.
   <br> Invited-talk at NLPCC Technical Workshop, 2019-10.
-- [预训练模型最新进展及其在跨任务、跨语言和跨模态场景下的应用](https://www.ccf.org.cn/c/2019-08-20/668185.shtml).
+- **[预训练模型最新进展及其在跨任务、跨语言和跨模态场景下的应用](https://www.ccf.org.cn/c/2019-08-20/668185.shtml)**.
   <br> CCF-Tech Frontier tutorial, 2019-08.
-- [当语言遇上视觉：基于可视化内容的跨模态自然语言处理](http://tcci.ccf.org.cn/summit/2019/duannan.php).
+- **[当语言遇上视觉：基于可视化内容的跨模态自然语言处理](http://tcci.ccf.org.cn/summit/2019/duannan.php)**.
   <br> Invited-talk at Language & Intelligence Summit, 2019-08. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%8A%A5%E5%91%8A.%E6%AE%B5%E6%A5%A0.pdf))
-- [Question Answering with Heterogeneous Data](http://conference.cipsc.org.cn/ssatt2019).
+- **[Question Answering with Heterogeneous Data](http://conference.cipsc.org.cn/ssatt2019)**.
   <br> CIPS-ATT tutorial, 2019-07. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Question%20Answering%20with%20Heterogeneous%20Data.pdf))
-- [基于预训练的自然语言处理和多模态学习](http://news.bnu.edu.cn/zx/xzdt/109189.htm).
+- **[基于预训练的自然语言处理和多模态学习](http://news.bnu.edu.cn/zx/xzdt/109189.htm)**.
   <br> Invited-talk at SMP, 2019-04.
-- [Building Informational Bot (InfoBot) with Question Answering & Generation](http://tcci.ccf.org.cn/conference/2017/adllecturers.php).
+- **[Building Informational Bot (InfoBot) with Question Answering & Generation](http://tcci.ccf.org.cn/conference/2017/adllecturers.php)**.
   <br> CCF-ADL tutorial, 2017-11. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Building%20Information%20Bot%20with%20Question%20Understanding%2C%20Answering%20%26%20Asking.ADL%20tutorial%202017.pdf))
-- [Knowledge-based Question Answering](http://118.190.20.181/xhdtnry.jsp-contentId=2836201101004.htm).
+- **[Knowledge-based Question Answering](http://118.190.20.181/xhdtnry.jsp-contentId=2836201101004.htm)**.
   <br> CCF-ADL tutorial, 2014-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Knowledge-based%20Question%20Answering.pdf))
 
 
