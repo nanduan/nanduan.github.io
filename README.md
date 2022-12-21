@@ -70,9 +70,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Publication-Paper
 
-- Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan. 
-
-**Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. AAAI, 2023.
+- Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan. **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. AAAI, 2023.
 - Biyang Guo, Yeyun Gong, Yelong Shen, Songqiao Han, Hailiang Huang, Nan Duan, Weizhu Chen. **GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**. arXiv, 2022.
 - Haotian Cui, Chloe Wang, Hassaan Maan, Nan Duan, Bo Wang. **scFormer: A Universal Representation Learning Approach for Single-Cell Data Using Transformers**. bioRxiv, 2022.
 - Wanjun Zhong, Tingting Ma, Jiahai Wang, Jian Yin, Tiejun Zhao, Chin-Yew Lin, Nan Duan. **Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**. arXiv, 2022.
