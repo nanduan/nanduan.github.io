@@ -124,40 +124,108 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**.
   <br> Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. 
   <br> ECCV, 2022.
-- Kun Yan, Lei Ji, Chenfei Wu, Jianmin Bao, Ming Zhou, Nan Duan, Shuai Ma. **Trace Controlled Text to Image Generation**. ECCV, 2022.
-- Yongjie Zhu, Chunhui Han, Yuefeng Zhan, Bochen Pang, Zhaoju Li, Hao Sun, Si Li, Boxin Shi, Nan Duan, Weiwei Deng, Ruofei Zhang, Liangjie Zhang, Qi Zhang. **AdsCVLR: Commercial Visual-Linguistic Representation Modeling in Sponsored Search**. ACM Multimedia, 2022.
-- Zhiyu Li, Shuai Lu, Daya Guo, Nan Duan, Shailesh Jannu, Grant Jenks, Deep Majumder, Jared Green, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan. **CodeReviewer: Pre-Training for Automating Code Review Activities**. ESEC/FSE, 2022.
-- Estelle Aflalo, Meng Du, Shao-Yen Tseng, Yongfei Liu, Chenfei Wu, Nan Duan, Vasudev Lal. **VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**. CVPR, 2022.
-- Wanjun Zhong, Junjie Huang, Qian Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan. **Reasoning over Hybrid Chain for Table-and-Text Open Domain Question Answering**. IJCAI, 2022.
-- Ning Wu, Yaobo Liang, Houxing Ren, Linjun Shou, Nan Duan, Ming Gong, Daxin Jiang. **Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval**. IJCAI, 2022.
-- Wanjun Zhong, Yifan Gao, Ning Ding, Yujia Qin, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan. **ProQA: Structural Prompt-based Pre-training for Unified Question Answering**. NAACL, 2022.
-- Yongfei Liu, Chenfei Wu, Shao-yen Tseng, Vasudev Lal, Xuming He, Nan Duan. **KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation**. Findings of NAACL, 2022.
-- Wanjun Zhong, Siyuan Wang, Duyu Tang, Zenan Xu, Daya Guo, Yining Chen, Jiahai Wang, Jian Yin, Ming Zhou, Nan Duan. **Analytical Reasoning of Text**. Findings of NAACL, 2022.
-- Haonan Li, yameng huang, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan. **CULG: Commercial Universal Language Generation**. Industry Track of NAACL, 2022.
-- Shuai Lu, Nan Duan, Hojae Han, Daya Guo, seung-won hwang, Alexey Svyatkovskiy. **ReACC: A Retrieval-Augmented Code Completion Framework**. ACL, 2022.
-- Daya Guo, Shuai Lu, Nan Duan, Yanlin Wang, Ming Zhou, Jian Yin. **UniXcoder: Unified Cross-Modal Pre-training for Code Representation**. ACL, 2022.
-- Yuan Chai, Yaobo Liang, Nan Duan. **Cross-Lingual Ability of Multilingual Masked Language Models: A Study of Language Structure**. ACL, 2022.
-- Shunyu Zhang, Yaobo Liang, MING GONG, Daxin Jiang, Nan Duan. **Multi-View Document Representation Learning for Open-Domain Dense Retrieval**. ACL, 2022.
-- Wei Chen, Yeyun Gong, Song Wang, Bolun Yao, Weizhen Qi, zhongyu wei, Xiaowu Hu, Bartuer Zhou, Yi Mao, Weizhu Chen, Biao Cheng, Nan Duan. **DialogVED: A Pre-trained Latent Variable Encoder-Decoder Model for Dialog Response Generation**. ACL, 2022.
-- Wei Chen, Yeyun Gong, Can Xu, Huang Hu, Bolun Yao, zhongyu wei, Zhihao Fan, Xiaowu Hu, Bartuer Zhou, Biao Cheng, Daxin Jiang, Nan Duan. **Contextual Fine-to-Coarse Distillation for Coarse-grained Response Selection in Open-Domain Conversations**. ACL, 2022.
-- Siyuan Wang, Wanjun Zhong, Duyu Tang, zhongyu wei, Zhihao Fan, Daxin Jiang, Ming Zhou, Nan Duan. **Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text**. Findings of ACL, 2022.
-- Canwen Xu, Daya Guo, Nan Duan, Julian McAuley. **LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval**. Findings of ACL, 2022.
-- Minheng Ni, Chenfei Wu, Haoyang Huang, Daxin Jiang, Wangmeng Zuo, Nan Duan. **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**. arXiv, 2022.
-- Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen. **Adversarial Retriever-Ranker for Dense Text Retrieval**. ICLR, 2022.
-- Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis. **Learning to Generate Code Sketches**. ICLR, 2022.
-- Xiaoze Jiang, Yaobo Liang, Weizhu Chen, Nan Duan. **XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge**. AAAI, 2022.
-- Lei Ji, Chenfei Wu, Daisy Zhou, Kun Yan, Edward Cui, Xilin Chen, Nan Duan. **Learning Temporal Video Procedure Segmentation from an Automatically Collected Large Dataset**. WACV, 2022.
-- Siyuan Wang, Zhongkun Liu, Wanjun Zhong, Ming Zhou, Zhongyu Wei, Zhumin Chen, Nan Duan. **From LSAT: The Progress and Challenges of Complex Reasoning**. IEEE TASLP, 2022.
-- Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li. **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**. Neurocomputing, 2022.
-- Colin Clement, Shuai Lu, Xiaoyu Liu, Michele Tufano, Dawn Drain, Nan Duan, Neel Sundaresan, Alexey Svyatkovskiy. **Long-Range Modeling of Source Code Files with eWASH: Extended Window Access by Syntax Hierarchy**. EMNLP, 2021.
-- Yimin Fan, Yaobo Liang, Alexandre Muzio, Hany Hassan, Houqiang Li, Ming Zhou, Nan Duan. **Discovering Representation Sprachbund For Multilingual Pre-Training**. Findings of EMNLP, 2021.
-- Haonan Li, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan. **KFC: Knowledge Filtering and Contrastive Learning for Generative Commonsense Reasoning**. Findings of EMNLP, 2021.
-- Junjie Huang, Duyu Tang, Wanjun Zhong, Shuai Lu, Linjun Shou, Ming Gong, Daxin Jiang, Nan Duan. **WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach**. Findings of EMNLP, 2021.
-- Weijiang Yu, Haoteng Zheng, Mengfei Li, Lei Ji, Lijun Wu, Nong Xiao, Nan Duan. **Learning from Inside: Self-driven Siamese Sampling and Reasoning for Video Question Answering**. NeurIPS, 2021.
-- Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu. **CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation**. NeurIPS (Datasets and Benchmarks Track), 2021.
-- Bolun Yao, Wei Chen, Yeyun Gong, Bartuer Zhou, Jin Xie, Zhongyu Wei, Biao Cheng, Nan Duan. **Question Generation from Code Snippets and Programming Error Messages**. NLPCC, 2021.
-- Qiaolin Xia, Haoyang Huang, Nan Duan, Dongdong Zhang, Lei Ji, Zhifang Sui, Edward Cui, Taroon Bharti, Ming Zhou. **XGPT: Cross-modal Generative Pre-Training for Image Captioning**. NLPCC, 2021.
-- Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan. **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**. arXiv, 2021.
+- **Trace Controlled Text to Image Generation**.
+  <br> Kun Yan, Lei Ji, Chenfei Wu, Jianmin Bao, Ming Zhou, Nan Duan, Shuai Ma. 
+  <br> ECCV, 2022.
+- **AdsCVLR: Commercial Visual-Linguistic Representation Modeling in Sponsored Search**.
+  <br> Yongjie Zhu, Chunhui Han, Yuefeng Zhan, Bochen Pang, Zhaoju Li, Hao Sun, Si Li, Boxin Shi, Nan Duan, Weiwei Deng, Ruofei Zhang, Liangjie Zhang, Qi Zhang. 
+  <br> ACM Multimedia, 2022.
+- **CodeReviewer: Pre-Training for Automating Code Review Activities**.
+  <br> Zhiyu Li, Shuai Lu, Daya Guo, Nan Duan, Shailesh Jannu, Grant Jenks, Deep Majumder, Jared Green, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan. 
+  <br> ESEC/FSE, 2022.
+- **VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**.
+  <br> Estelle Aflalo, Meng Du, Shao-Yen Tseng, Yongfei Liu, Chenfei Wu, Nan Duan, Vasudev Lal. 
+  <br> CVPR, 2022.
+- **Reasoning over Hybrid Chain for Table-and-Text Open Domain Question Answering**.
+  <br> Wanjun Zhong, Junjie Huang, Qian Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan. 
+  <br> IJCAI, 2022.
+- **Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval**.
+  <br> Ning Wu, Yaobo Liang, Houxing Ren, Linjun Shou, Nan Duan, Ming Gong, Daxin Jiang. 
+  <br> IJCAI, 2022.
+- **ProQA: Structural Prompt-based Pre-training for Unified Question Answering**.
+  <br> Wanjun Zhong, Yifan Gao, Ning Ding, Yujia Qin, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan. 
+  <br> NAACL, 2022.
+- **KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation**.
+  <br> Yongfei Liu, Chenfei Wu, Shao-yen Tseng, Vasudev Lal, Xuming He, Nan Duan. 
+  <br> Findings of NAACL, 2022.
+- **Analytical Reasoning of Text**.
+  <br> Wanjun Zhong, Siyuan Wang, Duyu Tang, Zenan Xu, Daya Guo, Yining Chen, Jiahai Wang, Jian Yin, Ming Zhou, Nan Duan. 
+  <br> Findings of NAACL, 2022.
+- **CULG: Commercial Universal Language Generation**.
+  <br> Haonan Li, yameng huang, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan. 
+  <br> Industry Track of NAACL, 2022.
+- **ReACC: A Retrieval-Augmented Code Completion Framework**.
+  <br> Shuai Lu, Nan Duan, Hojae Han, Daya Guo, seung-won hwang, Alexey Svyatkovskiy. 
+  <br> ACL, 2022.
+- **UniXcoder: Unified Cross-Modal Pre-training for Code Representation**.
+  <br> Daya Guo, Shuai Lu, Nan Duan, Yanlin Wang, Ming Zhou, Jian Yin. 
+  <br> ACL, 2022.
+- **Cross-Lingual Ability of Multilingual Masked Language Models: A Study of Language Structure**.
+  <br> Yuan Chai, Yaobo Liang, Nan Duan. 
+  <br> ACL, 2022.
+- **Multi-View Document Representation Learning for Open-Domain Dense Retrieval**.
+  <br> Shunyu Zhang, Yaobo Liang, MING GONG, Daxin Jiang, Nan Duan. 
+  <br> ACL, 2022.
+- **DialogVED: A Pre-trained Latent Variable Encoder-Decoder Model for Dialog Response Generation**.
+  <br> Wei Chen, Yeyun Gong, Song Wang, Bolun Yao, Weizhen Qi, zhongyu wei, Xiaowu Hu, Bartuer Zhou, Yi Mao, Weizhu Chen, Biao Cheng, Nan Duan. 
+  <br> ACL, 2022.
+- **Contextual Fine-to-Coarse Distillation for Coarse-grained Response Selection in Open-Domain Conversations**. 
+  <br> Wei Chen, Yeyun Gong, Can Xu, Huang Hu, Bolun Yao, zhongyu wei, Zhihao Fan, Xiaowu Hu, Bartuer Zhou, Biao Cheng, Daxin Jiang, Nan Duan. 
+  <br> ACL, 2022.
+- **Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text**.
+  <br> Siyuan Wang, Wanjun Zhong, Duyu Tang, zhongyu wei, Zhihao Fan, Daxin Jiang, Ming Zhou, Nan Duan. 
+  <br> Findings of ACL, 2022.
+- **LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval**.
+  <br> Canwen Xu, Daya Guo, Nan Duan, Julian McAuley. 
+  <br> Findings of ACL, 2022.
+- **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**.
+  <br> Minheng Ni, Chenfei Wu, Haoyang Huang, Daxin Jiang, Wangmeng Zuo, Nan Duan. 
+  <br> arXiv, 2022.
+- **Adversarial Retriever-Ranker for Dense Text Retrieval**.
+  <br> Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen. 
+  <br> ICLR, 2022.
+- **Learning to Generate Code Sketches**.
+  <br> Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis. 
+  <br> ICLR, 2022.
+- **XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge**.
+  <br> Xiaoze Jiang, Yaobo Liang, Weizhu Chen, Nan Duan. 
+  <br> AAAI, 2022.
+- **Learning Temporal Video Procedure Segmentation from an Automatically Collected Large Dataset**.
+  <br> Lei Ji, Chenfei Wu, Daisy Zhou, Kun Yan, Edward Cui, Xilin Chen, Nan Duan. 
+  <br> WACV, 2022.
+- **From LSAT: The Progress and Challenges of Complex Reasoning**.
+  <br> Siyuan Wang, Zhongkun Liu, Wanjun Zhong, Ming Zhou, Zhongyu Wei, Zhumin Chen, Nan Duan. 
+  <br> IEEE TASLP, 2022.
+- **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**.
+  <br> Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li. 
+  <br> Neurocomputing, 2022.
+- **Long-Range Modeling of Source Code Files with eWASH: Extended Window Access by Syntax Hierarchy**.
+  <br> Colin Clement, Shuai Lu, Xiaoyu Liu, Michele Tufano, Dawn Drain, Nan Duan, Neel Sundaresan, Alexey Svyatkovskiy. 
+  <br> EMNLP, 2021.
+- **Discovering Representation Sprachbund For Multilingual Pre-Training**.
+  <br> Yimin Fan, Yaobo Liang, Alexandre Muzio, Hany Hassan, Houqiang Li, Ming Zhou, Nan Duan. 
+  <br> Findings of EMNLP, 2021.
+- **KFC: Knowledge Filtering and Contrastive Learning for Generative Commonsense Reasoning**.
+  <br> Haonan Li, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan. 
+  <br> Findings of EMNLP, 2021.
+- **WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach**.
+  <br> Junjie Huang, Duyu Tang, Wanjun Zhong, Shuai Lu, Linjun Shou, Ming Gong, Daxin Jiang, Nan Duan. 
+  <br> Findings of EMNLP, 2021.
+- **Learning from Inside: Self-driven Siamese Sampling and Reasoning for Video Question Answering**.
+  <br> Weijiang Yu, Haoteng Zheng, Mengfei Li, Lei Ji, Lijun Wu, Nong Xiao, Nan Duan. 
+  <br> NeurIPS, 2021.
+- **CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation**.
+  <br> Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu. 
+  <br> NeurIPS (Datasets and Benchmarks Track), 2021.
+- **Question Generation from Code Snippets and Programming Error Messages**.
+  <br> Bolun Yao, Wei Chen, Yeyun Gong, Bartuer Zhou, Jin Xie, Zhongyu Wei, Biao Cheng, Nan Duan. 
+  <br> NLPCC, 2021.
+- **XGPT: Cross-modal Generative Pre-Training for Image Captioning**.
+  <br> Qiaolin Xia, Haoyang Huang, Nan Duan, Dongdong Zhang, Lei Ji, Zhifang Sui, Edward Cui, Taroon Bharti, Ming Zhou. 
+  <br> NLPCC, 2021.
+- **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**.
+  <br> Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan. 
+  <br> arXiv, 2021.
 - Weijiang Yu, Jian Liang, Lei Ji, Lu Li, Yuejian Fang, Nong Xiao, Nan Duan. **Hybrid Reasoning Network for Video-based Commonsense Captioning**. ACM Multimedia, 2021.
 - Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan. **ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**. ACL-Demo, 2021.
 - Yu Yan, Fei Hu, Jiusheng Chen, Nikhil Bhendawade, Ting Ye, Yeyun Gong, Nan Duan, Desheng Cui, Bingyu Chi, Ruofei Zhang. **FastSeq: Make Sequence Generation Faster**. ACL-Demo, 2021.
