@@ -73,8 +73,12 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. 
   <br> Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan.
   <br> AAAI, 2023.
-- Biyang Guo, Yeyun Gong, Yelong Shen, Songqiao Han, Hailiang Huang, Nan Duan, Weizhu Chen. **GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**. arXiv, 2022.
-- Haotian Cui, Chloe Wang, Hassaan Maan, Nan Duan, Bo Wang. **scFormer: A Universal Representation Learning Approach for Single-Cell Data Using Transformers**. bioRxiv, 2022.
+- **GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**.
+  <br> Biyang Guo, Yeyun Gong, Yelong Shen, Songqiao Han, Hailiang Huang, Nan Duan, Weizhu Chen. 
+  <br> arXiv, 2022.
+- **scFormer: A Universal Representation Learning Approach for Single-Cell Data Using Transformers**. 
+  <br> Haotian Cui, Chloe Wang, Hassaan Maan, Nan Duan, Bo Wang. 
+  <br> bioRxiv, 2022.
 - Wanjun Zhong, Tingting Ma, Jiahai Wang, Jian Yin, Tiejun Zhao, Chin-Yew Lin, Nan Duan. **Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**. arXiv, 2022.
 - Hojae Han, Seung-won Hwang, Shuai Lu, Nan Duan, Seungtaek Choi. **Towards Compositional Generalization in Code Search**. EMNLP, 2022.
 - Xingwei He, Yeyun Gong, A-Long Jin, Weizhen Qi, Hang Zhang, Jian Jiao, Bartuer Zhou, Biao Cheng, SM Yiu, Nan Duan. **Metric-guided Distillation: Distilling Knowledge from the Metric to Ranker and Retriever for Generative Commonsense Reasoning**. EMNLP, 2022.
