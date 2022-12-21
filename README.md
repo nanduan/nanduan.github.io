@@ -85,10 +85,10 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Publication-Book
 
-- 《智能问答》. 
+- **《智能问答》**. 
   <br> 段楠，周明. 
   <br> 高等教育出版社，2018.
-- 《人工智能导论 - 第11章：自然语言处理》.
+- **《人工智能导论 - 第11章：自然语言处理》**.
   <br> 周明，段楠，刘树杰，吴俣.
   <br> 中国科学技术出版社，2018.
 
