@@ -72,6 +72,12 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
   <br> 周明，段楠，刘树杰，吴俣.
   <br> 中国科学技术出版社，2018.
 
+### Ph.D. Dissertation
+
+- **统计机器翻译中的一致性解码方法研究**. ([slides]())
+  <br> 段楠. 
+  <br> 2011.
+
 ### Paper
 
 - **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. 
@@ -518,9 +524,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Forced Derivation Tree based Model Training to Statistical Machine Translation**.
   <br> Nan Duan, Mu Li, Ming Zhou. 
   <br> EMNLP, 2012.
-- **Consensus Decoding to Statistical Machine Translation**. (in Chinese)
-  <br> Nan Duan. 
-  <br> Ph.D. thesis, 2012. 
 - **Improving Phrase Extraction via MBR Phrase Scoring and Pruning**.
   <br> Nan Duan, Mu Li, Ming Zhou. 
   <br> MT Summit XIII, 2011.
