@@ -6,7 +6,7 @@
 
 
 Dr. Nan DUAN is a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia. He is an adjunct Ph.D. supervisor at University of Science and Technology of China and an adjunct professor at Tianjin University. He is a Distinguished Member of CCF. His research interests include natural language processing, code intelligence, multimodal intelligence, and machine reasoning. 
-<p style="color: red;">test</p>
+<p style="color: #ff0000;">test</p>
 
 段楠博士，微软亚洲研究院首席研究员，自然语言计算组研究经理，中国科学技术大学兼职博导，天津大学兼职教授，CCF杰出会员，主要从事自然语言处理、代码智能、多模态智能、机器推理等研究。
 
