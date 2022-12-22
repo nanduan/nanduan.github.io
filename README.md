@@ -80,6 +80,21 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Preprint
 
+- **Curriculum Sampling for Dense Retrieval with Document Expansion**.
+  <br> Xingwei He, Yeyun Gong, A-Long Jin, Hang Zhang, Anlei Dong, Jian Jiao, Siu Ming Yiu, Nan Duan.
+  <br> arXiv, 2022.
+- **MASTER: Multi-task Pre-trained Bottlenecked Masked Autoencoders are Better Dense Retrievers**.
+  <br> Kun Zhou, Xiao Liu, Yeyun Gong, Wayne Xin Zhao, Daxin Jiang, Nan Duan, Ji-Rong Wen.
+  <br> arXiv, 2022.
+- **APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning**.
+  <br> Jiashuo Sun, Hang Zhang, Chen Lin, Yeyun Gong, Jian Guo, Nan Duan.
+  <br> arXiv, 2022.
+- **LEAD: Liberal Feature-based Distillation for Dense Retrieval**.
+  <br> Hao Sun, Xiao Liu, Yeyun Gong, Anlei Dong, Jian Jiao, Jingwen Lu, Yan Zhang, Daxin Jiang, Linjun Yang, Rangan Majumder, Nan Duan.
+  <br> arXiv, 2022.
+- **ReCo: Region-Controlled Text-to-Image Generation**.
+  <br> Zhengyuan Yang, Jianfeng Wang, Zhe Gan, Linjie Li, Kevin Lin, Chenfei Wu, Nan Duan, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.
+  <br> arXiv, 2022.
 - **GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**.
   <br> Biyang Guo, Yeyun Gong, Yelong Shen, Songqiao Han, Hailiang Huang, Nan Duan, Weizhu Chen. 
   <br> arXiv, 2022.
@@ -89,8 +104,23 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**.
   <br> Wanjun Zhong, Tingting Ma, Jiahai Wang, Jian Yin, Tiejun Zhao, Chin-Yew Lin, Nan Duan. 
   <br> arXiv, 2022.
+- **HORIZON: A High-Resolution Panorama Synthesis Framework**.
+  <br> Kun Yan, Lei Ji, Chenfei Wu, Jian Liang, Ming Zhou, Nan Duan, Shuai Ma.
+  <br> arXiv, 2022.
+- **PROD: Progressive Distillation for Dense Retrieval**.
+  <br> Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder, Nan Duan.
+  <br> arXiv, 2022.
 - **Joint Generator-Ranker Learning for Natural Language Generation**.
   <br> Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. 
+  <br> arXiv, 2022.
+- **CONE: An Efficient COarse-to-fiNE Alignment Framework for Long Video Temporal Grounding**.
+  <br> Zhijian Hou, Wanjun Zhong, Lei Ji, Difei Gao, Kun Yan, Wing-Kwong Chan, Chong-Wah Ngo, Zheng Shou, Nan Duan.
+  <br> arXiv, 2022.
+- **Improving Task Generalization via Unified Schema Prompt**.
+  <br> Wanjun Zhong, Yifan Gao, Ning Ding, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan.
+  <br> arXiv, 2022.
+- **DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder**.
+  <br> Jie Shi, Chenfei Wu, Jian Liang, Xiang Liu, Nan Duan.
   <br> arXiv, 2022.
 - **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**.
   <br> Minheng Ni, Chenfei Wu, Haoyang Huang, Daxin Jiang, Wangmeng Zuo, Nan Duan. 
@@ -116,6 +146,9 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. 
   <br> Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan.
   <br> AAAI, 2023.
+- **An Efficient COarse-to-fiNE Alignment Framework @ Ego4D Natural Language Queries Challenge 2022**
+  <br> Zhijian Hou, Wanjun Zhong, Lei Ji, Difei Gao, Kun Yan, Wing-Kwong Chan, Chong-Wah Ngo, Zheng Shou, Nan Duan.
+  <br> ECCV Ego4D Workshop, 2022.
 - **Towards Compositional Generalization in Code Search**. 
   <br> Hojae Han, Seung-won Hwang, Shuai Lu, Nan Duan, Seungtaek Choi. 
   <br> EMNLP, 2022.
