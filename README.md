@@ -74,7 +74,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Ph.D. Dissertation
 
-- **统计机器翻译中的一致性解码方法研究**. ([slides]())
+- **《统计机器翻译中的一致性解码方法研究》**. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Consensus%20Decoding%20in%20SMT.2011.pdf))
   <br> 段楠. 
   <br> 2011.
 
