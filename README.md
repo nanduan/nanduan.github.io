@@ -78,11 +78,8 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
   <br> 段楠. 
   <br> 2011.
 
-### Paper
+### Preprint
 
-- **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. 
-  <br> Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan.
-  <br> AAAI, 2023.
 - **GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**.
   <br> Biyang Guo, Yeyun Gong, Yelong Shen, Songqiao Han, Hailiang Huang, Nan Duan, Weizhu Chen. 
   <br> arXiv, 2022.
@@ -92,6 +89,33 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**.
   <br> Wanjun Zhong, Tingting Ma, Jiahai Wang, Jian Yin, Tiejun Zhao, Chin-Yew Lin, Nan Duan. 
   <br> arXiv, 2022.
+- **Joint Generator-Ranker Learning for Natural Language Generation**.
+  <br> Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. 
+  <br> arXiv, 2022.
+- **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**.
+  <br> Minheng Ni, Chenfei Wu, Haoyang Huang, Daxin Jiang, Wangmeng Zuo, Nan Duan. 
+  <br> arXiv, 2022.
+- **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**.
+  <br> Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan. 
+  <br> arXiv, 2021.
+- **UniViLM: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation**.
+  <br> Huaishao Luo, Lei Ji, Botian Shi, Haoyang Huang, Nan Duan, Tianrui Li, Xilin Chen, Ming Zhou. 
+  <br> arXiv, 2020.
+- **Tag and Correct: Question Aware Open Information Extraction with Two-stage Decoding**.
+  <br> Martin Kuo, Yaobo Liang, Nan Duan. 
+  <br> arXiv, 2019.
+- **Knowledge Based Machine Reading Comprehension**.
+  <br> Yibo Sun, Daya Guo, Duyu Tang, Nan Duan, Zhao Yan, Xiaocheng Feng, Bing Qin. 
+  <br> arXiv, 2018.
+- **Question Answering and Question Generation as Dual Tasks**.
+  <br> Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Ming Zhou. 
+  <br> arXiv, 2017.
+
+### Publication
+
+- **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. 
+  <br> Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan.
+  <br> AAAI, 2023.
 - **Towards Compositional Generalization in Code Search**. 
   <br> Hojae Han, Seung-won Hwang, Shuai Lu, Nan Duan, Seungtaek Choi. 
   <br> EMNLP, 2022.
@@ -128,9 +152,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**.
   <br> Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. 
   <br> NeurIPS, 2022.
-- **Joint Generator-Ranker Learning for Natural Language Generation**.
-  <br> Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. 
-  <br> arXiv, 2022.
 - **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**.
   <br> Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. 
   <br> ECCV, 2022.
@@ -188,9 +209,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval**.
   <br> Canwen Xu, Daya Guo, Nan Duan, Julian McAuley. 
   <br> Findings of ACL, 2022.
-- **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**.
-  <br> Minheng Ni, Chenfei Wu, Haoyang Huang, Daxin Jiang, Wangmeng Zuo, Nan Duan. 
-  <br> arXiv, 2022.
 - **Adversarial Retriever-Ranker for Dense Text Retrieval**.
   <br> Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen. 
   <br> ICLR, 2022.
@@ -233,9 +251,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **XGPT: Cross-modal Generative Pre-Training for Image Captioning**.
   <br> Qiaolin Xia, Haoyang Huang, Nan Duan, Dongdong Zhang, Lei Ji, Zhifang Sui, Edward Cui, Taroon Bharti, Ming Zhou. 
   <br> NLPCC, 2021.
-- **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**.
-  <br> Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan. 
-  <br> arXiv, 2021.
 - **Hybrid Reasoning Network for Video-based Commonsense Captioning**.
   <br> Weijiang Yu, Jian Liang, Lei Ji, Lu Li, Yuejian Fang, Nong Xiao, Nan Duan. 
   <br> ACM Multimedia, 2021.
@@ -365,9 +380,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Progress in Neural NLP: Modeling, Learning, and Reasoning**.
   <br> Ming Zhou, Nan Duan, Shujie Liu, Heung-Yeung Shum. 
   <br> Engineering, 2020.
-- **UniViLM: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation**.
-  <br> Huaishao Luo, Lei Ji, Botian Shi, Haoyang Huang, Nan Duan, Tianrui Li, Xilin Chen, Ming Zhou. 
-  <br> arXiv, 2020.
 - **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training**.
   <br> Gen Li, Nan Duan, Yuejian Fang, Ming Gong, Daxin Jiang, Ming Zhou. 
   <br> AAAI, 2020.
@@ -380,9 +392,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Neural Semantic Parsing in Low-Resource Settings with Back-Translation and Meta-Learning**.
   <br> Yibo Sun, Duyu Tang, Nan Duan, Yeyun Gong, Xiaocheng Feng, Bing Qin, Daxin Jiang. 
   <br> AAAI, 2020.
-- **Tag and Correct: Question Aware Open Information Extraction with Two-stage Decoding**.
-  <br> Martin Kuo, Yaobo Liang, Nan Duan. 
-  <br> arXiv, 2019.
 - **A Tensorized Transformer for Language Modeling**.
   <br> Xindian Ma, Peng Zhang, Shuai Zhang, Nan Duan, Yuexian Hou, Dawei Song, Ming Zhou. 
   <br> NeurIPS, 2019.
@@ -470,15 +479,9 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Assertion-based QA with Question-Aware Open Information Extraction**.
   <br> Zhao Yan, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li. 
   <br> AAAI, 2018.
-- **Knowledge Based Machine Reading Comprehension**.
-  <br> Yibo Sun, Daya Guo, Duyu Tang, Nan Duan, Zhao Yan, Xiaocheng Feng, Bing Qin. 
-  <br> arXiv, 2018.
 - **Overview of the NLPCC 2017 Shared Task: Open Domain QA**.
   <br> Nan Duan. 
   <br> NLPCC, 2017.
-- **Question Answering and Question Generation as Dual Tasks**.
-  <br> Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Ming Zhou. 
-  <br> arXiv, 2017.
 - **Question Generation for Question Answering**.
   <br> Nan Duan, Duyu Tang, Peng Chen, Ming Zhou. 
   <br> EMNLP, 2017.
