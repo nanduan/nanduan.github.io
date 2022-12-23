@@ -31,8 +31,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 - **Machine Reasoning**
     - reasoning-enhanced training: [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS 2022).
-    - symbolic reasoning: [Analytical Reasoning](https://arxiv.org/abs/2104.06598) (NAACL 2022).
-    - neural-symbolic reasoning: [Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL 2022).
+    - (neural-)symbolic reasoning: [Analytical Reasoning](https://arxiv.org/abs/2104.06598) (NAACL 2022), [Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL 2022).
     - retrieval-augmented reasoning: [Fact Checking](https://arxiv.org/abs/1909.03745) (ACL 2020), [Commonsense QA](https://arxiv.org/abs/1909.05311) (AAAI 2020), [Text+Table QA](https://arxiv.org/abs/2201.05880) (IJCAI 2022).
     - neural module reasoning: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint 2022)
 
