@@ -180,7 +180,7 @@ a {
 
   @include small {
     padding: 2rem 1rem;
-    font-size: 1rem;
+    font-size: 0.8rem; <!--字体？-->
   }
   
   kbd {
@@ -191,7 +191,7 @@ a {
     box-shadow: inset 0 -1px 0 #959da5;
     color: #444d56;
     display: inline-block;
-    font-size: 10px; <!--字体？-->
+    font-size: 11px; 
     line-height: 10px;
     padding: 3px 5px;
     vertical-align: middle;
