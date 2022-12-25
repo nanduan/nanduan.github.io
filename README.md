@@ -146,7 +146,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Publication
 
-- **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. 
+- **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. ([GitHub](https://github.com/microsoft/BridgeTower))
   <br> Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan.
   <br> AAAI, 2023.
 - **An Efficient COarse-to-fiNE Alignment Framework @ Ego4D Natural Language Queries Challenge 2022**
@@ -209,7 +209,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval**.
   <br> Ning Wu, Yaobo Liang, Houxing Ren, Linjun Shou, Nan Duan, Ming Gong, Daxin Jiang. 
   <br> IJCAI, 2022.
-- **ProQA: Structural Prompt-based Pre-training for Unified Question Answering**.
+- **ProQA: Structural Prompt-based Pre-training for Unified Question Answering**. ([GitHub](https://github.com/zhongwanjun/ProQA))
   <br> Wanjun Zhong, Yifan Gao, Ning Ding, Yujia Qin, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan. 
   <br> NAACL, 2022.
 - **KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation**.
@@ -221,7 +221,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **CULG: Commercial Universal Language Generation**.
   <br> Haonan Li, yameng huang, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan. 
   <br> Industry Track of NAACL, 2022.
-- **ReACC: A Retrieval-Augmented Code Completion Framework**.
+- **ReACC: A Retrieval-Augmented Code Completion Framework**. ([GitHub](https://github.com/microsoft/ReACC))
   <br> Shuai Lu, Nan Duan, Hojae Han, Daya Guo, seung-won hwang, Alexey Svyatkovskiy. 
   <br> ACL, 2022.
 - **UniXcoder: Unified Cross-Modal Pre-training for Code Representation**. ([GitHub](https://github.com/microsoft/CodeBERT))
@@ -245,7 +245,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval**.
   <br> Canwen Xu, Daya Guo, Nan Duan, Julian McAuley. 
   <br> Findings of ACL, 2022.
-- **Adversarial Retriever-Ranker for Dense Text Retrieval**.
+- **Adversarial Retriever-Ranker for Dense Text Retrieval**. ([GitHub](https://github.com/microsoft/AR2))
   <br> Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen. 
   <br> ICLR, 2022.
 - **Learning to Generate Code Sketches**.
@@ -260,7 +260,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **From LSAT: The Progress and Challenges of Complex Reasoning**.
   <br> Siyuan Wang, Zhongkun Liu, Wanjun Zhong, Ming Zhou, Zhongyu Wei, Zhumin Chen, Nan Duan. 
   <br> IEEE TASLP, 2022.
-- **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**.
+- **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**. ([GitHub](https://github.com/ArrowLuo/CLIP4Clip))
   <br> Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li. 
   <br> Neurocomputing, 2022.
 - **Long-Range Modeling of Source Code Files with eWASH: Extended Window Access by Syntax Hierarchy**.
@@ -290,7 +290,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Hybrid Reasoning Network for Video-based Commonsense Captioning**.
   <br> Weijiang Yu, Jian Liang, Lei Ji, Lu Li, Yuejian Fang, Nong Xiao, Nan Duan. 
   <br> ACM Multimedia, 2021.
-- **ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**.
+- **ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation**. ([GitHub](https://github.com/microsoft/ProphetNet))
   <br> Weizhen Qi, Yeyun Gong, Yu Yan, Can Xu, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan. 
   <br> ACL-Demo, 2021.
 - **FastSeq: Make Sequence Generation Faster**.
@@ -320,13 +320,13 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **GEM: A General Evaluation Benchmark for Multimodal Tasks**.
   <br> Lin Su, Nan Duan, Edward Cui, Lei Ji, Chenfei Wu, Huaishao Luo, Yongfei Liu, Ming Zhong, Taroon Bharti, Arun Sacheti. 
   <br> Findings of ACL, 2021.
-- **GLGE: A New General Language Generation Evaluation Benchmark**.
+- **GLGE: A New General Language Generation Evaluation Benchmark**. ([GitHub](https://github.com/microsoft/glge))
   <br> Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan. 
   <br> Findings of ACL, 2021.
 - **Hashing based Efficient Inference for Image-Text Matching**. 
   <br> Rong-Cheng Tu, Lei Ji, Huaishao Luo, Botian Shi, Heyan Huang, Nan Duan, Xian-Ling Mao. 
   <br> Findings of ACL, 2021.
-- **K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters**.
+- **K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters**. ([GitHub](https://github.com/microsoft/K-Adapter))
   <br> Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu Ji, Guihong Cao, Daxin Jiang, Ming Zhou. 
   <br> Findings of ACL, 2021.
 - **UserAdapter: Few-Shot User Learning in Sentiment Analysis**.
@@ -335,7 +335,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Tree-Capsule: Tree-Structured Capsule Network for Improving Relation Extraction**.
   <br> Tianchi Yang, Linmei Hu, Luhao Zhang, Chuan Shi, Cheng Yang, Nan Duan, Ming Zhou. 
   <br> PAKDD, 2021.
-- **M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training**.
+- **M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training**. ([GitHub](https://github.com/microsoft/M3P))
   <br> Minheng Ni, Haoyang Huang, Lin Su, Edward Cui, Taroon Bharti, Lijuan Wang, Dongdong Zhang, Nan Duan. 
   <br> CVPR, 2021.
 - **GraphCodeBERT: Pre-training Code Representations with Data Flow**. ([GitHub](https://github.com/microsoft/CodeBERT))
@@ -356,13 +356,13 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Multi-level Alignment Pretraining for Multi-lingual Semantic Parsing**.
   <br> Bo Shao, Yeyun Gong, Weizhen Qi, Nan Duan, Xiaola Lin. 
   <br> COLING, 2020.
-- **XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation**.
+- **XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation**. ([GitHub](https://github.com/microsoft/XGLUE))
   <br> Yaobo Liang, Nan Duan, Yeyun Gong, Ning Wu, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Bruce Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Jiun-Hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Ming Zhou. 
   <br> EMNLP, 2020.
 - **CodeBERT: A Pre-Trained Model for Programming and Natural Language**. ([GitHub](https://github.com/microsoft/CodeBERT))
   <br> Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. 
   <br> EMNLP, 2020.
-- **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**.
+- **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**. ([GitHub](https://github.com/microsoft/ProphetNet))
   <br> Yeyun Gong, Yu Yan, Weizhen Qi, Dayiheng Liu, Nan Duan, Jiusheng Chen, Bruce Zhang, Ming Zhou. 
   <br> EMNLP, 2020.
 - **GRACE: Gradient Harmonized and Cascaded Labeling for Aspect-based Sentiment Analysis**.
