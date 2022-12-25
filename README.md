@@ -17,14 +17,14 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - text generation: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP, 2020), [BANG](https://arxiv.org/abs/2012.15525) (ICML, 2021), [JGR](https://arxiv.org/abs/2206.13974) (Preprint, 2022), [GENIUS](https://arxiv.org/abs/2211.10330) (Preprint, 2022).
     - benchmark: [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA)/[NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) (NLPCC, 2016-2019), [MSParS](https://github.com/msra-nlc/MSParS) (NLPCC, 2019), [XGLUE](https://microsoft.github.io/XGLUE/) (EMNLP, 2020), [GLGE](https://arxiv.org/abs/2011.11928) (ACL, 2021).
     
-- **Code Intelligence** ([GitHub](https://github.com/microsoft/CodeBERT))
+- **Code Intelligence**
     - code pre-training: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR, 2021), [UniXcoder](https://arxiv.org/abs/2203.03850) (ACL, 2022).
     - code retrieval: [CodeRetriever](https://arxiv.org/abs/2201.10866) (EMNLP, 2022), [SCodeR](https://arxiv.org/abs/2210.09597) (EMNLP, 2022).
     - code generation: [XGPT-C](https://arxiv.org/abs/2109.08780) (EMNLP, 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR, 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL, 2022).
     - code review & refinement: [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE, 2022).
     - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL, 2021), [CodeExp](https://arxiv.org/abs/2211.15395) (EMNLP, 2022), [ExeDS](https://arxiv.org/abs/2211.09374v1) (EMNLP, 2022).
     
-- **Multimodal Intelligence** ([GitHub](https://github.com/microsoft/NUWA))
+- **Multimodal Intelligence** 
     - multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR, 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL, 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023).
     - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022) ([Homepage](https://nuwa-infinity.microsoft.com/)).
     - multimodal visualization: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
@@ -179,7 +179,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Execution-based Evaluation for Data Science Code Generation Models**. 
   <br> Junjie Huang, Chenglong Wang, Jipeng Zhang, cong yan, Haotian Cui, Jeevana Priya Inala, Colin Clement, Nan Duan, Jianfeng Gao. 
   <br> EMNLP Workshop on Data Science with Human in the Loop, 2022.
-- **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. ([Homepage](https://nuwa-infinity.microsoft.com/))
+- **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. ([GitHub](https://github.com/microsoft/NUWA)) ([Homepage](https://nuwa-infinity.microsoft.com/))
   <br> Chenfei Wu, Jian Liang, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan. 
   <br> NeurIPS, 2022.
 - **Less-forgetting Multi-lingual Fine-tuning**.
@@ -188,7 +188,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **LogiGAN: Learning Logical Reasoning via Adversarial Pre-training**.
   <br> Xinyu Pi, Wanjun Zhong, Yan Gao, Nan Duan, Jian-Guang Lou. 
   <br> NeurIPS, 2022.
-- **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**.
+- **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**. ([GitHub](https://github.com/microsoft/NUWA))
   <br> Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan. 
   <br> ECCV, 2022.
 - **Trace Controlled Text to Image Generation**.
@@ -197,7 +197,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **AdsCVLR: Commercial Visual-Linguistic Representation Modeling in Sponsored Search**.
   <br> Yongjie Zhu, Chunhui Han, Yuefeng Zhan, Bochen Pang, Zhaoju Li, Hao Sun, Si Li, Boxin Shi, Nan Duan, Weiwei Deng, Ruofei Zhang, Liangjie Zhang, Qi Zhang. 
   <br> ACM Multimedia, 2022.
-- **CodeReviewer: Pre-Training for Automating Code Review Activities**.
+- **CodeReviewer: Pre-Training for Automating Code Review Activities**. ([GitHub](https://github.com/microsoft/CodeBERT))
   <br> Zhiyu Li, Shuai Lu, Daya Guo, Nan Duan, Shailesh Jannu, Grant Jenks, Deep Majumder, Jared Green, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan. 
   <br> ESEC/FSE, 2022.
 - **VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**.
@@ -224,7 +224,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **ReACC: A Retrieval-Augmented Code Completion Framework**.
   <br> Shuai Lu, Nan Duan, Hojae Han, Daya Guo, seung-won hwang, Alexey Svyatkovskiy. 
   <br> ACL, 2022.
-- **UniXcoder: Unified Cross-Modal Pre-training for Code Representation**.
+- **UniXcoder: Unified Cross-Modal Pre-training for Code Representation**. ([GitHub](https://github.com/microsoft/CodeBERT))
   <br> Daya Guo, Shuai Lu, Nan Duan, Yanlin Wang, Ming Zhou, Jian Yin. 
   <br> ACL, 2022.
 - **Cross-Lingual Ability of Multilingual Masked Language Models: A Study of Language Structure**.
@@ -278,7 +278,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Learning from Inside: Self-driven Siamese Sampling and Reasoning for Video Question Answering**.
   <br> Weijiang Yu, Haoteng Zheng, Mengfei Li, Lei Ji, Lijun Wu, Nong Xiao, Nan Duan. 
   <br> NeurIPS, 2021.
-- **CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation**.
+- **CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation**. ([GitHub](https://github.com/microsoft/CodeXGLUE))
   <br> Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu. 
   <br> NeurIPS (Datasets and Benchmarks Track), 2021.
 - **Question Generation from Code Snippets and Programming Error Messages**.
@@ -338,7 +338,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training**.
   <br> Minheng Ni, Haoyang Huang, Lin Su, Edward Cui, Taroon Bharti, Lijuan Wang, Dongdong Zhang, Nan Duan. 
   <br> CVPR, 2021.
-- **GraphCodeBERT: Pre-training Code Representations with Data Flow**.
+- **GraphCodeBERT: Pre-training Code Representations with Data Flow**. ([GitHub](https://github.com/microsoft/CodeBERT))
   <br> Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou. 
   <br> ICLR, 2021.
 - **Mask Attention Networks: Rethinking and Strengthen Transformer**.
@@ -359,7 +359,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation**.
   <br> Yaobo Liang, Nan Duan, Yeyun Gong, Ning Wu, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Bruce Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Jiun-Hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Ming Zhou. 
   <br> EMNLP, 2020.
-- **CodeBERT: A Pre-Trained Model for Programming and Natural Language**.
+- **CodeBERT: A Pre-Trained Model for Programming and Natural Language**. ([GitHub](https://github.com/microsoft/CodeBERT))
   <br> Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. 
   <br> EMNLP, 2020.
 - **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**.
