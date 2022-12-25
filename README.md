@@ -251,7 +251,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Learning to Generate Code Sketches**.
   <br> Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis. 
   <br> ICLR, 2022.
-- **XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge**.
+- **XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge**. ([GitHub](https://github.com/microsoft/Unicoder))
   <br> Xiaoze Jiang, Yaobo Liang, Weizhu Chen, Nan Duan. 
   <br> AAAI, 2022.
 - **Learning Temporal Video Procedure Segmentation from an Automatically Collected Large Dataset**.
@@ -434,7 +434,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph**.
   <br> Yikang Li, Nan Duan, Tao Ma, Yeqi Bai, Sining Wei, Xiaogang Wang. 
   <br> NeurIPS, 2019.
-- **Unicoder: A Universal Language Encoder by Pre-training with Multiple Cross-lingual Tasks**.
+- **Unicoder: A Universal Language Encoder by Pre-training with Multiple Cross-lingual Tasks**. ([GitHub](https://github.com/microsoft/Unicoder))
   <br> Haoyang Huang, Yaobo Liang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Ming Zhou. 
   <br> EMNLP, 2019.
 - **Multi-task Learning for Conversational Question Answering Over a Large-Scale Knowledge Base**.
