@@ -25,7 +25,8 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL, 2021), [CodeExp](https://arxiv.org/abs/2211.15395) (EMNLP, 2022), [ExeDS](https://arxiv.org/abs/2211.09374v1) (EMNLP, 2022).
     
 - **Multimodal Intelligence** 
-    - multimodal pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR, 2021), [CLIP4Clip](https://arxiv.org/abs/2104.08860) (Neurocomputing, 2022), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL, 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023).
+    - multimodal pre-training (image): [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR, 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL, 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023).
+    - multimodal pre-training (video): [UniVL](https://arxiv.org/abs/2002.06353) (Preprint, 2020), [CLIP4Clip](https://arxiv.org/abs/2104.08860) (Neurocomputing, 2022).
     - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022) ([Homepage](https://nuwa-infinity.microsoft.com/)).
     - multimodal visualization: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
 
@@ -131,7 +132,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**.
   <br> Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan. 
   <br> arXiv, 2021.
-- **UniViLM: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation**.
+- **UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation**. ([GitHub](https://github.com/microsoft/UniVL))
   <br> Huaishao Luo, Lei Ji, Botian Shi, Haoyang Huang, Nan Duan, Tianrui Li, Xilin Chen, Ming Zhou. 
   <br> arXiv, 2020.
 - **Tag and Correct: Question Aware Open Information Extraction with Two-stage Decoding**.
