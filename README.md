@@ -80,6 +80,9 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Preprint
 
+- **GENIE: Large Scale Pre-training for Text Generation with Diffusion Model**
+  <br> Zhenghao Lin, Yeyun Gong, Yelong Shen, Tong Wu, Zhihao Fan, Chen Lin, Weizhu Chen, Nan Duan.
+  <br> arXiv, 2022.
 - **Curriculum Sampling for Dense Retrieval with Document Expansion**.
   <br> Xingwei He, Yeyun Gong, A-Long Jin, Hang Zhang, Anlei Dong, Jian Jiao, Siu Ming Yiu, Nan Duan.
   <br> arXiv, 2022.
