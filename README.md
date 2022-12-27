@@ -1,5 +1,5 @@
 ## Nan DUAN (段楠) 
-## [Talk](https://github.com/nanduan/nanduan.github.io#talk)    [Book](https://github.com/nanduan/nanduan.github.io#book)   [Preprint](https://github.com/nanduan/nanduan.github.io#preprint)   [Publication](https://github.com/nanduan/nanduan.github.io#publication)
+## \[[Talk](https://github.com/nanduan/nanduan.github.io#talk)\]    [Book](https://github.com/nanduan/nanduan.github.io#book)   [Preprint](https://github.com/nanduan/nanduan.github.io#preprint)   [Publication](https://github.com/nanduan/nanduan.github.io#publication)
 [Microsoft Research](https://www.microsoft.com/en-us/research/people/nanduan/) \| [Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/)
 
 ### We are hiring NLP/ML researchers! Hit me up (nanduan AT microsoft.com) if you are seeking for a researcher position.
