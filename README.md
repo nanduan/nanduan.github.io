@@ -1,7 +1,7 @@
 ## Nan DUAN (段楠) 
 [Microsoft Research](https://www.microsoft.com/en-us/research/people/nanduan/) \| [Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/)
 
-### We are hiring NLP/ML researchers! Hit me up (nanduan AT microsoft.com) if you are seeking for a researcher position.
+### <span style="color: #ff0000;">We are hiring NLP/ML researchers! Hit me up (nanduan AT microsoft.com) if you are seeking for a researcher position.</span>
 
 Dr. Nan DUAN is a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia. He is an adjunct Ph.D. supervisor at University of Science and Technology of China and an adjunct professor at Tianjin University. He is a Distinguished Member of CCF. His research interests include natural language processing, code intelligence, multimodal intelligence, and machine reasoning.
 
