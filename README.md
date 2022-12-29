@@ -164,7 +164,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **CodeRetriever: A Large Scale Contrastive Pre-Training Method for Code Search**. 
   <br> Xiaonan Li, Yeyun Gong, Yelong Shen, Xipeng Qiu, Hang Zhang, Bolun Yao, Weizhen Qi, Daxin Jiang, Weizhu Chen, Nan Duan. 
   <br> EMNLP, 2022.
-- **CodeExp: Explanatory Code Document Generation**. 
+- **CodeExp: Explanatory Code Document Generation**. ([GitHub](https://github.com/subercui/CodeExp))
   <br> Haotian Cui, Chenglong Wang, Junjie Huang, Jeevana Priya Inala, Todd Mytkowicz, Bo Wang, Jianfeng Gao, Nan Duan. 
   <br> Findings of EMNLP, 2022.
 - **Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA**. ([GitHub](https://github.com/Jun-jie-Huang/OTTeR))
