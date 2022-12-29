@@ -98,7 +98,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **ReCo: Region-Controlled Text-to-Image Generation**.
   <br> Zhengyuan Yang, Jianfeng Wang, Zhe Gan, Linjie Li, Kevin Lin, Chenfei Wu, Nan Duan, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.
   <br> arXiv, 2022.
-- **GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**.
+- **GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**. ([GitHub](https://github.com/microsoft/SCGLab))
   <br> Biyang Guo, Yeyun Gong, Yelong Shen, Songqiao Han, Hailiang Huang, Nan Duan, Weizhu Chen. 
   <br> arXiv, 2022.
 - **scFormer: A Universal Representation Learning Approach for Single-Cell Data Using Transformers**. 
