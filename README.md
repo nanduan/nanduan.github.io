@@ -167,7 +167,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **CodeExp: Explanatory Code Document Generation**. 
   <br> Haotian Cui, Chenglong Wang, Junjie Huang, Jeevana Priya Inala, Todd Mytkowicz, Bo Wang, Jianfeng Gao, Nan Duan. 
   <br> Findings of EMNLP, 2022.
-- **Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA**. 
+- **Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA**. ([GitHub](https://github.com/Jun-jie-Huang/OTTeR))
   <br> Junjie Huang, Wanjun Zhong, Qian Liu, Ming Gong, Daxin Jiang, Nan Duan. 
   <br> Findings of EMNLP, 2022.
 - **Soft-Labeled Contrastive Pre-Training for Function-Level Code Representation**.
@@ -176,7 +176,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval**. 
   <br> Kun Zhou, Yeyun Gong, Xiao Liu, Wayne Xin Zhao, Yelong Shen, Anlei Dong, Jingwen Lu, Rangan Majumder, Ji-Rong Wen, Nan Duan, Weizhu Chen. 
   <br> Industry Track of EMNLP, 2022.
-- **Execution-based Evaluation for Data Science Code Generation Models**. 
+- **Execution-based Evaluation for Data Science Code Generation Models**. ([GitHub](https://github.com/Jun-jie-Huang/ExeDS))
   <br> Junjie Huang, Chenglong Wang, Jipeng Zhang, cong yan, Haotian Cui, Jeevana Priya Inala, Colin Clement, Nan Duan, Jianfeng Gao. 
   <br> EMNLP Workshop on Data Science with Human in the Loop, 2022.
 - **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**. ([GitHub](https://github.com/microsoft/NUWA)) ([Homepage](https://nuwa-infinity.microsoft.com/))
