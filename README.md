@@ -26,13 +26,13 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **Multimodal Intelligence** 
     - multimodal pre-training (image): [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR, 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL, 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023).
     - multimodal pre-training (video): [UniVL](https://arxiv.org/abs/2002.06353) (Preprint, 2020), [CLIP4Clip](https://arxiv.org/abs/2104.08860) (Neurocomputing, 2022).
-    - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022) ([Homepage](https://nuwa-infinity.microsoft.com/)).
+    - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022).
     - multimodal visualization: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
 
 - **Machine Reasoning**
     - (neural-)symbolic reasoning: [Analytical Reasoning](https://arxiv.org/abs/2104.06598) (NAACL, 2022), [Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL, 2022).
     - retrieval-augmented reasoning: [Fact Checking](https://arxiv.org/abs/1909.03745) (ACL, 2020), [Commonsense QA](https://arxiv.org/abs/1909.05311) (AAAI, 2020), [Text+Table QA](https://arxiv.org/abs/2201.05880) (IJCAI, 2022).
-    - neural module reasoning: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint, 2022).
+    - neural moduler reasoning: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint, 2022).
     - prompt-based reasoning: [ProQA](https://arxiv.org/abs/2205.04040) (NAACL, 2022), [SchemaPro](https://arxiv.org/abs/2208.03229) (Preprint, 2022). 
     - reasoning-enhanced training: [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS, 2022).
     
