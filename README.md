@@ -30,7 +30,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - multimodal visualization: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
 
 - **Machine Reasoning**
-    - (neural-)symbolic reasoning: [Analytical Reasoning](https://arxiv.org/abs/2104.06598) (NAACL, 2022), [Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL, 2022).
+    - (neural-)symbolic reasoning: [Complex Reasoning in LSAT](https://arxiv.org/abs/2104.06598) (TASLP, 2022) [Analytical Reasoning](https://arxiv.org/abs/2104.06598) (NAACL, 2022), [Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL, 2022).
     - retrieval-augmented reasoning: [Fact Checking](https://arxiv.org/abs/1909.03745) (ACL, 2020), [Commonsense QA](https://arxiv.org/abs/1909.05311) (AAAI, 2020), [Text+Table QA](https://arxiv.org/abs/2201.05880) (IJCAI, 2022).
     - neural moduler reasoning: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint, 2022).
     - prompt-based reasoning: [ProQA](https://arxiv.org/abs/2205.04040) (NAACL, 2022), [SchemaPro](https://arxiv.org/abs/2208.03229) (Preprint, 2022). 
