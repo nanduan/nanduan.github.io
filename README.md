@@ -146,6 +146,9 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Publication
 
+- **Modeling Sequential Sentence Relation to Improve Cross-lingual Dense Retrieval**.
+  <br> Shunyu Zhang, Yaobo Liang, MING GONG, Daxin Jiang, Nan Duan.
+  <br> ICLR, 2023.
 - **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. ([GitHub](https://github.com/microsoft/BridgeTower))
   <br> Xiao Xu, Chenfei Wu, Shachar Rosenman, Vasudev Lal, Nan Duan.
   <br> AAAI, 2023.
