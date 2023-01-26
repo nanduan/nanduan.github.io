@@ -110,9 +110,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **HORIZON: A High-Resolution Panorama Synthesis Framework**.
   <br> Kun Yan, Lei Ji, Chenfei Wu, Jian Liang, Ming Zhou, Nan Duan, Shuai Ma.
   <br> arXiv, 2022.
-- **PROD: Progressive Distillation for Dense Retrieval**.
-  <br> Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder, Nan Duan.
-  <br> arXiv, 2022.
 - **Joint Generator-Ranker Learning for Natural Language Generation**.
   <br> Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. 
   <br> arXiv, 2022.
@@ -146,7 +143,10 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Publication
 
-- **Modeling Sequential Sentence Relation to Improve Cross-lingual Dense Retrieval**.
+- **PROD: Progressive Distillation for Dense Retrieval**.
+  <br> Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder, Nan Duan.
+  <br> WWW, 2023.
+  - **Modeling Sequential Sentence Relation to Improve Cross-lingual Dense Retrieval**.
   <br> Shunyu Zhang, Yaobo Liang, MING GONG, Daxin Jiang, Nan Duan.
   <br> ICLR, 2023.
 - **Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**. ([GitHub](https://github.com/microsoft/BridgeTower))
