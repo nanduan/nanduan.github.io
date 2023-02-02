@@ -3,9 +3,9 @@
 
 ### <span style="color: #ff0000;">We are hiring NLP/ML researchers. Hit me up (nanduan AT microsoft.com) if you are seeking for a research position.</span>
 
-Dr. Nan DUAN is a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia. He is an adjunct Ph.D. supervisor at University of Science and Technology of China and an adjunct professor at Tianjin University. He is a Distinguished Member of China Computer Federation (CCF). His research interests include natural language processing, code intelligence, multimodal intelligence, and machine reasoning. He served as the program committee chair, evaluation chair, senior area chair, and area chair for top AI conferences and journals. He published 100+ research papers and holds 20+ patents. His research has been applied in many Microsoft products.
+Dr. Nan DUAN is a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia. He is an adjunct Ph.D. supervisor at University of Science and Technology of China and an adjunct professor at Tianjin University. He is a Distinguished Member of China Computer Federation (CCF). His research interests include natural language processing, code intelligence, multimodal intelligence, and machine reasoning. He served as the program chair, evaluation chair, senior area chair, and area chair at top NLP/AI conferences. He published 100+ research papers and holds 20+ patents. His research has been applied in many Microsoft products.
 
-段楠博士，微软亚洲研究院首席研究员，自然语言计算团队研究经理，中国科学技术大学兼职博导，天津大学兼职教授，中国计算机协会(CCF)杰出会员，主要从事自然语言处理、代码智能、多模态智能、机器推理等研究，长期担任国际顶级学术会议和期刊的程序委员会主席、评测主席、资深领域主席和领域主席，发表高水平学术论文100余篇，持有美国专利20余项，多项研究成果广泛用于微软各类人工智能产品。
+段楠博士，微软亚洲研究院首席研究员，自然语言计算团队研究经理，中国科学技术大学兼职博导，天津大学兼职教授，中国计算机协会(CCF)杰出会员，主要从事自然语言处理、代码智能、多模态智能、机器推理等研究，长期担任国际顶级学术会议的程序主席、评测主席、资深领域主席和领域主席，发表高水平学术论文100余篇，持有美国专利20余项，研究成果广泛用于微软各类人工智能产品。
 
 
 ### Highlight
