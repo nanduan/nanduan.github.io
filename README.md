@@ -5,7 +5,7 @@
 
 Dr. Nan DUAN is a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia. He is an adjunct Ph.D. supervisor at University of Science and Technology of China and an adjunct professor at Tianjin University. He is a Distinguished Member of China Computer Federation (CCF). His research interests include natural language processing, code intelligence, multimodal intelligence, and machine reasoning. He served as the program chair, evaluation chair, senior area chair, and area chair at top NLP/AI conferences. He published 100+ research papers and holds 20+ patents. His research has been applied in many Microsoft products.
 
-段楠博士，微软亚洲研究院首席研究员，自然语言计算团队研究经理，中国科学技术大学兼职博导，天津大学兼职教授，中国计算机协会(CCF)杰出会员，主要从事自然语言处理、代码智能、多模态智能、机器推理等研究，长期担任国际顶级学术会议的程序主席、评测主席、资深领域主席和领域主席，发表高水平学术论文100余篇，持有美国专利20余项，研究成果广泛用于微软各类人工智能产品。
+段楠博士，微软亚洲研究院首席研究员，自然语言计算团队研究经理，中国科学技术大学兼职博导，天津大学兼职教授，中国计算机协会(CCF)杰出会员，主要从事自然语言处理、代码智能、多模态智能、机器推理等研究，长期担任国际顶级学术会议的程序主席、评测主席、资深领域主席和领域主席，发表高水平学术论文100余篇，持有专利20余项，研究成果广泛用于微软各类人工智能产品。
 
 
 ### Highlight
@@ -599,21 +599,23 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Academic Service & Award
 
-- [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) won CVPR Best Demo Award, 2022.
-- [Adjunct Ph.D. Supervisor at University of Science and Technology of China (中国科学技术大学)](https://gradschool.ustc.edu.cn/static/upload/article/file/1651733383907/c1a04198fa734644aba256203aa2a53d.pdf), from 2022.
-- Adjunct Professor at Tianjin University (天津大学), 2020-2022.
-- Senior Action Editor of ACL Rolling Review (ARR), from 2022.
+- [Adjunct Ph.D. Supervisor at University of Science and Technology of China (中国科学技术大学)](https://gradschool.ustc.edu.cn/static/upload/article/file/1651733383907/c1a04198fa734644aba256203aa2a53d.pdf), 2022-present.
+- Adjunct Professor at Tianjin University (天津大学), 2020-present.
+- Program Chair of NLPCC 2023.
+- Senior Action Editor of ACL Rolling Review (ARR), 2022-present.
 - Senior Area Chair/Area Chair of ACL/EMNLP/NAACL/SIGKDD/IJCAI.
 - Evaluation Chair of NLPCC 2018/NLPCC 2019.
 - PC Member of TACL/ACL/EMNLP/NAACL/COLING/NeurIPS/ICLR/CVPR/AAAI/KDD/IJCAI/etc.
-- [CCF-NLPCC Distinguished Young Scientist Award](https://www.ccf.org.cn/Chapters/TC/News/2019-10-31/671168.shtml), 2019.
-- [Distinguished Member of CCF](https://www.ccf.org.cn/Membership/Individual_member/Updates/2021-09-28/744718.shtml), 2021.
-- [Senior Member of CCF](https://www.ccf.org.cn/Membership/Individual_member/Updates/2021-09-28/744718.shtml), 2021.
-- CCF Distinguished Speaker, [2021](https://www.ccf.org.cn/Media_list/hy/2022-01-17/753577.shtml)/[2020](https://www.ccf.org.cn/Membership/Individual_member/Updates/2021-01-19/721988.shtml)/[2017](https://www.ccf.org.cn/Activities/Training/CCF_AT_U/Guest_Speakers/2017nian/2018-02-02/622888.shtml).
 - [Member of CIPS Technical Committee of NLG](http://nlg.cipsc.org.cn/organization.html), 2021-present.
 - [Member of CCF Committee on Academic Affairs](https://www.ccf.org.cn/About_CCF/Governance/Working_Committees/Academic_Affairs/), 2020-present.
 - [Member of CCF Technical Committee of NLP](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCI/), 2018-present.
 - Secretary of CCF Committee on Terminology, 2016-2018.
+
+- [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) won CVPR Best Demo Award, 2022.
+- [CCF-NLPCC Distinguished Young Scientist Award](https://www.ccf.org.cn/Chapters/TC/News/2019-10-31/671168.shtml), 2019.
+- [Distinguished Member of CCF](https://www.ccf.org.cn/Membership/Individual_member/Updates/2021-09-28/744718.shtml), 2021.
+- [Senior Member of CCF](https://www.ccf.org.cn/Membership/Individual_member/Updates/2021-09-28/744718.shtml), 2021.
+- CCF Distinguished Speaker, [2021](https://www.ccf.org.cn/Media_list/hy/2022-01-17/753577.shtml)/[2020](https://www.ccf.org.cn/Membership/Individual_member/Updates/2021-01-19/721988.shtml)/[2017](https://www.ccf.org.cn/Activities/Training/CCF_AT_U/Guest_Speakers/2017nian/2018-02-02/622888.shtml).
 
 ### Lecture (2017-present)
 
