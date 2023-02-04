@@ -12,7 +12,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 - **Natural Language Processing**
     - multilingual pre-training: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI, 2022).
-    - text retrieval: [AR2](https://arxiv.org/abs/2110.03611) (ICLR, 2022), [LaPraDoR](https://arxiv.org/abs/2203.06169) (ACL, 2022), [MVR](https://arxiv.org/abs/2203.08372) (ACL, 2022), [SimANS](https://arxiv.org/abs/2210.11773) (EMNLP, 2022), [Curriculum Sampling](https://arxiv.org/abs/2212.09114) (Preprint, 2022), [LEAD](https://arxiv.org/abs/2212.05225) (Preprint, 2022), [MASTER](https://arxiv.org/abs/2212.07841) (Preprint, 2022), [PROD](https://arxiv.org/abs/2209.13335) (WWW, 2023).
+    - text retrieval: [AR2](https://arxiv.org/abs/2110.03611) (ICLR, 2022), [LaPraDoR](https://arxiv.org/abs/2203.06169) (ACL, 2022), [MVR](https://arxiv.org/abs/2203.08372) (ACL, 2022), [SimANS](https://arxiv.org/abs/2210.11773) (EMNLP, 2022), [PROD](https://arxiv.org/abs/2209.13335) (WWW, 2023).
     - text generation: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP, 2020), [BANG](https://arxiv.org/abs/2012.15525) (ICML, 2021), [JGR](https://arxiv.org/abs/2206.13974) (Preprint, 2022), [GENIUS](https://arxiv.org/abs/2211.10330) (Preprint, 2022), [GENIE](https://arxiv.org/abs/2212.11685) (Preprint, 2022).
     - benchmark: [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA)/[NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) (NLPCC, 2016-2019), [MSParS](https://github.com/msra-nlc/MSParS) (NLPCC, 2019), [XGLUE](https://microsoft.github.io/XGLUE/) (EMNLP, 2020), [GLGE](https://arxiv.org/abs/2011.11928) (ACL, 2021).
     
