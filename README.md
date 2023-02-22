@@ -80,6 +80,9 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Preprint
 
+- **Learning 3D Photography Videos via Self-supervised Diffusion on Single Images**.
+  <br> Xiaodong Wang, Chenfei Wu, Shengming Yin, Minheng Ni, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Fan Yang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan.
+  <br> arXiv, 2023.
 - **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**.
   <br> Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.
   <br> arXiv, 2023.
