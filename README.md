@@ -101,9 +101,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **LEAD: Liberal Feature-based Distillation for Dense Retrieval**.
   <br> Hao Sun, Xiao Liu, Yeyun Gong, Anlei Dong, Jian Jiao, Jingwen Lu, Yan Zhang, Daxin Jiang, Linjun Yang, Rangan Majumder, Nan Duan.
   <br> arXiv, 2022.
-- **ReCo: Region-Controlled Text-to-Image Generation**.
-  <br> Zhengyuan Yang, Jianfeng Wang, Zhe Gan, Linjie Li, Kevin Lin, Chenfei Wu, Nan Duan, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.
-  <br> arXiv, 2022.
 - **GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**. ([GitHub](https://github.com/microsoft/SCGLab))
   <br> Biyang Guo, Yeyun Gong, Yelong Shen, Songqiao Han, Hailiang Huang, Nan Duan, Weizhu Chen. 
   <br> arXiv, 2022.
@@ -149,6 +146,9 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Publication
 
+- **ReCo: Region-Controlled Text-to-Image Generation**.
+  <br> Zhengyuan Yang, Jianfeng Wang, Zhe Gan, Linjie Li, Kevin Lin, Chenfei Wu, Nan Duan, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.
+  <br> CVPR, 2023.
 - **PROD: Progressive Distillation for Dense Retrieval**.
   <br> Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder, Nan Duan.
   <br> WWW, 2023.
