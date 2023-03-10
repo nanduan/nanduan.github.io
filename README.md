@@ -37,7 +37,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - reasoning-enhanced training: [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS, 2022).
     
 - **AI for Science**
-    - single cell: [scFormer](https://www.biorxiv.org/content/10.1101/2022.11.20.517285v1.full) (Preprint 2022). 
+    - single cell: [scFormer](https://www.biorxiv.org/content/10.1101/2022.11.20.517285v1.full) (Preprint 2022).
 
 ### Talk
 
@@ -80,6 +80,9 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Preprint
 
+- **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**. ([GitHub](https://github.com/microsoft/visual-chatgpt))
+  <br> Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.
+  <br> arXiv, 2023.
 - **Learning 3D Photography Videos via Self-supervised Diffusion on Single Images**.
   <br> Xiaodong Wang, Chenfei Wu, Shengming Yin, Minheng Ni, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Fan Yang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan.
   <br> arXiv, 2023.
