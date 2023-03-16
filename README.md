@@ -32,8 +32,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - (neural-)symbolic reasoning: [Complex Reasoning in LSAT](https://arxiv.org/abs/2108.00648) (TASLP, 2022) [Analytical Reasoning](https://arxiv.org/abs/2104.06598) (NAACL, 2022), [Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL, 2022).
     - retrieval-augmented reasoning: [Fact Checking](https://arxiv.org/abs/1909.03745) (ACL, 2020), [Commonsense QA](https://arxiv.org/abs/1909.05311) (AAAI, 2020), [Text+Table QA](https://arxiv.org/abs/2201.05880) (IJCAI, 2022).
     - neural moduler reasoning: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint, 2022).
-    - prompt-based reasoning: [ProQA](https://arxiv.org/abs/2205.04040) (NAACL, 2022), [SchemaPro](https://arxiv.org/abs/2208.03229) (Preprint, 2022).
-    
+   
 - **AI for Task Automation**
     - visual task completion: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint 2023).
 
