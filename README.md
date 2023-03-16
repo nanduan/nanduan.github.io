@@ -34,9 +34,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - neural moduler reasoning: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint, 2022).
     - prompt-based reasoning: [ProQA](https://arxiv.org/abs/2205.04040) (NAACL, 2022), [SchemaPro](https://arxiv.org/abs/2208.03229) (Preprint, 2022).
     
-- **AI for Science**
-    - single cell: [scFormer](https://www.biorxiv.org/content/10.1101/2022.11.20.517285v1.full) (Preprint 2022).
-
 - **AI for Task Automation**
     - visual task completion: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint 2023).
 
