@@ -11,7 +11,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 ### Highlight
 
 - **Natural Language Processing**
-    - multilingual pre-training: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI, 2022).
+    - text pre-training: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI, 2022), [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS, 2022).
     <!-- - text retrieval: [AR2](https://arxiv.org/abs/2110.03611) (ICLR, 2022), [LaPraDoR](https://arxiv.org/abs/2203.06169) (ACL, 2022), [MVR](https://arxiv.org/abs/2203.08372) (ACL, 2022), [SimANS](https://arxiv.org/abs/2210.11773) (EMNLP, 2022), [PROD](https://arxiv.org/abs/2209.13335) (WWW, 2023). -->
     - text generation: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP, 2020), [BANG](https://arxiv.org/abs/2012.15525) (ICML, 2021), [GENIE](https://arxiv.org/abs/2212.11685) (Preprint, 2022).
     - benchmark: [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA)/[NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) (NLPCC, 2016-2019), [MSParS](https://github.com/msra-nlc/MSParS) (NLPCC, 2019), [XGLUE](https://microsoft.github.io/XGLUE/) (EMNLP, 2020), [GLGE](https://arxiv.org/abs/2011.11928) (ACL, 2021).
@@ -32,8 +32,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - (neural-)symbolic reasoning: [Complex Reasoning in LSAT](https://arxiv.org/abs/2108.00648) (TASLP, 2022) [Analytical Reasoning](https://arxiv.org/abs/2104.06598) (NAACL, 2022), [Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL, 2022).
     - retrieval-augmented reasoning: [Fact Checking](https://arxiv.org/abs/1909.03745) (ACL, 2020), [Commonsense QA](https://arxiv.org/abs/1909.05311) (AAAI, 2020), [Text+Table QA](https://arxiv.org/abs/2201.05880) (IJCAI, 2022).
     - neural moduler reasoning: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint, 2022).
-    - prompt-based reasoning: [ProQA](https://arxiv.org/abs/2205.04040) (NAACL, 2022), [SchemaPro](https://arxiv.org/abs/2208.03229) (Preprint, 2022). 
-    - reasoning-enhanced training: [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS, 2022).
+    - prompt-based reasoning: [ProQA](https://arxiv.org/abs/2205.04040) (NAACL, 2022), [SchemaPro](https://arxiv.org/abs/2208.03229) (Preprint, 2022).
     
 - **AI for Science**
     - single cell: [scFormer](https://www.biorxiv.org/content/10.1101/2022.11.20.517285v1.full) (Preprint 2022).
