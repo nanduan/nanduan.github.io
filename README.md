@@ -37,7 +37,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **AI for Science**
     - single cell: [scFormer](https://www.biorxiv.org/content/10.1101/2022.11.20.517285v1.full) (Preprint 2022).
 
-- **AI Automation**
+- **AI for Task Automation**
     - visual task completion: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint 2023).
 
 ### Talk
