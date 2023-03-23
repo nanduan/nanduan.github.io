@@ -648,6 +648,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Patent
 
+- Code Execution with Pre-trained Language Models, 2023.
 - Pretraining for Automating Code Review Activities, 2022.
 - SimANS: Simple Ambiguous Negative Sampling for Dense Text Retrieval, 2022.
 - Distilling Knowledge from Metric to Ranker and Retriever, 2022.
