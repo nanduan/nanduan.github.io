@@ -76,7 +76,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Preprint
 
-- **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**.
+- **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
   <br> Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan.
   <br> arXiv, 2023.
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**. ([GitHub](https://github.com/microsoft/visual-chatgpt))
