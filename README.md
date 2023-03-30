@@ -33,6 +33,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
     - neural moduler reasoning: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint, 2022).
    
 - **AI for Task Automation**
+    - general framework: [TaskMatrix.AI](https://arxiv.org/abs/2303.16434) (Preprint 2023)
     - visual task completion: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint 2023).
 
 ### Talk
@@ -76,6 +77,9 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Preprint
 
+- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**.
+  <br> Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan.
+  <br> arXiv, 2023.
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
   <br> Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan.
   <br> arXiv, 2023.
