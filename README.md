@@ -38,7 +38,6 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Talk
 
-- Decoupling Reasoning from Foundation Models, Reality or Hallucination?. CCF-ADL, 2023.
 - [Code Intelligence: Models, Applications and Future](http://aisummit2022.kr/#none). Korea AI Summit, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Code%20Intelligence%20Models%2C%20Applications%20and%20Future.pdf))
 - [多维度编程语言预训练及实际应用](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018211005baa0126&globalId=m9695832237787095041651208254534). CNCC, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/%E5%A4%9A%E7%BB%B4%E5%BA%A6%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E9%A2%84%E8%AE%AD%E7%BB%83%E5%8F%8A%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8.pdf))
 - [AI赋能视觉内容创作](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018209a92f9700d9&globalId=m9695832237787095041651208254534). CNCC, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/AI%E8%B5%8B%E8%83%BD%E8%A7%86%E8%A7%89%E5%86%85%E5%AE%B9%E5%88%9B%E4%BD%9C.pdf))
