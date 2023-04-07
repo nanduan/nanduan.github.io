@@ -76,7 +76,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 
 ### Preprint
 
-- **Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data**.
+- **Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data**. ([GitHub](https://github.com/project-baize/baize-chatbot))
   <br> Canwen Xu, Daya Guo, Nan Duan, Julian McAuley.
   <br> arXiv, 2023.
 - **AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators**.
