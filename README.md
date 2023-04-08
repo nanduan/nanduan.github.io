@@ -655,6 +655,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - Jiangnan University ([news](https://www.ccf.org.cn/Activities/Training/CCF_AT_U/Updates/2021-12-14/751360.shtml))
 - Fudan University
 - North China Electric Power University
+- Xiamen University ([news](https://iai.xmu.edu.cn/info/1109/2744.htm))
 
 ### Patent
 
