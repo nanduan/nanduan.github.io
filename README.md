@@ -82,7 +82,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - **AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators**.
   <br> Xingwei He, Zhenghao Lin, Yeyun Gong, A-Long Jin, Hang Zhang, Chen Lin, Jian Jiao, Siu Ming Yiu, Nan Duan, Weizhu Chen.
   <br> arXiv, 2023.
-- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**. ([GitHub](https://github.com/microsoft/visual-chatgpt))
+- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**. ([GitHub](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI))
   <br> Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan.
   <br> arXiv, 2023.
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
