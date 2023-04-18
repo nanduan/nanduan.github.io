@@ -623,6 +623,7 @@ Dr. Nan DUAN is a senior principal researcher and research manager of the Natura
 - Adjunct Professor at Tianjin University (天津大学), 2020-present.
 
 - Program Committee Chair of NLPCC, 2023.
+- Area Chair of NeurIPS, 2023.
 - Evaluation Chair of NLPCC, 2019/2018.
 - Senior Action Editor of ACL Rolling Review (ARR), 2022-present.
 - Senior Area Chair/Area Chair of ACL/EMNLP/NAACL.
