@@ -77,6 +77,9 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Preprint
 
+- **Learning to Program with Natural Language**. ([GitHub](https://github.com/microsoft/NaturalLanguageProgram))
+  <br> Yiduo Guo, Yaobo Liang, Chenfei Wu, Wenshan Wu, Dongyan Zhao, Nan Duan.
+  <br> arXiv, 2023.
 - **AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models**. ([GitHub](https://github.com/microsoft/AGIEval))
   <br> Wanjun Zhong, Ruixiang Cui, Yiduo Guo, Yaobo Liang, Shuai Lu, Yanlin Wang, Amin Saied, Weizhu Chen, Nan Duan.
   <br> arXiv, 2023.
