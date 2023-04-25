@@ -20,7 +20,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **Code Intelligence**
     - code pre-training: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR, 2021), [UniXcoder](https://arxiv.org/abs/2203.03850) (ACL, 2022).
     <!-- - code retrieval: [CodeRetriever](https://arxiv.org/abs/2201.10866) (EMNLP, 2022), [SCodeR](https://arxiv.org/abs/2210.09597) (EMNLP, 2022). -->
-    - code generation: [XGPT-C](https://arxiv.org/abs/2109.08780) (EMNLP, 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR, 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL, 2022), [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE, 2022).
+    - code generation: [XGPT-C](https://arxiv.org/abs/2109.08780) (EMNLP, 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR, 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL, 2022), [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE, 2022), LongCoder (ICML, 2023).
     - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL, 2021), [CodeExp](https://arxiv.org/abs/2211.15395) (EMNLP, 2022).
     
 - **Multimodal Intelligence** 
@@ -158,6 +158,15 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Publication
 
+- **LongCoder: A Long-Range Pre-trained Language Model for Code Completion**.
+  <br> Daya Guo, Canwen Xu, Nan Duan, Jian Yin, Julian McAuley.
+  <br> ICML, 2023.
+- **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**.
+  <br> Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.
+  <br> ICML, 2023.
+- **Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise**.
+  <br> Zhenghao Lin, Yeyun Gong, Yelong Shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen.
+  <br> ICML, 2023.
 - **Learning 3D Photography Videos via Self-supervised Diffusion on Single Images**.
   <br> Xiaodong Wang, Chenfei Wu, Shengming Yin, Minheng Ni, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Fan Yang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan.
   <br> IJCAI, 2023.
