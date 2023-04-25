@@ -98,9 +98,6 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**. ([GitHub](https://github.com/microsoft/visual-chatgpt))
   <br> Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.
   <br> arXiv, 2023.
-- **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**.
-  <br> Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.
-  <br> arXiv, 2023.
 - **GENIE: Large Scale Pre-training for Text Generation with Diffusion Model**.
   <br> Zhenghao Lin, Yeyun Gong, Yelong Shen, Tong Wu, Zhihao Fan, Chen Lin, Weizhu Chen, Nan Duan.
   <br> arXiv, 2022.
