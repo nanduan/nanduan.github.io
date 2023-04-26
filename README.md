@@ -34,8 +34,9 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
     - neural moduler reasoning: [ReasonFormer](https://arxiv.org/abs/2210.11265) (Preprint, 2022).
    
 - **AI for Internet of Everything (IoE)**
-    - general framework: [TaskMatrix.AI](https://arxiv.org/abs/2303.16434) (Preprint 2023)
+    - general framework: [TaskMatrix.AI](https://arxiv.org/abs/2303.16434) (Preprint 2023).
     - visual task completion: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint 2023).
+    - task planning: [Learning-to-Program](https://arxiv.org/abs/2304.10464) (Preprint 2023)
 
 ### Talk
 
