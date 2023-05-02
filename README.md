@@ -93,9 +93,6 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**. ([GitHub](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI))
   <br> Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan.
   <br> arXiv, 2023.
-- **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
-  <br> Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan.
-  <br> arXiv, 2023.
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**. ([GitHub](https://github.com/microsoft/visual-chatgpt))
   <br> Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.
   <br> arXiv, 2023.
@@ -117,17 +114,8 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **scFormer: A Universal Representation Learning Approach for Single-Cell Data Using Transformers**. 
   <br> Haotian Cui, Chloe Wang, Hassaan Maan, Nan Duan, Bo Wang. 
   <br> bioRxiv, 2022.
-- **Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**.
-  <br> Wanjun Zhong, Tingting Ma, Jiahai Wang, Jian Yin, Tiejun Zhao, Chin-Yew Lin, Nan Duan. 
-  <br> arXiv, 2022.
 - **HORIZON: A High-Resolution Panorama Synthesis Framework**.
   <br> Kun Yan, Lei Ji, Chenfei Wu, Jian Liang, Ming Zhou, Nan Duan, Shuai Ma.
-  <br> arXiv, 2022.
-- **Joint Generator-Ranker Learning for Natural Language Generation**.
-  <br> Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. 
-  <br> arXiv, 2022.
-- **CONE: An Efficient COarse-to-fiNE Alignment Framework for Long Video Temporal Grounding**.
-  <br> Zhijian Hou, Wanjun Zhong, Lei Ji, Difei Gao, Kun Yan, Wing-Kwong Chan, Chong-Wah Ngo, Zheng Shou, Nan Duan.
   <br> arXiv, 2022.
 - **Improving Task Generalization via Unified Schema Prompt**.
   <br> Wanjun Zhong, Yifan Gao, Ning Ding, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan.
@@ -153,8 +141,21 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Publication
 
+- **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
+  <br> Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan.
+  <br> ACL, 2023.
+- **CONE: An Efficient COarse-to-fiNE Alignment Framework for Long Video Temporal Grounding**.
+  <br> Zhijian Hou, Wanjun Zhong, Lei Ji, Difei Gao, Kun Yan, Wing-Kwong Chan, Chong-Wah Ngo, Zheng Shou, Nan Duan.
+  <br> ACL, 2023.
+- **Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**.
+  <br> Wanjun Zhong, Tingting Ma, Jiahai Wang, Jian Yin, Tiejun Zhao, Chin-Yew Lin, Nan Duan. 
+  <br> Findings of ACL, 2023.
+- **Joint Generator-Ranker Learning for Natural Language Generation**.
+  <br> Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. 
+  <br> Findings of ACL, 2023.
 - **LongCoder: A Long-Range Pre-trained Language Model for Code Completion**.
-  <br> Daya Guo, Canwen Xu, Nan Duan, Jian Yin, Julian McAuley.
+  <br> Daya Guo, Canwen Xu, Nan Duan, Jian Yin, Julian McAuley.- **CONE: An Efficient COarse-to-fiNE Alignment Framework for Long Video Temporal Grounding**.
+  <br> Zhijian Hou, Wanjun Zhong, Lei Ji, Difei Gao, Kun Yan, Wing-Kwong Chan, Chong-Wah Ngo, Zheng Shou, Nan Duan.
   <br> ICML, 2023.
 - **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**.
   <br> Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.
