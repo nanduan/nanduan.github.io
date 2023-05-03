@@ -144,18 +144,26 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
   <br> Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan.
   <br> ACL, 2023.
+- **Analysing and Reducing the Performance Gap in Cross-Lingual Fine-tuning with Learning Slow and Fast**.
+  <br> Yiduo Guo, Yaobo Liang, Dongyan Zhao, Bing Liu, Nan Duan.
+  <br> ACL, 2023.
+- **ManagerTower: Aggregating the Insights of Uni-Modal Experts for Vision-Language Representation Learning**.
+  <br> Xiao Xu, Bei Li, Chenfei Wu, Shao-Yen Tseng, Anahita Bhiwandiwalla, Shachar Rosenman, Vasudev Lal, Wanxiang Che, Nan Duan.
+  <br> ACL, 2023.
 - **CONE: An Efficient COarse-to-fiNE Alignment Framework for Long Video Temporal Grounding**.
   <br> Zhijian Hou, Wanjun Zhong, Lei Ji, Difei Gao, Kun Yan, Wing-Kwong Chan, Chong-Wah Ngo, Zheng Shou, Nan Duan.
   <br> ACL, 2023.
 - **Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**.
   <br> Wanjun Zhong, Tingting Ma, Jiahai Wang, Jian Yin, Tiejun Zhao, Chin-Yew Lin, Nan Duan. 
   <br> Findings of ACL, 2023.
+- **Code Execution with Pre-trained Language Models**.
+  <br> Chenxiao Liu, Shuai Lu, Weizhu Chen, Daxin Jiang, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan, Nan Duan. 
+  <br> Findings of ACL, 2023.
 - **Joint Generator-Ranker Learning for Natural Language Generation**.
   <br> Weizhou Shen, Yeyun Gong, Yelong Shen, Song Wang, Xiaojun Quan, Nan Duan, Weizhu Chen. 
   <br> Findings of ACL, 2023.
 - **LongCoder: A Long-Range Pre-trained Language Model for Code Completion**.
-  <br> Daya Guo, Canwen Xu, Nan Duan, Jian Yin, Julian McAuley.- **CONE: An Efficient COarse-to-fiNE Alignment Framework for Long Video Temporal Grounding**.
-  <br> Zhijian Hou, Wanjun Zhong, Lei Ji, Difei Gao, Kun Yan, Wing-Kwong Chan, Chong-Wah Ngo, Zheng Shou, Nan Duan.
+  <br> Daya Guo, Canwen Xu, Nan Duan, Jian Yin, Julian McAuley.
   <br> ICML, 2023.
 - **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**.
   <br> Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.
