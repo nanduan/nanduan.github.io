@@ -78,6 +78,15 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Preprint
 
+- **AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**.
+  <br> Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.
+  <br> arXiv, 2023.
+- **PROM: A Phrase-level Copying Mechanism with Pre-training for Abstractive Summarization**.
+  <br> Xinbei Ma, Yeyun Gong, Pengcheng He, Hai Zhao, Nan Duan.
+  <br> arXiv, 2023.
+- **Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models**.
+  <br> Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
+  <br> arXiv, 2023.
 - **Learning to Program with Natural Language**. ([GitHub](https://github.com/microsoft/NaturalLanguageProgram))
   <br> Yiduo Guo, Yaobo Liang, Chenfei Wu, Wenshan Wu, Dongyan Zhao, Nan Duan.
   <br> arXiv, 2023.
