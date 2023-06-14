@@ -649,11 +649,9 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - Adjunct Professor at Tianjin University (天津大学), 2020-present.
 
 - Program Committee Chair of NLPCC, 2023.
-- Area Chair of NeurIPS, 2023.
 - Evaluation Chair of NLPCC, 2019/2018.
 - Senior Action Editor of ACL Rolling Review (ARR), 2022-present.
-- Senior Area Chair/Area Chair of ACL/EMNLP/NAACL.
-- Senior Program Committee Member of SIGKDD 2022.
+- Senior Area Chair/Area Chair of NeurIPS/ACL/EMNLP/NAACL/SIGKDD.
 - Standing Reviewer of TACL, 2020-present.
 - Program Committee Member of ACL/EMNLP/NAACL/COLING/NeurIPS/ICLR/CVPR/AAAI/SIGKDD/IJCAI/etc.
 
