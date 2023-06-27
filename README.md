@@ -1,10 +1,10 @@
 ## Nan DUAN (段楠) 
 [Microsoft Research](https://www.microsoft.com/en-us/research/people/nanduan/) \| [Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/)
 
-Dr. Nan DUAN is a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia. He is an adjunct Ph.D. supervisor at University of Science and Technology of China and an adjunct professor at Tianjin University. His research interests include natural language processing, multimodal foundation model, code intelligence, and machine reasoning. He served as the program chair and area chair at NLP/AI conferences. He published 100+ research papers with 10000+ Google Scholar citations and holds 20+ patents.
+Dr. Nan DUAN is a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia. He is an adjunct Ph.D. supervisor at University of Science and Technology of China and Xi’an Jiaotong University, and an adjunct professor at Tianjin University. His research interests include natural language processing, multimodal foundation model, code intelligence, and machine reasoning. He served as the program chair and area chair at NLP/AI conferences. He published 100+ research papers with 10000+ Google Scholar citations and holds 20+ patents.
 He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-NLPCC Distinguished Young Scientist (2019), DeepTech Intelligent Computing Innovators China (2022).
 
-段楠博士，微软亚洲研究院首席研究员，自然语言计算团队研究经理，中国科学技术大学兼职博导，天津大学兼职教授，主要从事自然语言处理、多模态基础模型、代码智能、机器推理等研究，多次担任NLP/AI学术会议程序主席和领域主席，发表学术论文100余篇，Google Scholar引用10000余次，持有专利20余项。
+段楠博士，微软亚洲研究院首席研究员，自然语言计算团队研究经理，中国科学技术大学、西安交通大学兼职博导，天津大学兼职教授，主要从事自然语言处理、多模态基础模型、代码智能、机器推理等研究，多次担任NLP/AI学术会议程序主席和领域主席，发表学术论文100余篇，Google Scholar引用10000余次，持有专利20余项。
 他被评为中国计算机协会(CCF)杰出会员、CCF-NLPCC青年科学家(2019年)、DeepTech中国智能计算科技创新人物(2022年)。
 
 ### <span style="color: #ff0000;">We are hiring NLP/ML researchers. Hit me up (nanduan AT microsoft.com) if you are seeking for a research position.</span>
