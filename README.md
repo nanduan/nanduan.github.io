@@ -646,6 +646,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Academic Service & Award
 
+- Adjunct Ph.D. Supervisor at Xi’an Jiaotong University (西安交通大学), 2023-present.
 - [Adjunct Ph.D. Supervisor at University of Science and Technology of China (中国科学技术大学)](https://gradschool.ustc.edu.cn/static/upload/article/file/1651733383907/c1a04198fa734644aba256203aa2a53d.pdf), 2022-present.
 - Adjunct Professor at Tianjin University (天津大学), 2020-present.
 
