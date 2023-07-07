@@ -20,7 +20,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **Code Intelligence**
     - code pre-training: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR, 2021), [UniXcoder](https://arxiv.org/abs/2203.03850) (ACL, 2022), [CodeExecutor](https://arxiv.org/abs/2305.05383) (ACL, 2023).
     <!-- - code retrieval: [CodeRetriever](https://arxiv.org/abs/2201.10866) (EMNLP, 2022), [SCodeR](https://arxiv.org/abs/2210.09597) (EMNLP, 2022). -->
-    - code generation: [XGPT-C](https://arxiv.org/abs/2109.08780) (EMNLP, 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR, 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL, 2022), [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE, 2022), [LongCoder](https://openreview.net/forum?id=6XwCseSnww) (ICML, 2023).
+    - code generation: [XGPT-C](https://arxiv.org/abs/2109.08780) (EMNLP, 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR, 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL, 2022), [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE, 2022), [LongCoder](https://arxiv.org/abs/2306.14893) (ICML, 2023).
     - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL, 2021), [CodeExp](https://arxiv.org/abs/2211.15395) (EMNLP, 2022).
     
 - **Multimodal Intelligence** 
