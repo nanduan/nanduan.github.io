@@ -26,7 +26,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **Multimodal Intelligence** 
     - multimodal pre-training (image): [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR, 2021), [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL, 2022), [BridgeTower](https://arxiv.org/abs/2206.08657) (AAAI, 2023), [ManagerTower](https://arxiv.org/abs/2306.00103) (ACL, 2023).
     - multimodal pre-training (video): [UniVL](https://arxiv.org/abs/2002.06353) (Preprint, 2020), [CLIP4Clip](https://arxiv.org/abs/2104.08860) (Neurocomputing, 2022).
-    - visual generation: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), [NUWA-LIP](https://arxiv.org/abs/2202.05009) (CVPR, 2023), [NUWA-3D](https://arxiv.org/abs/2302.10781) (IJCAI, 2023), [NUWA-XL](https://arxiv.org/abs/2303.12346) (ACL, 2023).
+    - visual generation: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), [NUWA-LIP](https://arxiv.org/abs/2202.05009) (CVPR, 2023), [NUWA-3D](https://arxiv.org/abs/2302.10781) (IJCAI, 2023), [NUWA-XL](https://arxiv.org/abs/2303.12346) (ACL, 2023), [DragNUWA](https://arxiv.org/abs/2308.08089) (Preprint, 2023).
 
 - **Machine Reasoning**
     - (neural-)symbolic reasoning: [Complex Reasoning in LSAT](https://arxiv.org/abs/2108.00648) (TASLP, 2022) [Analytical Reasoning](https://arxiv.org/abs/2104.06598) (NAACL, 2022), [Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL, 2022).
