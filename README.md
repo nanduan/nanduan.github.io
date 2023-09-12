@@ -76,9 +76,10 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **《统计机器翻译中的一致性解码方法研究》**. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Consensus%20Decoding%20in%20SMT.2011.pdf))
   <br> 段楠. 
   <br> 2011.
-
+ 
 ### Preprint
 
+<!-- 
 - **AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**.
   <br> Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.
   <br> arXiv, 2023.
@@ -148,7 +149,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **Question Answering and Question Generation as Dual Tasks**.
   <br> Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Ming Zhou. 
   <br> arXiv, 2017.
-
+-->
 ### Publication
 
 - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
