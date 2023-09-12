@@ -70,12 +70,9 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **《人工智能导论 - 第11章：自然语言处理》**.
   <br> 周明，段楠，刘树杰，吴俣.
   <br> 中国科学技术出版社，2018.
-
-### Ph.D. Dissertation
-
 - **《统计机器翻译中的一致性解码方法研究》**. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Consensus%20Decoding%20in%20SMT.2011.pdf))
   <br> 段楠. 
-  <br> 2011.
+  <br> Ph.D. Dissertation, 2011.
  
 ### Preprint
 - [On arXiv](https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=nan+duan&terms-0-field=author&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
