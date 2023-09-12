@@ -694,7 +694,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - SimANS: Simple Ambiguous Negative Sampling for Dense Text Retrieval, 2022.
 - Distilling Knowledge from Metric to Ranker and Retriever, 2022.
 - Retrieval Augmented Code Completion, 2022.
-- Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval, 2022.
+- [Sentence representation generation for cross-lingual retrieval](https://patents.google.com/patent/WO2023167722A1/en?inventor=nan+duan&assignee=microsoft&num=50&oq=nan+duan+microsoft&sort=new), 2022.
 - Code Bug Detection, 2021.
 - [Performing multiple tasks with continual adaptation](https://patents.google.com/patent/WO2022221045A1/en), 2021.
 - [Resource-Efficient Attention in a Neural Network](https://patents.google.com/patent/US20220318601A1/en), 2021.
