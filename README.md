@@ -78,7 +78,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
   <br> 2011.
  
 ### Preprint
-
+- [On arXiv](https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=nan+duan&terms-0-field=author&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
 <!-- 
 - **AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**.
   <br> Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.
