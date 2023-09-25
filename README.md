@@ -78,9 +78,6 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - [On arXiv](https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=nan+duan&terms-0-field=author&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
 
 <!-- 
-- **AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**.
-  <br> Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.
-  <br> arXiv, 2023.
 - **PROM: A Phrase-level Copying Mechanism with Pre-training for Abstractive Summarization**.
   <br> Xinbei Ma, Yeyun Gong, Pengcheng He, Hai Zhao, Nan Duan.
   <br> arXiv, 2023.
@@ -150,7 +147,10 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 -->
 ### Publication
 
-- **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
+- **AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**.
+  <br> Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.
+  <br> NeurIPS, 2023.
+  - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
   <br> Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan.
   <br> ACL, 2023.
 - **Analysing and Reducing the Performance Gap in Cross-Lingual Fine-tuning with Learning Slow and Fast**.
