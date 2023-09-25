@@ -150,7 +150,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**.
   <br> Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.
   <br> NeurIPS, 2023.
-  - **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
+- **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. ([Homepage](https://msra-nuwa.azurewebsites.net/))
   <br> Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan.
   <br> ACL, 2023.
 - **Analysing and Reducing the Performance Gap in Cross-Lingual Fine-tuning with Learning Slow and Fast**.
