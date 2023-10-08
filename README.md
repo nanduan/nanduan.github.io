@@ -90,15 +90,11 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models**. ([GitHub](https://github.com/microsoft/AGIEval))
   <br> Wanjun Zhong, Ruixiang Cui, Yiduo Guo, Yaobo Liang, Shuai Lu, Yanlin Wang, Amin Saied, Weizhu Chen, Nan Duan.
   <br> arXiv, 2023.
-- **Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data**. ([GitHub](https://github.com/project-baize/baize-chatbot))
-  <br> Canwen Xu, Daya Guo, Nan Duan, Julian McAuley.
-  <br> arXiv, 2023.
+
 - **AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators**.
   <br> Xingwei He, Zhenghao Lin, Yeyun Gong, A-Long Jin, Hang Zhang, Chen Lin, Jian Jiao, Siu Ming Yiu, Nan Duan, Weizhu Chen.
   <br> arXiv, 2023.
-- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**. ([GitHub](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI))
-  <br> Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan.
-  <br> arXiv, 2023.
+
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**. ([GitHub](https://github.com/microsoft/visual-chatgpt))
   <br> Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.
   <br> arXiv, 2023.
@@ -147,6 +143,27 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 -->
 ### Publication
 
+- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**. ([GitHub](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI))
+  <br> Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan.
+  <br> Intelligent Computing, 2023.
+- **Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data**. ([GitHub](https://github.com/project-baize/baize-chatbot))
+  <br> Canwen Xu, Daya Guo, Nan Duan, Julian McAuley.
+  <br> EMNLP, 2023.
+- **Query Rewriting in Retrieval-Augmented Large Language Models**.
+  <br> Xinbei Ma, Yeyun Gong, Pengcheng He, hai zhao, Nan Duan.
+  <br> EMNLP, 2023.
+- **CAPSTONE: Curriculum Sampling for Dense Retrieval with Document Expansion**.
+  <br> Xingwei He, Yeyun Gong, A-Long Jin, Hang Zhang, Anlei Dong, Jian Jiao, Siu Ming Yiu, Nan Duan.
+  <br> EMNLP, 2023.
+- **Intervention-Based Alignment of Code Search with Execution Feedback**.
+  <br> Hojae Han, Minsoo Kim, seung-won hwang, Nan Duan, Shuai Lu.
+  <br> Findings of EMNLP, 2023.
+- **Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy**.
+  <br> Zhihong Shao, Yeyun Gong, yelong shen, Minlie Huang, Nan Duan, Weizhu Chen.
+  <br> Findings of EMNLP, 2023.
+- **Allies: Prompting Large Language Model with Beam Search**.
+  <br> Hao Sun, Xiao Liu, Yeyun Gong, Yan Zhang, Daxin Jiang, Linjun Yang, Nan Duan.
+  <br> Findings of EMNLP, 2023.
 - **AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**.
   <br> Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.
   <br> NeurIPS, 2023.
