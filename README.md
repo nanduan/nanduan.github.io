@@ -40,6 +40,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Talk
 
+- 跨模态生成式人工智能. CCF-ADL, 2023-11.
 - [Compositional AI - Advanced Abilities Emerge When All Necessary Basic Abilities Are Strong](http://ias.ust.hk/events/202307matei/). IAS Workshop on Mathematical Theory for Emergent Intelligence, 2023-07. 
 - [Code Intelligence: Models, Applications and Future](http://aisummit2022.kr/#none). Korea AI Summit, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Code%20Intelligence%20Models%2C%20Applications%20and%20Future.pdf))
 - [多维度编程语言预训练及实际应用](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018211005baa0126&globalId=m9695832237787095041651208254534). CNCC, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/%E5%A4%9A%E7%BB%B4%E5%BA%A6%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E9%A2%84%E8%AE%AD%E7%BB%83%E5%8F%8A%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8.pdf))
@@ -680,9 +681,9 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - [Member of CCF Technical Committee of NLP](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCI/), 2018-present.
 - Secretary of CCF Committee on Terminology, 2016-2018.
 
-- [The Intelligent Computing Innovators China](https://mp.weixin.qq.com/s/6nwgZqgTcXLEmixdIgshyg) (2022年中国智能计算科技创新人物), 2022.
+- [The Intelligent Computing Innovators China](https://mp.weixin.qq.com/s/6nwgZqgTcXLEmixdIgshyg) (中国智能计算科技创新人物), 2023.
 - [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) won CVPR Best Demo Award, 2022.
-- [CCF-NLPCC Distinguished Young Scientist Award](https://www.ccf.org.cn/Chapters/TC/News/2019-10-31/671168.shtml) (2019年CCF-NLPCC青年科学家奖), 2019.
+- [CCF-NLPCC Distinguished Young Scientist Award](https://www.ccf.org.cn/Chapters/TC/News/2019-10-31/671168.shtml) (CCF-NLPCC青年科学家奖), 2019.
 - CCF Distinguished Speaker (CCF杰出演讲者), [2021](https://www.ccf.org.cn/Media_list/hy/2022-01-17/753577.shtml)/[2020](https://www.ccf.org.cn/Membership/Individual_member/Updates/2021-01-19/721988.shtml)/[2017](https://www.ccf.org.cn/Activities/Training/CCF_AT_U/Guest_Speakers/2017nian/2018-02-02/622888.shtml).
 
 ### Lecture (2017-present)
