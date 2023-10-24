@@ -41,6 +41,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 ### Talk
 
 - 跨模态生成式人工智能. CCF-ADL, 2023-11.
+- [从生成式人工智能到组合式人工智能](https://games-cn.org/games2023/speaker.html). 三维AIGC与视觉大模型技术研讨会， 2023-11.
 - [Compositional AI - Advanced Abilities Emerge When All Necessary Basic Abilities Are Strong](http://ias.ust.hk/events/202307matei/). IAS Workshop on Mathematical Theory for Emergent Intelligence, 2023-07. 
 - [Code Intelligence: Models, Applications and Future](http://aisummit2022.kr/#none). Korea AI Summit, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Code%20Intelligence%20Models%2C%20Applications%20and%20Future.pdf))
 - [多维度编程语言预训练及实际应用](https://conf.ccf.org.cn/web/html16/dayMeetZhibo.html?dayMeetNewsId=8a9e362c81cc8548018211005baa0126&globalId=m9695832237787095041651208254534). CNCC, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/%E5%A4%9A%E7%BB%B4%E5%BA%A6%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E9%A2%84%E8%AE%AD%E7%BB%83%E5%8F%8A%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8.pdf))
@@ -144,6 +145,9 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 -->
 ### Publication
 
+- **LEAD: Liberal Feature-based Distillation for Dense Retrieval**.
+  <br> Hao Sun, Xiao Liu, Yeyun Gong, Anlei Dong, Jian Jiao, Jingwen Lu, Yan Zhang, Daxin Jiang, Linjun Yang, Rangan Majumder, Nan Duan.
+  <br> WSDM, 2024.
 - **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**. ([GitHub](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI))
   <br> Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan.
   <br> Intelligent Computing, 2023.
