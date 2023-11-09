@@ -40,7 +40,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Talk
 
-- 跨模态生成式人工智能. CCF-ADL, 2023-11.
+- [跨模态生成式人工智能](https://www.ccf.org.cn/Media_list/adl/2023-11-07/796919.shtml). CCF-ADL, 2023-11.
 - [从生成式人工智能到组合式人工智能](https://games-cn.org/games2023/speaker.html). 三维AIGC与视觉大模型技术研讨会, 2023-11.
 - [Compositional AI - Advanced Abilities Emerge When All Necessary Basic Abilities Are Strong](http://ias.ust.hk/events/202307matei/). IAS Workshop on Mathematical Theory for Emergent Intelligence, 2023-07. 
 - [Code Intelligence: Models, Applications and Future](http://aisummit2022.kr/#none). Korea AI Summit, 2022-12. ([slides](https://github.com/nanduan/nanduan.github.io/blob/main/Code%20Intelligence%20Models%2C%20Applications%20and%20Future.pdf))
