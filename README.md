@@ -685,6 +685,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - [Member of CCF Technical Committee of NLP](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCI/), 2018-present.
 - Secretary of CCF Committee on Terminology, 2016-2018.
 
+- TaskMatrix was selected as [Open100 (2022-2023)](https://www.benchcouncil.org/evaluation/opencs/annual.html).
 - World’s Top 2% Scientists by Stanford, [2023](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)/[2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0u4xhKMuKGIsi_prZLxOIOaMPzV-LNCmoIlDYua90eybIVIyE6Sl70vyc). 
 - [The Intelligent Computing Innovators China](https://mp.weixin.qq.com/s/6nwgZqgTcXLEmixdIgshyg) (中国智能计算科技创新人物), 2023.
 - [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) won CVPR Best Demo Award, 2022.
