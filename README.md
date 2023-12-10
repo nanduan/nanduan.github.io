@@ -145,6 +145,15 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 -->
 ### Publication
 
+- **Machine-Created Universal Language for Cross-lingual Transfer**.
+  <br> Yaobo Liang, Quanzhi Zhu, Junhe Zhao, Nan Duan.
+  <br> AAAI, 2024.
+- **ORES: Open-vocabulary Responsible Visual Synthesis**.
+  <br> Minheng Ni, Chenfei Wu, Xiaodong Wang, Shengming Yin, Lijuan Wang, Zicheng Liu, Nan Duan.
+  <br> AAAI, 2024.
+- **HORIZON: High-Resolution Semantically Controlled Panorama Synthesis**.
+  <br> Kun Yan, Lei Ji, Jian Liang, Chenfei Wu, Ming Zhou, Nan Duan, Shuai Ma.
+  <br> AAAI, 2024.
 - **LEAD: Liberal Feature-based Distillation for Dense Retrieval**.
   <br> Hao Sun, Xiao Liu, Yeyun Gong, Anlei Dong, Jian Jiao, Jingwen Lu, Yan Zhang, Daxin Jiang, Linjun Yang, Rangan Majumder, Nan Duan.
   <br> WSDM, 2024.
