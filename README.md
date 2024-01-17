@@ -145,13 +145,13 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 -->
 ### Publication
 
-- **LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models**
+- **LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models.**
   <br> Zecheng Tang, Chenfei Wu, Juntao Li, Nan Duan.
   <br> ICLR, 2024.
-- **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**
+- **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing.**
   <br> Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen.
   <br> ICLR, 2024.
-- **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**
+- **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving.**
   <br> Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen.
   <br> ICLR, 2024.
 - **Machine-Created Universal Language for Cross-lingual Transfer**.
