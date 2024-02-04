@@ -145,6 +145,9 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 -->
 ### Publication
 
+- **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI.**
+  <br> Haotian Cui, Chloe Wang, Hassaan Maan, Kuan Pang, Fengning Luo, Nan Duan, Bo Wang.
+  <br> Nature Method, 2024.
 - **LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models.**
   <br> Zecheng Tang, Chenfei Wu, Juntao Li, Nan Duan.
   <br> ICLR, 2024.
