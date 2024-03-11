@@ -690,7 +690,9 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 - [Adjunct Ph.D. Supervisor at Xi’an Jiaotong University (西安交通大学)](http://www.aiar.xjtu.edu.cn/info/1028/2782.htm), 2023-present.
 - [Adjunct Ph.D. Supervisor at University of Science and Technology of China (中国科学技术大学)](https://gradschool.ustc.edu.cn/static/upload/article/file/1651733383907/c1a04198fa734644aba256203aa2a53d.pdf), 2022-present.
+<!-- 
 - Adjunct Professor at Tianjin University (天津大学), 2020-present.
+-->
 
 - Program Committee Chair of NLPCC, 2023.
 - Evaluation Chair of NLPCC, 2019/2018.
@@ -718,13 +720,9 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 - Peking University ([news](https://www.icst.pku.edu.cn/xwgg/jzxx/1297302.htm))
 - Tsinghua University
-- Tianjin University ([news](http://cic.tju.edu.cn/info/1058/3136.htm)) ([news](https://www.ccf.org.cn/Chapters/Student_Chapters/TJU/hyhdzxdt/2017-11-06/617918.shtml)) 
 - Nankai University ([news](https://robot.nankai.edu.cn/info/1051/1356.htm))
 - University of Science and Technology of China ([news](https://eeis.ustc.edu.cn/2022/0106/c2701a542444/page.htm))
 - Chinese Academy of Sciences
-- Beijing University of Posts and Telecommunications
-- Beijing University of Aeronautics and Astronautics
-- Nanjing University of Aeronautics and Astronautics ([news](http://newsweb.nuaa.edu.cn/2018/1121/c738a143318/pagem.htm))
 - Xi’an Jiaotong University ([news](https://www.sohu.com/a/363047712_120381555))
 - Southwest Jiaotong University
 - Northeastern University
@@ -732,6 +730,12 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - Fudan University
 - North China Electric Power University
 - Xiamen University ([news](https://iai.xmu.edu.cn/info/1109/2744.htm))
+<!-- 
+- Tianjin University ([news](http://cic.tju.edu.cn/info/1058/3136.htm)) ([news](https://www.ccf.org.cn/Chapters/Student_Chapters/TJU/hyhdzxdt/2017-11-06/617918.shtml)) 
+- Beijing University of Posts and Telecommunications
+- Beijing University of Aeronautics and Astronautics
+- Nanjing University of Aeronautics and Astronautics ([news](http://newsweb.nuaa.edu.cn/2018/1121/c738a143318/pagem.htm))
+-->
 
 ### Patent
 
