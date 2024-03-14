@@ -148,6 +148,12 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI.**
   <br> Haotian Cui, Chloe Wang, Hassaan Maan, Kuan Pang, Fengning Luo, Nan Duan, Bo Wang.
   <br> Nature Method, 2024.
+- **AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models.**
+  <br> Wanjun Zhong, Ruixiang Cui, Yiduo Guo, Yaobo Liang, Shuai Lu, Yanlin Wang, Amin Saied, Weizhu Chen, Nan Duan.
+  <br> NAACL, 2024.
+- **Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models.**
+  <br> Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
+  <br> NAACL, 2024.
 - **LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models.**
   <br> Zecheng Tang, Chenfei Wu, Juntao Li, Nan Duan.
   <br> ICLR, 2024.
