@@ -17,12 +17,12 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
     - text pre-training: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI, 2022), [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS, 2022).
     <!-- - text retrieval: [AR2](https://arxiv.org/abs/2110.03611) (ICLR, 2022), [LaPraDoR](https://arxiv.org/abs/2203.06169) (ACL, 2022), [MVR](https://arxiv.org/abs/2203.08372) (ACL, 2022), [SimANS](https://arxiv.org/abs/2210.11773) (EMNLP, 2022), [PROD](https://arxiv.org/abs/2209.13335) (WWW, 2023). -->
     - text generation: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP, 2020), [BANG](https://arxiv.org/abs/2012.15525) (ICML, 2021), [GENIE](https://arxiv.org/abs/2212.11685) (ICML, 2023).
-    - benchmark: [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA)/[NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) (NLPCC, 2016-2019), [MSParS](https://github.com/msra-nlc/MSParS) (NLPCC, 2019), [XGLUE](https://microsoft.github.io/XGLUE/) (EMNLP, 2020), [GLGE](https://arxiv.org/abs/2011.11928) (ACL, 2021), [AGIEval](https://arxiv.org/abs/2304.06364) (NAACL, 2024).
+    - benchmark: [NLPCC-KBQA](https://github.com/nanduan/NLPCC-KBQA)/[NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) (NLPCC, 2016-2019), [MSParS](https://github.com/msra-nlc/MSParS) (NLPCC, 2019), [XGLUE](https://microsoft.github.io/XGLUE/) (EMNLP, 2020), [GLGE](https://arxiv.org/abs/2011.11928) (ACL, 2021), [AGIEval](https://arxiv.org/abs/2304.06364) (NAACL, 2024), [CMMLU](https://arxiv.org/html/2306.09212v2) (ACL, 2024).
     
 - **Code Intelligence**
     - code pre-training: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR, 2021), [UniXcoder](https://arxiv.org/abs/2203.03850) (ACL, 2022), [CodeExecutor](https://arxiv.org/abs/2305.05383) (ACL, 2023).
     <!-- - code retrieval: [CodeRetriever](https://arxiv.org/abs/2201.10866) (EMNLP, 2022), [SCodeR](https://arxiv.org/abs/2210.09597) (EMNLP, 2022). -->
-    - code generation: [XGPT-C](https://arxiv.org/abs/2109.08780) (EMNLP, 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR, 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL, 2022), [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE, 2022), [LongCoder](https://arxiv.org/abs/2306.14893) (ICML, 2023), [MPSC](https://arxiv.org/abs/2309.17272) (Preprint, 2023), [Selene](https://browse.arxiv.org/abs/2401.07663) (Preprint, 2024).
+    - code generation: [XGPT-C](https://arxiv.org/abs/2109.08780) (EMNLP, 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR, 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL, 2022), [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE, 2022), [LongCoder](https://arxiv.org/abs/2306.14893) (ICML, 2023), [MPSC](https://arxiv.org/abs/2309.17272) (ACL, 2023), [Selene](https://browse.arxiv.org/abs/2401.07663) (ACL, 2024).
     - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL, 2021), [CodeExp](https://arxiv.org/abs/2211.15395) (EMNLP, 2022).
     
 - **Multimodal Intelligence** 
@@ -84,6 +84,24 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Publication
 
+- **Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency**
+  <br> Baizhou Huang, Shuai Lu, Xiaojun Wan, Nan Duan.
+  <br> ACL, 2024.
+- **Selene: Pioneering Automated Proof in Software Verification**
+  <br> Lichen Zhang, Shuai Lu, Nan Duan.
+  <br> ACL, 2024.
+- **PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion**
+  <br> Yiduo Guo, Zekai Zhang, Yaobo Liang, Dongyan Zhao, Nan Duan.
+  <br> Findings of ACL, 2024.
+- **Large Language Models Can Learn Representation in Natural Language**
+  <br> Yiduo Guo, Yaobo Liang, Dongyan Zhao, Nan Duan.
+  <br> Findings of ACL, 2024.
+- **CMMLU: Measuring massive multitask language understanding in Chinese**
+  <br> Haonan Li, Yixuan Zhang, Fajri Koto, Yifei Yang, hai zhao, Yeyun Gong, Nan Duan, Timothy Baldwin.
+  <br> Findings of ACL, 2024.
+- **Competition-Level Problems are Effective LLM Evaluators**
+  <br> Yiming Huang, Zhenghao Lin, Xiao Liu, Yeyun Gong, Shuai Lu, Fangyu Lei, Yaobo Liang, yelong shen, Chen Lin, Nan Duan, Weizhu Chen.
+  <br> Findings of ACL, 2024.
 - **Using Left and Right Brains Together: Towards Vision and Language Planning**
   <br> Jun CEN, Chenfei Wu, Xiao Liu, Shengming Yin, Yixuan Pei, Jinglong Yang, Qifeng Chen, Nan Duan, Jianguo Zhang.
   <br> ICML, 2024.
