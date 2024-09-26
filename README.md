@@ -84,6 +84,12 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Publication
 
+- **Voila-A: Aligning Vision-Language Models with User's Gaze Attention**
+  <br> Kun Yan, Lei Ji, Zeyu Wang, Yuntao Wang, Nan Duan, Shuai Ma.
+  <br> NeurIPS, 2024.
+- **Not All Tokens Are What You Need for Pretraining**
+  <br> Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, yelong shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen.
+  <br> NeurIPS, 2024.
 - **Learning to Plan by Updating Natural Language**
   <br> Yiduo Guo, Yaobo Liang, Chenfei Wu, Wenshan Wu, Dongyan Zhao, Nan Duan.
   <br> Findings of EMNLP, 2024.
