@@ -4,11 +4,11 @@
 ### <span style="color: #ff0000;">Please contact me with this email: nanduan.nlp AT outlook.com.</span>
 
 Dr. Nan DUAN is a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia. He is an adjunct Ph.D. supervisor at University of Science and Technology of China and Xi’an Jiaotong University, and an adjunct professor at Tianjin University. His research interests include natural language processing, multimodal intelligence, code intelligence, and machine reasoning. He served as the program chair and area chair at NLP/AI conferences. He published 100+ research papers with 20000+ Google Scholar citations and holds 20+ patents.
-He won CVPR Best Demo Award (2022).
+He won NeurIPS Best Paper Runner-Up Award (2024), CVPR Best Demo Award (2022).
 He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-NLPCC Distinguished Young Scientist (2019), DeepTech Intelligent Computing Innovators China (2022).
 
 段楠博士，微软亚洲研究院资深首席研究员，自然语言计算团队研究经理，中国科学技术大学、西安交通大学兼职博导，天津大学兼职教授，主要从事自然语言处理、多模态智能、代码智能、机器推理等研究，多次担任NLP/AI学术会议程序主席和领域主席，发表学术论文100余篇，Google Scholar引用20000余次，持有专利20余项。
-他获得CVPR最佳演示奖(2022)。
+他获得NeurIPS Best Paper Runner-Up Award(2024)，CVPR Best Demo Award (2022)。
 他被评为中国计算机协会(CCF)杰出会员、CCF-NLPCC青年科学家(2019年)、DeepTech中国智能计算科技创新人物(2022年)。
 
 ### Highlight
@@ -691,6 +691,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - AGIEval was selected as [Bench100 (2022-2023)](https://www.benchcouncil.org/evaluation/bench/annual.html).
 - World’s Top 2% Scientists by Stanford, [2023](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)/[2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0u4xhKMuKGIsi_prZLxOIOaMPzV-LNCmoIlDYua90eybIVIyE6Sl70vyc). 
 - [The Intelligent Computing Innovators China](https://mp.weixin.qq.com/s/6nwgZqgTcXLEmixdIgshyg) (中国智能计算科技创新人物), 2023.
+- NeurIPS Best Paper Runner-Up Award, 2024.
 - CVPR Best Demo Award, 2022.
 - [CCF-NLPCC Distinguished Young Scientist Award](https://www.ccf.org.cn/Chapters/TC/News/2019-10-31/671168.shtml) (CCF-NLPCC青年科学家奖), 2019.
 - CCF Distinguished Speaker (CCF杰出演讲者), [2021](https://www.ccf.org.cn/Media_list/hy/2022-01-17/753577.shtml)/[2020](https://www.ccf.org.cn/Membership/Individual_member/Updates/2021-01-19/721988.shtml)/[2017](https://www.ccf.org.cn/Activities/Training/CCF_AT_U/Guest_Speakers/2017nian/2018-02-02/622888.shtml).
