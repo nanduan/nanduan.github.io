@@ -84,58 +84,61 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Publication
 
-- **Voila-A: Aligning Vision-Language Models with User's Gaze Attention**
+- **Key-Point-Driven Data Synthesis with its Enhancement on Mathematical Reasoning**.
+  <br> Yiming Huang, Xiao Liu, Yeyun Gong, Zhibin Gou, Yelong Shen, Nan Duan, Weizhu Chen.
+  <br> AAAI, 2025.
+- **Voila-A: Aligning Vision-Language Models with User's Gaze Attention**.
   <br> Kun Yan, Lei Ji, Zeyu Wang, Yuntao Wang, Nan Duan, Shuai Ma.
   <br> NeurIPS, 2024.
-- **Not All Tokens Are What You Need for Pretraining**
+- **Not All Tokens Are What You Need for Pretraining**. (<span style="color: #ff0000;">Best Paper Runner-Up Award</span>)
   <br> Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, yelong shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen.
   <br> NeurIPS, 2024.
-- **Learning to Plan by Updating Natural Language**
+- **Learning to Plan by Updating Natural Language**.
   <br> Yiduo Guo, Yaobo Liang, Chenfei Wu, Wenshan Wu, Dongyan Zhao, Nan Duan.
   <br> Findings of EMNLP, 2024.
-- **PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**
+- **PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**.
   <br> Zekai Zhang, Yiduo Guo, Yaobo Liang, Dongyan Zhao, Nan Duan.
   <br> Findings of EMNLP, 2024.
-- **Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency**
+- **Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency**.
   <br> Baizhou Huang, Shuai Lu, Xiaojun Wan, Nan Duan.
   <br> ACL, 2024.
-- **Selene: Pioneering Automated Proof in Software Verification**
+- **Selene: Pioneering Automated Proof in Software Verification**.
   <br> Lichen Zhang, Shuai Lu, Nan Duan.
   <br> ACL, 2024.
-- **PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion**
+- **PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion**.
   <br> Yiduo Guo, Zekai Zhang, Yaobo Liang, Dongyan Zhao, Nan Duan.
   <br> Findings of ACL, 2024.
-- **Large Language Models Can Learn Representation in Natural Language**
+- **Large Language Models Can Learn Representation in Natural Language**.
   <br> Yiduo Guo, Yaobo Liang, Dongyan Zhao, Nan Duan.
   <br> Findings of ACL, 2024.
-- **CMMLU: Measuring massive multitask language understanding in Chinese**
+- **CMMLU: Measuring massive multitask language understanding in Chinese**.
   <br> Haonan Li, Yixuan Zhang, Fajri Koto, Yifei Yang, hai zhao, Yeyun Gong, Nan Duan, Timothy Baldwin.
   <br> Findings of ACL, 2024.
-- **Competition-Level Problems are Effective LLM Evaluators**
+- **Competition-Level Problems are Effective LLM Evaluators**.
   <br> Yiming Huang, Zhenghao Lin, Xiao Liu, Yeyun Gong, Shuai Lu, Fangyu Lei, Yaobo Liang, yelong shen, Chen Lin, Nan Duan, Weizhu Chen.
   <br> Findings of ACL, 2024.
-- **Using Left and Right Brains Together: Towards Vision and Language Planning**
+- **Using Left and Right Brains Together: Towards Vision and Language Planning**.
   <br> Jun CEN, Chenfei Wu, Xiao Liu, Shengming Yin, Yixuan Pei, Jinglong Yang, Qifeng Chen, Nan Duan, Jianguo Zhang.
   <br> ICML, 2024.
-- **StrokeNUWA—Tokenizing Strokes for Vector Graphic Synthesis**
+- **StrokeNUWA—Tokenizing Strokes for Vector Graphic Synthesis**.
   <br> Zecheng Tang, Chenfei Wu, Zekai Zhang, Minheng Ni, Shengming Yin, Yu Liu, Zhengyuan Yang, Lijuan Wang, Zicheng Liu, Juntao Li, Nan Duan.
   <br> ICML, 2024.
-- **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI.**
+- **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI**.
   <br> Haotian Cui, Chloe Wang, Hassaan Maan, Kuan Pang, Fengning Luo, Nan Duan, Bo Wang.
   <br> Nature Method, 2024.
-- **AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models.**
+- **AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models**.
   <br> Wanjun Zhong, Ruixiang Cui, Yiduo Guo, Yaobo Liang, Shuai Lu, Yanlin Wang, Amin Saied, Weizhu Chen, Nan Duan.
   <br> NAACL, 2024.
-- **Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models.**
+- **Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models**.
   <br> Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
   <br> NAACL, 2024.
-- **LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models.**
+- **LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models**.
   <br> Zecheng Tang, Chenfei Wu, Juntao Li, Nan Duan.
   <br> ICLR, 2024.
-- **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing.**
+- **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**.
   <br> Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen.
   <br> ICLR, 2024.
-- **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving.**
+- **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**.
   <br> Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen.
   <br> ICLR, 2024.
 - **Machine-Created Universal Language for Cross-lingual Transfer**.
@@ -273,7 +276,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 - **CodeReviewer: Pre-Training for Automating Code Review Activities**. ([GitHub](https://github.com/microsoft/CodeBERT))
   <br> Zhiyu Li, Shuai Lu, Daya Guo, Nan Duan, Shailesh Jannu, Grant Jenks, Deep Majumder, Jared Green, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan. 
   <br> ESEC/FSE, 2022.
-- **VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**.
+- **VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**. (<span style="color: #ff0000;">Best Demo Award</span>)
   <br> Estelle Aflalo, Meng Du, Shao-Yen Tseng, Yongfei Liu, Chenfei Wu, Nan Duan, Vasudev Lal. 
   <br> CVPR, 2022.
 - **Reasoning over Hybrid Chain for Table-and-Text Open Domain Question Answering**.
