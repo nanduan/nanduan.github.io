@@ -27,8 +27,8 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
     - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL, 2021), [CodeExp](https://arxiv.org/abs/2211.15395) (EMNLP, 2022), [Competition-Level Problems](https://arxiv.org/abs/2312.02143) (ACL, 2024).
     
 - **Multimodal Foundation Model** 
-    - pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR, 2021), [CLIP4Clip](https://arxiv.org/abs/2104.08860) (Neurocomputing, 2022).
-    - generation: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), [NUWA-LIP](https://arxiv.org/abs/2202.05009) (CVPR, 2023), [NUWA-3D](https://arxiv.org/abs/2302.10781) (IJCAI, 2023), [NUWA-XL](https://arxiv.org/abs/2303.12346) (ACL, 2023), [DragNUWA](https://arxiv.org/abs/2308.08089) (Preprint, 2023), [LayoutNUWA](https://arxiv.org/abs/2309.09506) (ICLR, 2024), [StrokeNUWA](https://browse.arxiv.org/abs/2401.17093) (ICML, 2024).
+    - vision-language pre-training: [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), [M3P](https://arxiv.org/abs/2006.02635) (CVPR, 2021), [CLIP4Clip](https://arxiv.org/abs/2104.08860) (Neurocomputing, 2022).
+    - visual generation: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), [NUWA-LIP](https://arxiv.org/abs/2202.05009) (CVPR, 2023), [NUWA-3D](https://arxiv.org/abs/2302.10781) (IJCAI, 2023), [NUWA-XL](https://arxiv.org/abs/2303.12346) (ACL, 2023), [DragNUWA](https://arxiv.org/abs/2308.08089) (Preprint, 2023), [LayoutNUWA](https://arxiv.org/abs/2309.09506) (ICLR, 2024), [StrokeNUWA](https://browse.arxiv.org/abs/2401.17093) (ICML, 2024).
    
 - **AI Agent**
     - general framework: [TaskMatrix.AI](https://arxiv.org/abs/2303.16434) (Intelligent Computing, 2023).
