@@ -3,11 +3,11 @@
 
 ### <span style="color: #ff0000;">Please contact me with this email: nduan AT step.ai (official) or nanduan.nlp AT outlook.com (personal).</span>
 
-Dr. Nan DUAN is the Tech Fellow at [StepFun](https://www.stepfun.com/), leading a research team working on video-centric multimodal foundation models. Before that, he was a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia (from 2012 to 2024). Dr. Duan is an adjunct Ph.D. supervisor at University of Science and Technology of China and Xi’an Jiaotong University, and an adjunct professor at Tianjin University. His research interests include natural language processing, code intelligence, multimodal foundation models, and AI agent. He served as the program chair and area chair at NLP/AI conferences. He published 100+ research papers with 20000+ Google Scholar citations and holds 20+ patents.
+Dr. Nan DUAN is the Tech Fellow at [StepFun](https://www.stepfun.com/), leading a research team working on language-video multimodal foundation models. Before that, he was a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia (from 2012 to 2024). Dr. Duan is an adjunct Ph.D. supervisor at University of Science and Technology of China and Xi’an Jiaotong University, and an adjunct professor at Tianjin University. His research interests include natural language processing, code intelligence, multimodal foundation models, and AI agent. He served as the program chair and area chair at NLP/AI conferences. He published 100+ research papers with 20000+ Google Scholar citations and holds 20+ patents.
 He won NeurIPS Best Paper Runner-Up Award (2024), CVPR Best Demo Award (2022).
 He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-NLPCC Distinguished Young Scientist (2019), DeepTech Intelligent Computing Innovators China (2023).
 
-段楠博士，[阶跃星辰](https://www.stepfun.com/)Tech Fellow，带领研究团队构建以视频为中的多模态基础模型。此前，他曾任微软亚洲研究院资深首席研究员、自然语言计算团队研究经理(2012年至2024年)。段博士是中国科学技术大学和西安交通大学兼职博导，天津大学兼职教授。他主要从事自然语言处理、多模态基础模型、代码智能、智能体等研究。多次担任NLP/AI学术会议程序主席和领域主席，发表学术论文100余篇，Google Scholar引用20000余次，持有专利20余项。
+段楠博士，[阶跃星辰](https://www.stepfun.com/)Tech Fellow，带领研究团队构建以语言和视频为中的多模态基础模型。此前，他曾任微软亚洲研究院资深首席研究员、自然语言计算团队研究经理(2012年至2024年)。段博士是中国科学技术大学和西安交通大学兼职博导，天津大学兼职教授。他主要从事自然语言处理、多模态基础模型、代码智能、智能体等研究。多次担任NLP/AI学术会议程序主席和领域主席，发表学术论文100余篇，Google Scholar引用20000余次，持有专利20余项。
 他获得NeurIPS Best Paper Runner-Up Award(2024)，CVPR Best Demo Award(2022)。
 他被评为中国计算机协会(CCF)杰出会员、CCF-NLPCC青年科学家(2019年)、DeepTech中国智能计算科技创新人物(2023年)。
 
