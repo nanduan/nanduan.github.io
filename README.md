@@ -35,6 +35,10 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
     - visual task: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint, 2023).
     - task planning: [Learning-to-Plan](https://arxiv.org/abs/2304.10464) (EMNLP, 2024).
 
+- **AI for Science**
+    - single-cell: [scGPT](https://www.nature.com/articles/s41592-024-02201-0) (Nature Methods, 2024).
+    - astronomy: [Astronomical KB w/ LLM](https://arxiv.org/abs/2406.01391) (IJCAI, 2024), [AI Agent for Astronomy](https://arxiv.org/abs/2409.14807) (Preprint, 2024).
+ 
 ### Talk
 
 - [跨模态生成式人工智能](https://www.ccf.org.cn/Media_list/adl/2023-11-07/796919.shtml). CCF-ADL, 2023-11.
