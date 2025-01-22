@@ -23,7 +23,7 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
     - pre-training: [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020), [GraphCodeBERT](https://arxiv.org/abs/2009.08366) (ICLR, 2021), [UniXcoder](https://arxiv.org/abs/2203.03850) (ACL, 2022), [CodeExecutor](https://arxiv.org/abs/2305.05383) (ACL, 2023).
     - retrieval: [CodeRetriever](https://arxiv.org/abs/2201.10866) (EMNLP, 2022), [SCodeR](https://arxiv.org/abs/2210.09597) (EMNLP, 2022).
     - generation: [XGPT-C](https://arxiv.org/abs/2109.08780) (EMNLP, 2021), [Grammformer](https://arxiv.org/abs/2106.10158) (ICLR, 2022), [ReACC](https://arxiv.org/abs/2203.07722v1) (ACL, 2022), [CodeReviewer](https://arxiv.org/abs/2203.09095) (ESEC/FSE, 2022), [LongCoder](https://arxiv.org/abs/2306.14893) (ICML, 2023), [MPSC](https://arxiv.org/abs/2309.17272) (ACL, 2023).
-    - formal verification: [Selene](https://browse.arxiv.org/abs/2401.07663) (ACL, 2024), [Automated Theorem-Proving](https://arxiv.org/abs/2410.15748) (Preprint, 2024), [Automated Proof Generation](https://arxiv.org/abs/2410.15756) (Preprint, 2024).
+    - formal verification: [Selene](https://browse.arxiv.org/abs/2401.07663) (ACL, 2024), [Automated Theorem-Proving](https://arxiv.org/abs/2410.15748) (ICLR, 2025), [Automated Proof Generation](https://arxiv.org/abs/2410.15756) (ICLR, 2025).
     - benchmark: [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), [CoSQA](https://arxiv.org/abs/2105.13239) (ACL, 2021), [CodeExp](https://arxiv.org/abs/2211.15395) (EMNLP, 2022), [Competition-Level Problems](https://arxiv.org/abs/2312.02143) (ACL, 2024).
     
 - **Multimodal Foundation Model** 
@@ -83,6 +83,12 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Publication
 
+- **Automated Proof Generation for Rust Code via Self-Evolution**.
+  <br> Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib Hossain Misu, Hao Yu, Nan Duan, Peng CHENG, Fan Yang, Shuvendu K Lahiri, Tao Xie, Lidong Zhou.
+  <br> ICLR, 2025.
+- **Alchemy: Amplifying Theorem-Proving Capability Through Symbolic Mutation**.
+  <br> Shaonan Wu, Shuai Lu, Yeyun Gong, Nan Duan, Ping Wei.
+  <br> ICLR, 2025.
 - **Key-Point-Driven Data Synthesis with its Enhancement on Mathematical Reasoning**.
   <br> Yiming Huang, Xiao Liu, Yeyun Gong, Zhibin Gou, Yelong Shen, Nan Duan, Weizhu Chen.
   <br> AAAI, 2025.
