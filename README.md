@@ -1,7 +1,7 @@
 ## Nan DUAN (段楠) 
 [Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/)
 
-### <span style="color: #ff0000;">Please contact me with this email: nduan AT step.ai (official) or nanduan.nlp AT outlook.com (personal).</span>
+### <span style="color: #ff0000;">Please contact me with this email: nduan AT stepfun.com (official) or nanduan.nlp AT outlook.com (personal).</span>
 
 Dr. Nan DUAN is the Tech Fellow at [StepFun](https://www.stepfun.com/), leading a research team working on language-video multimodal foundation models ([Step-Video](https://yuewen.cn/videos), [GitHub](https://github.com/stepfun-ai/Step-Video-T2V)). Before that, he was a senior principal researcher and research manager of the Natural Language Computing group at Microsoft Research Asia (from 2012 to 2024). Dr. Duan is an adjunct Ph.D. supervisor at University of Science and Technology of China and Xi’an Jiaotong University, and an adjunct professor at Tianjin University. His research interests include natural language processing, code intelligence, multimodal foundation model, and AI agent. He served as the program chair and senior area chair at NLP/AI conferences. He published 100+ research papers with 20000+ Google Scholar citations and holds 20+ patents.
 He won NeurIPS Best Paper Runner-Up Award (2024), CVPR Best Demo Award (2022).
