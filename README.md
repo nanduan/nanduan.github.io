@@ -83,6 +83,9 @@ He was awarded as Distinguished Member of China Computer Federation (CCF), CCF-N
 
 ### Publication
 
+- **Taming Teacher Forcing for Masked Autoregressive Video Generation**.
+  <br> Deyu Zhou, Quan Sun, Yuang Peng, Kun Yan, Runpei Dong, Duomin Wang, Zheng Ge, Nan Duan, Xiangyu Zhang.
+  <br> CVPR, 2025.
 - **Automated Proof Generation for Rust Code via Self-Evolution**.
   <br> Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib Hossain Misu, Hao Yu, Nan Duan, Peng CHENG, Fan Yang, Shuvendu K Lahiri, Tao Xie, Lidong Zhou.
   <br> ICLR, 2025.
