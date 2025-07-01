@@ -78,6 +78,9 @@ Dr. Nan Duan is the Head of the Vision and Multimodal Lab at JD Explore Academy,
 
 ### Publication
 
+- **DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training**.
+  <br> Xin Tan, Yuetao Chen, Yimin Jiang, Xing Chen, Kun Yan, Nan Duan, Yibo Zhu, Daxin Jiang, Hong Xu.
+  <br> ASPLOS, 2026.
 - **Taming Teacher Forcing for Masked Autoregressive Video Generation**.
   <br> Deyu Zhou, Quan Sun, Yuang Peng, Kun Yan, Runpei Dong, Duomin Wang, Zheng Ge, Nan Duan, Xiangyu Zhang.
   <br> CVPR, 2025.
