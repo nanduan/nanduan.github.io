@@ -81,6 +81,9 @@ Dr. Nan Duan is the Vice President of JD.COM and the Head of Vision and Multimod
 - **DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training**.
   <br> Xin Tan, Yuetao Chen, Yimin Jiang, Xing Chen, Kun Yan, Nan Duan, Yibo Zhu, Daxin Jiang, Hong Xu.
   <br> ASPLOS, 2026.
+- **Generative Pre-trained Autoregressive Diffusion Transformer**.
+  <br> Yuan Zhang, Jiacheng Jiang, Guoqing Ma, Zhiying Lu, Bo Wang, Haoyang Huang, Jianlong Yuan, Nan Duan.
+  <br> NeurIPS, 2025.
 - **Taming Teacher Forcing for Masked Autoregressive Video Generation**.
   <br> Deyu Zhou, Quan Sun, Yuang Peng, Kun Yan, Runpei Dong, Duomin Wang, Zheng Ge, Nan Duan, Xiangyu Zhang.
   <br> CVPR, 2025.
