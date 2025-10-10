@@ -700,15 +700,14 @@ Dr. Nan Duan is the Vice President of JD.COM and the Head of Vision and Multimod
 - [Member of CCF Technical Committee of NLP](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCCI/), 2018-present.
 - Secretary of CCF Committee on Terminology, 2016-2018.
 
-- TaskMatrix was selected as [Open100 (2022-2023)](https://www.benchcouncil.org/evaluation/opencs/annual.html).
-- AGIEval was selected as [Bench100 (2022-2023)](https://www.benchcouncil.org/evaluation/bench/annual.html).
+- AI 2000 Most Influential Scholar Award Honorable Mention in NLP, [2025](https://www.aminer.cn/ai2000/search_rank?id=53f430f7dabfaeb1a7bb8a69&searchValue=%E6%AE%B5%E6%A5%A0&yearLeft=2015&yearRight=2024).
 - World’s Top 2% Scientists by Stanford, [2023](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)/[2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0u4xhKMuKGIsi_prZLxOIOaMPzV-LNCmoIlDYua90eybIVIyE6Sl70vyc). 
 - [The Intelligent Computing Innovators China](https://mp.weixin.qq.com/s/6nwgZqgTcXLEmixdIgshyg) (中国智能计算科技创新人物), 2023.
-- NeurIPS Best Paper Runner-Up Award, 2024.
-- CVPR Best Demo Award, 2022.
 - [CCF-NLPCC Distinguished Young Scientist Award](https://www.ccf.org.cn/Chapters/TC/News/2019-10-31/671168.shtml) (CCF-NLPCC青年科学家奖), 2019.
 - CCF Distinguished Speaker (CCF杰出演讲者), [2021](https://www.ccf.org.cn/Media_list/hy/2022-01-17/753577.shtml)/[2020](https://www.ccf.org.cn/Membership/Individual_member/Updates/2021-01-19/721988.shtml)/[2017](https://www.ccf.org.cn/Activities/Training/CCF_AT_U/Guest_Speakers/2017nian/2018-02-02/622888.shtml).
-- AI 2000 Most Influential Scholar Award Honorable Mention in NLP, [2025](https://www.aminer.cn/ai2000/search_rank?id=53f430f7dabfaeb1a7bb8a69&searchValue=%E6%AE%B5%E6%A5%A0&yearLeft=2015&yearRight=2024).
+
+- NeurIPS Best Paper Runner-Up Award, 2024.
+- CVPR Best Demo Award, 2022.
 
 ### Lecture (2017-present)
 
