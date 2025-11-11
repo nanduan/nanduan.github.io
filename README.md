@@ -8,7 +8,7 @@ Dr. Nan Duan is the Vice President of JD.COM and the Head of Vision and Multimod
 
 ### Highlight
 
-[Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), the 1st multilingual pre-trained model deployed in Bing for 100+ languages.
+[Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), the 1st multilingual pre-trained model deployed in Bing for 100+ languages and 200+ regions.
 
 [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), the 1st multimodal pre-trained model deployed in Bing for top-tier languages and markets.
 
@@ -22,7 +22,7 @@ Dr. Nan Duan is the Vice President of JD.COM and the Head of Vision and Multimod
 
 [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint, 2023), the 1st multimodal AI agent and received 34k+ GitHub stars.
 
-[Rho-1](https://arxiv.org/abs/2404.07965) (NeurIPS, 2024), Best Paper Runner-Up of NeurIPS 2024.
+[Rho-1: Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965) (NeurIPS, 2024), Best Paper Runner-Up of NeurIPS 2024.
 
 [AGIEval](https://arxiv.org/abs/2304.06364) (NAACL, 2024), benchmark for AGI evaluation. 
 
