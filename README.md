@@ -8,8 +8,8 @@ Dr. Nan Duan is the Vice President of JD.COM and the Head of Vision and Multimod
 
 ### Highlight
 
-- [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), the 1st multilingual pre-trained model deployed in Bing for 100+ languages and 200+ regions.
-- [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), the 1st multimodal pre-trained model deployed in Bing for top-tier languages and markets.
+- [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), the 1st multilingual pre-trained model deployed in Bing for 100+ languages.
+- [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), the 1st multimodal pre-trained model deployed in Bing for top-tier languages.
 - [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020), cited by OpenAI Codex.
 - [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), benchmark for code understanding and generation. 
 - [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), cited by OpenAI Sora.
