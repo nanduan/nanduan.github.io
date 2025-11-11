@@ -8,22 +8,31 @@ Dr. Nan Duan is the Vice President of JD.COM and the Head of Vision and Multimod
 
 ### Highlight
 
-**Natural Language Processing**
+[Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), 
 
-[Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019),
+[Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020)
 
-[Rho-1](https://arxiv.org/abs/2404.07965) (NeurIPS, 2024).
+[CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020),
 
-[ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP, 2020)
+[CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), 
 
-[Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL, 2022)
+[Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL, 2022), 
 
-[CRITIC](https://arxiv.org/abs/2305.11738) (ICLR, 2024)
+[NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022),
 
-[ToRA](https://arxiv.org/abs/2309.17452) (ICLR, 2024)
+[NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022),
 
-[AGIEval](https://arxiv.org/abs/2304.06364) (NAACL, 2024)
+[Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint, 2023),
 
+[Rho-1](https://arxiv.org/abs/2404.07965) (NeurIPS, 2024),
+
+[AGIEval](https://arxiv.org/abs/2304.06364) (NAACL, 2024),
+
+[scGPT](https://www.nature.com/articles/s41592-024-02201-0) (Nature Methods, 2024),
+
+[Step-Video-T2V](https://github.com/stepfun-ai/Step-Video-T2V) (Technical Report, 2025), 
+
+- **Natural Language Processing**
     - pre-training: [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), [XLM-K](https://arxiv.org/abs/2109.12573) (AAAI, 2022), [LogiGAN](https://arxiv.org/abs/2205.08794) (NeurIPS, 2022), [Rho-1](https://arxiv.org/abs/2404.07965) (NeurIPS, 2024).
     - generation: [ProphetNet](https://arxiv.org/abs/2001.04063) (EMNLP, 2020), [BANG](https://arxiv.org/abs/2012.15525) (ICML, 2021), [GENIE](https://arxiv.org/abs/2212.11685) (ICML, 2023), [AR-Diffusion](https://arxiv.org/abs/2305.09515) (NeurIPS, 2023).
     - reasoning: [Fact Checking](https://arxiv.org/abs/1909.03745) (ACL, 2020), [Commonsense QA](https://arxiv.org/abs/1909.05311) (AAAI, 2020), [Complex Reasoning in LSAT](https://arxiv.org/abs/2108.00648) (TASLP, 2022), [Analytical Reasoning](https://arxiv.org/abs/2104.06598) (NAACL, 2022), [Logical Reasoning](https://arxiv.org/abs/2105.03659) (ACL, 2022), [ReasonFormer](https://arxiv.org/abs/2210.11265) (ACL, 2023), [Synthetic Prompting](https://arxiv.org/abs/2302.00618) (ICML, 2023), [CRITIC](https://arxiv.org/abs/2305.11738) (ICLR, 2024), [ToRA](https://arxiv.org/abs/2309.17452) (ICLR, 2024).
