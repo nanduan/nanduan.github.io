@@ -8,17 +8,18 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 
 ### Highlight
 
-- [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), the 1st multilingual pre-trained model deployed in Bing for 100+ languages.
-- [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), the 1st multimodal pre-trained model deployed in Bing for top-tier languages.
-- [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020), cited by OpenAI Codex.
-- [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), benchmark for code understanding and generation. 
-- [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), cited by OpenAI Sora.
-- [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), reviewed by Bill Gates.
-- [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint, 2023), the 1st multimodal AI agent and received 34k+ GitHub stars.
-- [Rho-1: Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965) (NeurIPS, 2024), Best Paper Runner-Up of NeurIPS 2024.
-- [AGIEval](https://arxiv.org/abs/2304.06364) (NAACL, 2024), benchmark for AGI evaluation. 
-- [scGPT](https://www.nature.com/articles/s41592-024-02201-0) (Nature Methods, 2024), single-cell Generative Pre-trained Transformer.
+- [JoyAI-Image-Edit](https://github.com/jd-opensource/JoyAI-Image) (Technical Report, 2026), a unified image understanding and generation model with Spatial Intelligence.
 - [Step-Video-T2V](https://github.com/stepfun-ai/Step-Video-T2V) (Technical Report, 2025), 30B SoTA text-to-video model (up to 204 frames).
+- [scGPT](https://www.nature.com/articles/s41592-024-02201-0) (Nature Methods, 2024), single-cell Generative Pre-trained Transformer.
+- [AGIEval](https://arxiv.org/abs/2304.06364) (NAACL, 2024), benchmark for AGI evaluation. 
+- [Rho-1: Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965) (NeurIPS, 2024), Best Paper Runner-Up of NeurIPS 2024.
+- [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint, 2023), the 1st multimodal AI agent and received 34k+ GitHub stars.
+- [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), reviewed by Bill Gates.
+- [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), cited by OpenAI Sora.
+- [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), benchmark for code understanding and generation. 
+- [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020), cited by OpenAI Codex.
+- [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), the 1st multimodal pre-trained model deployed in Bing for top-tier languages.
+- [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), the 1st multilingual pre-trained model deployed in Bing for 100+ languages.
 
 ### Book
 
