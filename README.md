@@ -8,7 +8,7 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 
 ### Highlight
 
-- [JoyAI-Image-Edit](https://github.com/jd-opensource/JoyAI-Image) (Technical Report, 2026), a unified image understanding and generation model with Spatial Intelligence.
+- [JoyAI-Image-Edit](https://joyai-image.s3.cn-north-1.jdcloud-oss.com/JoyAI-Image.pdf) (Technical Report, 2026), a unified image understanding and generation model with Spatial Intelligence.
 - [Step-Video-T2V](https://github.com/stepfun-ai/Step-Video-T2V) (Technical Report, 2025), 30B SoTA text-to-video model (up to 204 frames).
 - [scGPT](https://www.nature.com/articles/s41592-024-02201-0) (Nature Methods, 2024), single-cell Generative Pre-trained Transformer.
 - [AGIEval](https://arxiv.org/abs/2304.06364) (NAACL, 2024), benchmark for AGI evaluation. 
