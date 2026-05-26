@@ -39,6 +39,12 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 
 ### Publication
 
+- **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**.
+  <br> Xiaoxuan He, Siming Fu, Zeyue Xue, Weijie Wang, Ruizhe He, Yuming Li, Dacheng Yin, Shuai Dong, Haoyang Huang, Hongfa Wang, Nan Duan, Bohan Zhuang.
+  <br> ICML, 2026.
+- **SetPO: Set-Level Policy Optimization for Diversity-Preserving LLM Reasoning**.
+  <br> Chenyi Li, Yuan Zhang, Bo Wang, Guoqing Ma, Wei Tang, Haoyang Huang, Nan Duan.
+  <br> ICML, 2026.
 - **DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training**.
   <br> Xin Tan, Yuetao Chen, Yimin Jiang, Xing Chen, Kun Yan, Nan Duan, Yibo Zhu, Daxin Jiang, Hong Xu.
   <br> ASPLOS, 2026.
