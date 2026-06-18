@@ -42,6 +42,15 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 
 ### Publication
 
+- **Unfold The World: Factorize 4D Properties in Reinforcing Spatial Understanding**.
+  <br> Yijun Yang, Shenghe Zheng, Wenbo Li, Jianhui Liu, Haoze Sun, Yanbing Zhang, Jiaxiu Jiang, Lin Song, Haoyang Huang, Nan Duan, Lei Zhu.
+  <br> ECCV, 2026.
+- **OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence**.
+  <br> Jianhui Liu, Haoze Sun, Wenbo Li, Yanbing Zhang, Rui Yang, Zhiliang Zhu, Yijun Yang, Shenghe Zheng, Nan Jiang, Jiaxiu Jiang, Haoyang Huang, Tien-Tsin Wong, Nan Duan, Xiaojuan Qi.
+  <br> ECCV, 2026.
+- **OmniForcing: Unleashing Real-time Joint Audio-Visual Generation**.
+  <br> Yaofeng Su, Yuming Li, Zeyue Xue, Jie Huang, Siming Fu, Haoran Li, Haoyang Huang, Nan Duan.
+  <br> ECCV, 2026.
 - **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**.
   <br> Xiaoxuan He, Siming Fu, Zeyue Xue, Weijie Wang, Ruizhe He, Yuming Li, Dacheng Yin, Shuai Dong, Haoyang Huang, Hongfa Wang, Nan Duan, Bohan Zhuang.
   <br> ICML, 2026.
