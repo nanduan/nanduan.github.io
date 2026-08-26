@@ -8,6 +8,7 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 
 ### Highlight
 
+- [JoyAI-Echo-1.5](https://arxiv.org/pdf/2608.23189) (Technical Report, 2026), SoTA audio-video world model.
 - [JoyAI-Video-Edit](https://arxiv.org/pdf/2608.03974) (Technical Report, 2026), real-time streaming video editing model.
 - [JoyAI-VL-Interaction](https://arxiv.org/pdf/2606.14777) (Technical Report, 2026), real-time vision-language interaction intelligence.
 - [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) (Technical Report, 2026), minute-level multi-shot audio-video generation model.
