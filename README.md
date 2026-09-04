@@ -26,6 +26,7 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 - [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), the 1st multimodal pre-trained model deployed in Microsoft Bing for top-tier languages.
 - [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), the 1st multilingual pre-trained model deployed in Microsoft Bing for 100+ languages.
 
+<!--
 ### Book
 
 - **《智能问答》**. 
@@ -659,6 +660,7 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 - **Measure Word Generation for English-Chinese SMT Systems**.
   <br> Dongdong Zhang, Mu Li, Nan Duan, Chi-Ho Li, Ming Zhou. 
   <br> ACL, 2008.
+-->
 
 ### Academic Service & Award
 
