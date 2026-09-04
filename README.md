@@ -664,31 +664,21 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 
 ### Academic Service & Award
 
-- Adjunct Ph.D. Supervisor at Xi’an Jiaotong University (西安交通大学), 2023-present.
-- Adjunct Ph.D. Supervisor at University of Science and Technology of China (中国科学技术大学), 2022-present.
-- Adjunct Professor at Tianjin University (天津大学), 2020-2022.
-
+- Adjunct Ph.D. Supervisor at Xi’an Jiaotong University (西安交通大学), University of Science and Technology of China (中国科学技术大学), Tianjin University (天津大学).
 - Program Committee Chair of NLPCC, 2023.
-- Evaluation Chair of NLPCC, 2019/2018.
-- Senior Action Editor of ACL Rolling Review (ARR), 2022-present.
-- Senior Area Chair/Area Chair of NeurIPS/ACL/EMNLP/NAACL/SIGKDD.
+- Senior Action Editor & Senior Area Chair of ACL Rolling Review (ARR)/NeurIPS/ACL/EMNLP/NAACL/SIGKDD.
 - Standing Reviewer of TACL, 2020-present.
-- Program Committee Member of ACL/EMNLP/NAACL/COLING/NeurIPS/ICLR/CVPR/AAAI/SIGKDD/IJCAI/etc.
-
-- Senior Member of IEEE, 2025.
-- Distinguished Member of CCF, 2021.
+- Senior Member of IEEE.
+- Distinguished Member of CCF.
 - Executive Member of China Society of Image and Graphics (CSIG), 2025-present.
 - Executive Member of CCF Technical Committee of NLP, 2018-present.
 - Member of CCF Committee on Academic Affairs, 2020-present.
 - Member of CIPS Technical Committee of NLG, 2021-present.
 - Secretary of CCF Committee on Terminology, 2016-2018.
-
 - AI 2000 Most Influential Scholar Award Honorable Mention in NLP, [2025](https://www.aminer.cn/ai2000/search_rank?id=53f430f7dabfaeb1a7bb8a69&searchValue=%E6%AE%B5%E6%A5%A0&yearLeft=2015&yearRight=2024).
 - World’s Top 2% Scientists by Stanford, 2022-present. 
 - [The Intelligent Computing Innovators China](https://mp.weixin.qq.com/s/6nwgZqgTcXLEmixdIgshyg) (中国智能计算科技创新人物), 2023.
 - [CCF-NLPCC Distinguished Young Scientist Award](https://www.ccf.org.cn/Chapters/TC/News/2019-10-31/671168.shtml) (CCF-NLPCC青年科学家奖), 2019.
-- CCF Distinguished Speaker (CCF杰出演讲者), [2021](https://www.ccf.org.cn/Media_list/hy/2022-01-17/753577.shtml)/[2020](https://www.ccf.org.cn/Membership/Individual_member/Updates/2021-01-19/721988.shtml)/[2017](https://www.ccf.org.cn/Activities/Training/CCF_AT_U/Guest_Speakers/2017nian/2018-02-02/622888.shtml).
-
 - NeurIPS Best Paper Runner-Up Award, 2024.
 - CVPR Best Demo Award, 2022.
 
@@ -711,7 +701,7 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 - Beijing University of Posts and Telecommunications
 - Beijing University of Aeronautics and Astronautics
 - Nanjing University of Aeronautics and Astronautics ([news](http://newsweb.nuaa.edu.cn/2018/1121/c738a143318/pagem.htm))
--->
+
 
 
 ### Patent
@@ -739,3 +729,5 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 - [Assertion-based question answering](https://patents.google.com/patent/US11327971B2/en), 2017.
 - [Generation of text from structured data](https://patents.google.com/patent/US20200356729A1/en), 2017.
 - [Conversation oriented machine-user interaction](https://patents.google.com/patent/US11068519B2/en), 2016.
+
+-->
