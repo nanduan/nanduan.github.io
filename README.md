@@ -692,6 +692,7 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 - NeurIPS Best Paper Runner-Up Award, 2024.
 - CVPR Best Demo Award, 2022.
 
+<!--
 ### Lecture (2017-present)
 
 - Peking University ([news](https://www.icst.pku.edu.cn/xwgg/jzxx/1297302.htm))
@@ -710,6 +711,8 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 - Beijing University of Posts and Telecommunications
 - Beijing University of Aeronautics and Astronautics
 - Nanjing University of Aeronautics and Astronautics ([news](http://newsweb.nuaa.edu.cn/2018/1121/c738a143318/pagem.htm))
+-->
+
 
 ### Patent
 
