@@ -8,23 +8,19 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 
 ### Highlight
 
-- [JoyAI-Echo-1.5](https://arxiv.org/pdf/2608.23189) (Technical Report, 2026), SoTA audio-video world model.
-- [JoyAI-Video-Edit](https://arxiv.org/pdf/2608.03974) (Technical Report, 2026), real-time streaming video editing model.
-- [JoyAI-VL-Interaction](https://arxiv.org/pdf/2606.14777) (Technical Report, 2026), real-time vision-language interaction intelligence.
-- [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) (Technical Report, 2026), minute-level multi-shot audio-video generation model.
+- [JoyAI-Echo-1.5](https://arxiv.org/pdf/2608.23189) (Technical Report, 2026), SoTA interactive audio-video world model.
+- [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) (Technical Report, 2026), SoTA minute-level multi-shot audio-video generation model.
+- [JoyAI-Video-Edit](https://arxiv.org/pdf/2608.03974) (Technical Report, 2026), SoTA real-time streaming video editing model.
+- [JoyAI-VL-Interaction](https://arxiv.org/pdf/2606.14777) (Technical Report, 2026), SoTA real-time vision-language interaction model.
 - [JoyAI-Image-Edit](https://joyai-image.s3.cn-north-1.jdcloud-oss.com/JoyAI-Image.pdf) (Technical Report, 2026), a unified image understanding and generation model with spatial intelligence.
-- [Step-Video-T2V](https://github.com/stepfun-ai/Step-Video-T2V) (Technical Report, 2025), 30B SoTA text-to-video model.
+- [Step-Video-T2V](https://github.com/stepfun-ai/Step-Video-T2V) (Technical Report, 2025), SoTA text-to-video model.
 - [scGPT](https://www.nature.com/articles/s41592-024-02201-0) (Nature Methods, 2024), single-cell Generative Pre-trained Transformer.
-- [AGIEval](https://arxiv.org/abs/2304.06364) (NAACL, 2024), benchmark for AGI evaluation. 
 - [Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965) (NeurIPS, 2024), Best Paper Runner-Up at NeurIPS 2024.
 - [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint, 2023), pioneer work in AI Agent, obtained 34k+ GitHub stars.
 - [VL-InterpreT](https://arxiv.org/abs/2203.17247) (CVPR, 2022), Best Demo Award at CVPR 2022.
-- [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), pioneer work in video generation model, reviewed by Bill Gates.
-- [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), pioneer work in video generation model, cited by OpenAI Sora.
-- [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), benchmark for code understanding and generation. 
-- [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020), pioneer work in code foundation model, cited by OpenAI Codex.
-- [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), the 1st multimodal pre-trained model deployed in Microsoft Bing for top-tier languages.
-- [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019), the 1st multilingual pre-trained model deployed in Microsoft Bing for 100+ languages.
+- [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022) & [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), pioneer work in video generation model, reviewed by Bill Gates, cited by OpenAI Sora.
+- [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020) & [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), pioneer work in code foundation model, cited by OpenAI Codex.
+- [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019) / [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), the 1st multilingual/multimodal pre-trained model deployed in Microsoft Bing for 100+ languages.
 
 <!--
 ### Book
@@ -668,13 +664,10 @@ Dr. Nan Duan is the Vice President of JD.COM and the Deputy Director of JD Futur
 - Program Committee Chair of NLPCC, 2023.
 - Senior Action Editor & Senior Area Chair of ACL Rolling Review (ARR)/NeurIPS/ACL/EMNLP/NAACL/SIGKDD.
 - Standing Reviewer of TACL, 2020-present.
-- Senior Member of IEEE.
-- Distinguished Member of CCF.
 - Executive Member of China Society of Image and Graphics (CSIG), 2025-present.
 - Executive Member of CCF Technical Committee of NLP, 2018-present.
-- Member of CCF Committee on Academic Affairs, 2020-present.
-- Member of CIPS Technical Committee of NLG, 2021-present.
-- Secretary of CCF Committee on Terminology, 2016-2018.
+- Senior Member of IEEE.
+- Distinguished Member of CCF.
 - AI 2000 Most Influential Scholar Award Honorable Mention in NLP, [2025](https://www.aminer.cn/ai2000/search_rank?id=53f430f7dabfaeb1a7bb8a69&searchValue=%E6%AE%B5%E6%A5%A0&yearLeft=2015&yearRight=2024).
 - World’s Top 2% Scientists by Stanford, 2022-present. 
 - [The Intelligent Computing Innovators China](https://mp.weixin.qq.com/s/6nwgZqgTcXLEmixdIgshyg) (中国智能计算科技创新人物), 2023.
