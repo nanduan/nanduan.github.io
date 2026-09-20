@@ -8,7 +8,7 @@ Dr. Nan Duan is Vice President of JD.COM and Deputy Director of Joy Future Acade
 
 ### Highlight
 
-- [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) & [JoyAI-Echo-1.5](https://arxiv.org/pdf/2608.23189) (Technical Report, 2026), a family of SoTA audio-video generation and interactive world models, spanning minute-level multi-shot generation and real-time world modeling.
+- [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) & [JoyAI-Echo-1.5](https://arxiv.org/pdf/2608.23189) (Technical Report, 2026), SoTA audio-video generation & interactive world models.
 - [JoyAI-VL-Interaction](https://arxiv.org/pdf/2606.14777) (Technical Report, 2026), a SoTA real-time vision-language interaction model.
 - [JoyAI-Video-Edit](https://arxiv.org/pdf/2608.03974) (Technical Report, 2026), a SoTA real-time streaming video editing model.
 - [JoyAI-Image-Edit](https://joyai-image.s3.cn-north-1.jdcloud-oss.com/JoyAI-Image.pdf) (Technical Report, 2026), a unified image understanding and generation model with spatial intelligence.
@@ -659,7 +659,7 @@ Dr. Nan Duan is Vice President of JD.COM and Deputy Director of Joy Future Acade
 
 ### Academic Service & Award
 
-- Adjunct Ph.D. Supervisor at Xi’an Jiaotong University (西安交通大学), University of Science and Technology of China (中国科学技术大学), Tianjin University (天津大学).
+- Adjunct Ph.D. Supervisor at University of Science and Technology of China (中国科学技术大学), Xi’an Jiaotong University (西安交通大学), Xiamen University (厦门大学), Tianjin University (天津大学).
 - Program Committee Chair of NLPCC, 2023.
 - Senior Action Editor & Senior Area Chair of ACL Rolling Review (ARR)/NeurIPS/ACL/EMNLP/NAACL/SIGKDD.
 - Standing Reviewer of TACL, 2020-present.
