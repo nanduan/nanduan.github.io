@@ -16,7 +16,7 @@ Dr. Nan Duan is Vice President at JD.COM and Deputy Director of Joy Future Acade
 - [scGPT](https://www.nature.com/articles/s41592-024-02201-0) (Nature Methods, 2024), a Generative Pre-trained Transformer for single-cell biology.
 - [Not All Tokens Are What You Need](https://arxiv.org/abs/2404.07965) (NeurIPS, 2024), NeurIPS 2024 Best Paper Runner-Up.
 - [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint, 2023), pioneering work on multimodal AI agents, with 34K+ GitHub stars.
-- [VL-InterpreT](https://arxiv.org/abs/2203.17247) (CVPR, 2022), recipient of the CVPR 2022 Best Demo Award.
+- [VL-InterpreT](https://arxiv.org/abs/2203.17247) (CVPR, 2022), CVPR 2022 Best Demo Award.
 - [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022) & [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), pioneering work on video generation models, reviewed by Bill Gates and cited by OpenAI Sora.
 - [CodeBERT](https://arxiv.org/abs/2002.08155) (EMNLP, 2020) & [CodeXGLUE](https://microsoft.github.io/CodeXGLUE/) (NeurIPS, 2021), pioneering work on code foundation models, cited by OpenAI Codex.
 - [Unicoder](https://arxiv.org/abs/1909.00964) (EMNLP, 2019) & [Unicoder-VL](https://arxiv.org/abs/1908.06066) (AAAI, 2020), the 1st multilingual & multimodal pre-trained models deployed in Microsoft Bing for 100+ languages.
