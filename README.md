@@ -22,9 +22,8 @@ Foundation Models · Code Agents · Embodied Intelligence
 -->
 <!--
 ### <span style="color: #ff0000;">We are hiring researchers and interns: duannan@jd.com (official) or nanduan.nlp@outlook.com (personal).</span>
--->
-
 <br clear="left" />
+-->
 
 Dr. Nan Duan is Vice President at JD.COM and Deputy Director of Joy Future Academy, where he leads foundation model research spanning language, audio, vision, and embodied AI. Previously, he served as a Technical Fellow at StepFun and as a Senior Principal Researcher at Microsoft Research Asia. Dr. Duan is an adjunct Ph.D. supervisor at the University of Science and Technology of China, Xi’an Jiaotong University, Xiamen University, and Tianjin University. His research interests include natural language processing, code agents, multimodal foundation models, and embodied intelligence. He has published more than 200 research papers in top-tier conferences and journals, with over 40,000 citations and an h-index of 85+, and holds more than 20 patents. In 2019, he was named a CCF-NLPCC Distinguished Young Scientist for his contributions to natural language processing. In 2023, he was recognized as one of DeepTech China’s Intelligent Computing Innovators for his contributions to AI foundation models.
 
