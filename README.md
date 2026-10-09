@@ -12,7 +12,7 @@ Dr. Nan Duan is Vice President at JD.COM and Deputy Director of Joy Future Acade
 
 ### Highlight
 
-- [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) & [JoyAI-Echo-1.5](https://arxiv.org/pdf/2608.23189) (Technical Report, 2026), SoTA audio-video generation & interactive world models.
+- [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) & [JoyAI-Echo-WM](https://arxiv.org/pdf/2608.23189) (Technical Report, 2026), SoTA audio-video generation & interactive world models.
 - [JoyAI-VL-Interaction](https://arxiv.org/pdf/2606.14777) (Technical Report, 2026), a SoTA real-time vision-language interaction model.
 - [JoyAI-Video-Edit](https://arxiv.org/pdf/2608.03974) (Technical Report, 2026), a SoTA real-time streaming video editing model.
 - [JoyAI-Image-Edit](https://joyai-image.s3.cn-north-1.jdcloud-oss.com/JoyAI-Image.pdf) (Technical Report, 2026), a unified image understanding and generation model with spatial intelligence.
