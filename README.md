@@ -1,12 +1,12 @@
-## Nan DUAN (段楠) 
-
 <img
   src="me.linkedin.jpg"
   width="180"
   align="left"
   alt="Nan Duan"
-  hspace="20"
+  style="margin-right: 28px;"
 />
+
+## Nan DUAN (段楠) 
 
 AGI Researcher
 
