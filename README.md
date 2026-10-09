@@ -1,4 +1,11 @@
-<img src="me.linkedin.jpg" width="180" align="left" alt="Nan Duan" />
+<img
+  src="me.linkedin.jpg"
+  width="180"
+  align="left"
+  alt="Nan Duan"
+  hspace="20"
+  vspace="5"
+/>
 
 ## Nan DUAN (段楠) 
 
