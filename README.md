@@ -4,7 +4,7 @@
 
 Vice President at JD.COM · Deputy Director of Joy Future Academy
 
-[Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/) \| [京东探索研究院](https://research.joyai.com/) \| [Official Email](mailto:duannan@jd.com) \| [Personal Email](mailto:nanduan.nlp@outlook.com)
+[Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/) \| [京东探索研究院](https://research.joyai.com/) \| [Work Email](mailto:duannan@jd.com) \| [Personal Email](mailto:nanduan.nlp@outlook.com)
 
 <!--
 ### <span style="color: #ff0000;">We are hiring researchers and interns: duannan@jd.com (official) or nanduan.nlp@outlook.com (personal).</span>
