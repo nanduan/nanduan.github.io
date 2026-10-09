@@ -4,7 +4,6 @@
   align="left"
   alt="Nan Duan"
   hspace="20"
-  vspace="5"
 />
 
 ## Nan DUAN (段楠) 
