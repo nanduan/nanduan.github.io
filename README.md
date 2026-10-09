@@ -1,17 +1,3 @@
-<table> <tr> <td width="210" valign="top" align="center"> <img src="me.linkedin.jpg" width="180" alt="Nan Duan" /> </td> <td valign="middle">
-  <h2>Nan Duan (段楠)</h2>
-  <p><strong>AGI Researcher</strong></p>
-  <p>Vice President at JD.COM · Deputy Director of Joy Future Academy</p>
-  <p>
-    <a href="https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&amp;hl=en">Google Scholar</a> |
-    <a href="https://www.linkedin.com/in/nan-duan-322739a/">LinkedIn</a> |
-    <a href="https://research.joyai.com/">Joy Future Academy</a> |
-    <a href="mailto:duannan@jd.com">Work Email</a> |
-    <a href="mailto:nanduan.nlp@outlook.com">Personal Email</a>
-  </p>
-</td>
-</tr> </table>
-
 <img
   src="me.linkedin.jpg"
   width="180"
