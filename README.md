@@ -2,6 +2,8 @@
 
 ## Nan DUAN (段楠) 
 
+AGI Researcher
+
 Vice President at JD.COM · Deputy Director of Joy Future Academy
 
 [Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/) \| [京东探索研究院](https://research.joyai.com/) \| [Work Email](mailto:duannan@jd.com) \| [Personal Email](mailto:nanduan.nlp@outlook.com)
