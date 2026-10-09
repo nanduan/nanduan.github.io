@@ -6,7 +6,7 @@
   <h2>Nan Duan (段楠)</h2>
   <p><strong>Vice President at JD.COM</strong></p>
   <p><strong>Deputy Director of Joy Future Academy</strong></p>
-  <p><strong>Foundation Models · Code Agents · Embodied Intelligence</strong></p>
+  <p><strong>AGI · Foundation Models · Embodied Intelligence</strong></p>
   <p>
     <a href="https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&amp;hl=en">Google Scholar</a> |
     <a href="https://www.linkedin.com/in/nan-duan-322739a/">LinkedIn</a> |
