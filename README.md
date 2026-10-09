@@ -1,4 +1,4 @@
-<img src="me.linkedin.jpg" width="180" align="right" alt="Nan Duan" />
+<img src="me.linkedin.jpg" width="180" align="left" alt="Nan Duan" />
 ## Nan DUAN (段楠) 
 [Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/) \| [京东探索研究院](https://research.joyai.com/)
 
