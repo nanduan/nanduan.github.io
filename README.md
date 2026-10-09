@@ -4,8 +4,8 @@
 
 <table border="0" style="border: none; border-collapse: collapse;"> <tr> <td width="210" valign="top" align="center" style="border: none; padding: 0 20px 0 0;"> <img src="me.linkedin.jpg" width="100%" alt="Nan Duan" /> </td> <td valign="middle" style="border: none; padding: 0;">
   <h2>Nan Duan (段楠)</h2>
-  <p><strong>AGI Researcher</strong></p>
-  <p><strong>Vice President at JD.COM · Deputy Director of Joy Future Academy</strong></p>
+  <p><strong>Vice President at JD.COM</strong></p>
+  <p><strong>Deputy Director of Joy Future Academy</strong></p>
   <p><strong>Foundation Models · Code Agents · Embodied Intelligence</strong></p>
   <p>
     <a href="https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&amp;hl=en">Google Scholar</a> |
