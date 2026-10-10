@@ -1,12 +1,13 @@
 <table border="0" style="border: none; border-collapse: collapse;"> <tr> <td width="210" valign="top" align="center" style="border: none; padding: 0 20px 0 0;"> <img src="me.linkedin.jpg" width="100%" alt="Nan Duan" /> </td> <td valign="middle" style="border: none; padding: 0;">
   <h2>Nan Duan (段楠)</h2>
+  <p><strong>AI Researcher</strong></p>
   <p><strong>Vice President at JD.COM</strong></p>
-  <p><strong>Deputy Director of <a href="https://research.joyai.com/">Joy Future Academy</a></strong></p>
+  <p><strong>Deputy Director of Joy Future Academy</strong></p>
   <p><strong>AGI · Foundation Models · Embodied Intelligence</strong></p>
 </td>
 </tr> </table>
 
-[Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/) \| [京东探索研究院](https://research.joyai.com/) \| [Work Email](mailto:duannan@jd.com) \| [Personal Email](mailto:nanduan.nlp@outlook.com)
+[Google Scholar](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nan-duan-322739a/) \| [Joy Future Academy at JD.COM (京东探索研究院)](https://research.joyai.com/) \| [Work Email](mailto:duannan@jd.com) \| [Personal Email](mailto:nanduan.nlp@outlook.com)
 
 <!--
 <p>
