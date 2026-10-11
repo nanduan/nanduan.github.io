@@ -686,18 +686,18 @@ Dr. Nan Duan is Vice President at JD.COM and Deputy Director of Joy Future Acade
 
 - Adjunct Ph.D. Supervisor at University of Science and Technology of China, Xi’an Jiaotong University, Xiamen University, and Tianjin University.
 - Program Committee Chair of NLPCC, 2023.
-- Senior Action Editor & Senior Area Chair for ACL Rolling Review (ARR), NeurIPS, ACL, EMNLP, NAACL, and SIGKDD.
-- Standing Reviewer for TACL, 2020-present.
+- Senior Action Editor & Senior Area Chair for TACL, ACL, EMNLP, NAACL, NeurIPS, ICLR, CVPR, SIGKDD, etc.
+- Standing Reviewer for , 2020-present.
 - Executive Member of the China Society of Image and Graphics (CSIG), 2025-present.
-- Executive Member of the CCF Technical Committee of NLP, 2018-present.
+- Executive Member of the CCF Technical Committee of NLP (TCNLP), 2018-present.
 - Senior Member of IEEE.
 - Distinguished Member of CCF.
-- AI 2000 Most Influential Scholar Award Honorable Mention in NLP, [2025](https://www.aminer.cn/ai2000/search_rank?id=53f430f7dabfaeb1a7bb8a69&searchValue=%E6%AE%B5%E6%A5%A0&yearLeft=2015&yearRight=2024).
-- Stanford/Elsevier World’s Top 2% Scientists, 2022-present. 
+- [AI 2000 Most Influential Scholar Award Honorable Mention in NLP](https://www.aminer.cn/profile/nan-duan/53f430f7dabfaeb1a7bb8a69), 2025-present.
+- [Stanford/Elsevier World’s Top 2% Scientists](https://topscinet.com/scientist_profile/Duan,%20Nan/2008/?stype=single_year), 2022-present. 
 - [Intelligent Computing Innovators China](https://mp.weixin.qq.com/s/6nwgZqgTcXLEmixdIgshyg) (中国智能计算科技创新人物), 2023.
 - [CCF-NLPCC Distinguished Young Scientist Award](https://www.ccf.org.cn/Chapters/TC/News/2019-10-31/671168.shtml) (CCF-NLPCC青年科学家奖), 2019.
-- NeurIPS Best Paper Runner-Up Award, 2024.
-- CVPR Best Demo Award, 2022.
+- Best Paper Runner-Up, NeurIPS 2024.
+- Best Demo Award, CVPR 2022.
 
 <!--
 ### Lecture (2017-present)
