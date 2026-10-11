@@ -687,7 +687,6 @@ Dr. Nan Duan is Vice President at JD.COM and Deputy Director of Joy Future Acade
 - Adjunct Ph.D. Supervisor at University of Science and Technology of China, Xi’an Jiaotong University, Xiamen University, and Tianjin University.
 - Program Committee Chair of NLPCC, 2023.
 - Senior Action Editor & Senior Area Chair for TACL, ACL, EMNLP, NAACL, NeurIPS, ICLR, CVPR, SIGKDD, etc.
-- Standing Reviewer for , 2020-present.
 - Executive Member of the China Society of Image and Graphics (CSIG), 2025-present.
 - Executive Member of the CCF Technical Committee of NLP (TCNLP), 2018-present.
 - Senior Member of IEEE.
