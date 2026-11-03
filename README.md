@@ -3,7 +3,7 @@
   <p><strong>AI Researcher</strong></p>
   <p><strong>Member of the Strategy Executive Committee (SEC) at JD.Com</strong></p>
   <p><strong>Vice Chairman of the JD.Com AI Committee</strong></p>
-  <p><strong>Deputy Director of Joy Future Academy</strong></p>
+  <p><strong>Deputy Managing Director of Joy Future Academy</strong></p>
 </td>
 </tr> </table>
 
