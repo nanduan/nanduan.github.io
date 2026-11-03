@@ -1,9 +1,9 @@
 <table border="0" style="border: none; border-collapse: collapse;"> <tr> <td width="210" valign="top" align="center" style="border: none; padding: 0 20px 0 0;"> <img src="me.linkedin.jpg" width="100%" alt="Nan Duan" /> </td> <td valign="middle" style="border: none; padding: 0;">
   <h2>Nan Duan (段楠)</h2>
   <p><strong>AI Researcher</strong></p>
-  <p><strong>Member of the Strategy Executive Committee (SEC) at JD.Com</strong></p>
-  <p><strong>Vice Chairman of the JD.Com AI Committee</strong></p>
-  <p><strong>Deputy Managing Director of Joy Future Academy</strong></p>
+  <p><strong>Member of the SEC at JD.Com</strong></p>
+  <p><strong>Vice Chairman of the AI Committee at JD.Com</strong></p>
+  <p><strong>Deputy Managing Director of Joy Future Academy at JD.Com</strong></p>
 </td>
 </tr> </table>
 
@@ -27,7 +27,7 @@ Foundation Models · Code Agents · Embodied Intelligence
 <br clear="left" />
 -->
 
-Dr. Nan Duan is a member of the Strategy Executive Committee (SEC) at JD.Com, Vice Chairman of the JD.Com AI Committee, and Deputy Managing Director of Joy Future Academy, where he leads foundation model research spanning language, audio, vision, and embodied AI. Previously, he served as a Technical Fellow at StepFun and as a Senior Principal Researcher at Microsoft Research Asia. Dr. Duan is an adjunct Ph.D. supervisor at the University of Science and Technology of China, Xi’an Jiaotong University, Xiamen University, and Tianjin University. His research interests include natural language processing, code agents, multimodal foundation models, and embodied intelligence. He has published more than 200 research papers in top-tier conferences and journals, with over 40,000 citations and an h-index of 85+, and holds more than 20 patents. In 2019, he was named a CCF-NLPCC Distinguished Young Scientist for his contributions to natural language processing. In 2023, he was recognized as one of DeepTech China’s Intelligent Computing Innovators for his contributions to AI foundation models.
+Dr. Nan Duan serves at JD.com as a member of the Strategy Executive Committee (SEC), Vice Chairman of the JD.com AI Committee, and Deputy Managing Director of Joy Future Academy, where he leads foundation model research spanning language, audio, vision, and embodied AI. Previously, he served as a Technical Fellow at StepFun and as a Senior Principal Researcher at Microsoft Research Asia. Dr. Duan is an adjunct Ph.D. supervisor at the University of Science and Technology of China, Xi’an Jiaotong University, Xiamen University, and Tianjin University. His research interests include natural language processing, code agents, multimodal foundation models, and embodied intelligence. He has published more than 200 research papers in top-tier conferences and journals, with over 40,000 citations and an h-index of 85+, and holds more than 20 patents. In 2019, he was named a CCF-NLPCC Distinguished Young Scientist for his contributions to natural language processing. In 2023, he was recognized as one of DeepTech China’s Intelligent Computing Innovators for his contributions to AI foundation models.
 
 段楠博士，京东集团战略执行委员会(SEC)委员、京东集团AI委员会副主席、京东集团探索研究院副院长，领导语言、语音、视觉和具身智能领域的基础模型研究。此前，他曾任阶跃星辰 Technical Fellow、微软亚洲研究院资深首席研究员。段博士现为中国科学技术大学、西安交通大学、厦门大学和天津大学兼职博士生导师。他的研究方向包括自然语言处理、代码智能体、多模态基础模型和具身智能。在顶级会议和期刊上发表论文200余篇，论文累计引用超过40,000次，h-index达85+，拥有20余项专利。2019年，他因在自然语言处理领域的贡献获评CCF-NLPCC杰出青年科学家。2023年，他因在人工智能基础模型领域的贡献入选DeepTech中国智能计算创新人物。
 
