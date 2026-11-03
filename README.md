@@ -1,9 +1,9 @@
 <table border="0" style="border: none; border-collapse: collapse;"> <tr> <td width="210" valign="top" align="center" style="border: none; padding: 0 20px 0 0;"> <img src="me.linkedin.jpg" width="100%" alt="Nan Duan" /> </td> <td valign="middle" style="border: none; padding: 0;">
   <h2>Nan Duan (段楠)</h2>
   <p><strong>AI Researcher</strong></p>
-  <p><strong>Vice President at JD.COM</strong></p>
+  <p><strong>Member of the Strategy Executive Committee (SEC) at JD.Com</strong></p>
+  <p><strong>Vice Chairman of the JD.Com AI Committee</strong></p>
   <p><strong>Deputy Director of Joy Future Academy</strong></p>
-  <p><strong>AGI · Foundation Models · Embodied Intelligence</strong></p>
 </td>
 </tr> </table>
 
