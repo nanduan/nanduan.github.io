@@ -1,7 +1,7 @@
 <table border="0" style="border: none; border-collapse: collapse;"> <tr> <td width="210" valign="top" align="center" style="border: none; padding: 0 20px 0 0;"> <img src="me.linkedin.jpg" width="100%" alt="Nan Duan" /> </td> <td valign="middle" style="border: none; padding: 0;">
   <h2>Nan Duan (段楠)</h2>
   <p><strong>AI Researcher</strong></p>
-  <p><strong>Member of the SEC at JD.Com</strong></p>
+  <p><strong>VP & Member of the SEC at JD.Com</strong></p>
   <p><strong>Vice Chairman of the AI Committee at JD.Com</strong></p>
   <p><strong>Deputy Managing Director of Joy Future Academy at JD.Com</strong></p>
 </td>
