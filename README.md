@@ -27,9 +27,9 @@ Foundation Models · Code Agents · Embodied Intelligence
 <br clear="left" />
 -->
 
-Dr. Nan Duan serves at JD.Com as Vice President, a member of the Strategy Executive Committee (SEC), Vice Chairman of the AI Committee, and Managing Director of Joy Future Academy, where he leads foundation model research spanning language, audio, vision, and embodied AI. Previously, he was a Technical Fellow & Vice President at StepFun and a Senior Principal Researcher at Microsoft Research Asia. Dr. Duan is an adjunct Ph.D. supervisor at the University of Science and Technology of China, Xi’an Jiaotong University, Xiamen University, and Tianjin University. His research interests include natural language processing, foundation models, and embodied intelligence. He has published more than 200 research papers in top-tier conferences and journals, with over 40,000 citations and an h-index of 85+, and holds more than 20 patents. In 2019, he was named a CCF-NLPCC Distinguished Young Scientist for his contributions to natural language processing. In 2023, he was recognized as one of DeepTech China’s Intelligent Computing Innovators for his contributions to AI foundation models.
+Dr. Nan Duan serves at JD.Com as Vice President, a member of the Strategy Executive Committee (SEC), Vice Chairman of the AI Committee, and Managing Director of Joy Future Academy, where he leads foundation model research spanning language, audio, vision, and embodied AI. Previously, he was a Technical Fellow & Vice President at StepFun and a Senior Principal Researcher at Microsoft Research Asia. Dr. Duan is an adjunct Ph.D. supervisor at the University of Science and Technology of China, Xi’an Jiaotong University, Xiamen University, and Tianjin University. His research interests include natural language processing, foundation models, and embodied intelligence. He has published more than 200 research papers in top-tier conferences and journals, with over 40,000 citations and an h-index of 85+, and holds more than 20 patents. Dr. Duan was recognized as CCF-NLPCC Distinguished Young Scientist (2019), DeepTech China’s Intelligent Computing Innovators (2022), for his contributions to AI.
 
-段楠博士，京东集团副总裁、战略执行委员会(SEC)委员、AI委员会副主席、探索研究院院长，领导语言、语音、视觉和具身智能领域的基础模型研究。此前，他曾任阶跃星辰Technical Fellow和副总裁、微软亚洲研究院资深首席研究员。段博士是中国科学技术大学、西安交通大学、厦门大学和天津大学兼职博士生导师。他的研究方向包括自然语言处理、基础模型和具身智能。在顶级会议和期刊上发表论文200余篇，论文累计引用40,000+，h-index 85+，拥有20余项专利。2019年，他因在自然语言处理领域的贡献获评CCF-NLPCC杰出青年科学家。2023年，他因在人工智能基础模型领域的贡献入选DeepTech中国智能计算创新人物。
+段楠博士，京东集团副总裁、战略执行委员会(SEC)委员、AI委员会副主席、探索研究院院长，领导语言、语音、视觉和具身智能领域的基础模型研究。此前，他曾任阶跃星辰Technical Fellow和副总裁、微软亚洲研究院资深首席研究员。段博士是中国科学技术大学、西安交通大学、厦门大学和天津大学兼职博士生导师。他的研究方向包括自然语言处理、基础模型和具身智能。在顶级会议和期刊上发表论文200余篇，论文累计引用40,000+，h-index 85+，拥有20余项专利。因在人工智能领域的贡献，段博士获评CCF-NLPCC杰出青年科学家(2019)，DeepTech中国智能计算创新人物(2022)。
 
 ### Highlight
 
@@ -693,7 +693,7 @@ Dr. Nan Duan serves at JD.Com as Vice President, a member of the Strategy Execut
 - Distinguished Member of CCF.
 - [AI 2000 Most Influential Scholar Award Honorable Mention in NLP](https://www.aminer.cn/profile/nan-duan/53f430f7dabfaeb1a7bb8a69), 2025-present.
 - [Stanford/Elsevier World’s Top 2% Scientists](https://topscinet.com/scientist_profile/Duan,%20Nan/2008/?stype=single_year), 2023-present. 
-- [Intelligent Computing Innovators China](https://mp.weixin.qq.com/s/6nwgZqgTcXLEmixdIgshyg) (中国智能计算科技创新人物), 2023.
+- [Intelligent Computing Innovators China](https://mp.weixin.qq.com/s/6nwgZqgTcXLEmixdIgshyg) (中国智能计算科技创新人物), 2022.
 - [CCF-NLPCC Distinguished Young Scientist Award](https://www.ccf.org.cn/Chapters/TC/News/2019-10-31/671168.shtml) (CCF-NLPCC青年科学家奖), 2019.
 - Best Paper Runner-Up, NeurIPS 2024.
 - Best Demo Award, CVPR 2022.
